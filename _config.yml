@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tal Hassner / Home Page"
+title                    : "Tal Hassner"
 title_separator          : "-"
 name                     : &name "Tal Hassner"
-description              : &description "personal description"
+description              : &description "Tal Hassner at the Open University of Israel"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -54,12 +54,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -79,7 +73,7 @@ analytics:
 # Site Author
 author:
   name             : "Tal Hassner"
-  avatar           : "tal.png"
+  avatar           : "_images/tal.png"
   bio              : "Starting August 2015 I will be on sabbatical and taking up a position of Senior Computer Scientist  at the University of Southern California (USC), Viterbi School of Engineering, Information Sciences Institute (ISI)."
   location         : "Location"
   employer         : 
@@ -92,19 +86,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
