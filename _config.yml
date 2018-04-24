@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tal Hassner"
   avatar           : "tal.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Starting August 2015 I will be on sabbatical and taking up a position of Senior Computer Scientist  at the University of Southern California (USC), Viterbi School of Engineering, Information Sciences Institute (ISI)."
   location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=ehe5pyIAAAAJ&hl=en"
+  email            : "talhassner@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
