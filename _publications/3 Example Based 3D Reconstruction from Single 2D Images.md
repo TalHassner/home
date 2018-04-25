@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Example Based 3D Reconstruction from Single 2D Images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/3 Example Based 3D Reconstruction from Single 2D Images
+excerpt: ''
+date: June 2006
+venue: 'Beyond Patches Workshop at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New-York'
+paperurl: 'http://osnathassner.github.io/files/talhassner/paper1.pdf'
+citation: 'Tal Hassner and Ronen Basri (2006). &quot;Example Based 3D Reconstruction from Single 2D Images.&quot; <i>Beyond Patches Workshop at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New-York</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Patent pending.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://osnathassner.github.io/talhassner/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tal Hassner and Ronen Basri. (2006). "Example Based 3D Reconstruction from Single 2D Images." <i>Beyond Patches Workshop at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New-York</i>.
