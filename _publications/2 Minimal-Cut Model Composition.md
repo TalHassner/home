@@ -11,6 +11,5 @@ citation: 'Tal Hassner, Lihi Zelnik-Manor, George Leifman, and Ronen Basri. (200
 Best Student Paper Award at SMI 2005; Patent pending
 
 [Download paper here](http://www.wisdom.weizmann.ac.il/~vision/MCMC/SMI05_MinCutModelComposition.pdf)
-[You Can find Project here](http://www.wisdom.weizmann.ac.il/~vision/MCMC/)
 
 Recommended citation: Tal Hassner, Lihi Zelnik-Manor, George Leifman, and Ronen Basri. (2005). "Minimal-Cut Model Composition." <i>International Conference on Shape Modeling and Applications (SMI), Boston</i>.
