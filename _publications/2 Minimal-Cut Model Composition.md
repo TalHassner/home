@@ -2,7 +2,7 @@
 title: "Minimal-Cut Model Composition"
 collection: publications
 permalink: /publication/2 Minimal-Cut Model Composition
-excerpt: 'Best Student Paper Award at SMI 2005; Patent pending'
+excerpt: 'Best Student Paper Award at SMI 2005; Patent pending. BBBBBBBB'
 date: June 2005
 venue: 'International Conference on Shape Modeling and Applications (SMI), Boston'
 paperurl: 'http://www.wisdom.weizmann.ac.il/~vision/MCMC/SMI05_MinCutModelComposition.pdf'
