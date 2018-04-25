@@ -8,7 +8,6 @@ venue: 'Asian Conference on Computer Vision (ACCV), Xi' an'
 paperurl: 'http://osnathassner.github.io/talhassner/files/paper1.pdf'
 citation: 'Lior Wolf, Tal Hassner, and Yaniv Taigman. (2009). &quot;Similarity Scores based on Background Samples.&quot; <i>Asian Conference on Computer Vision (ACCV), Xi' an</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://osnathassner.github.io/talhassner/files/paper1.pdf)
 
