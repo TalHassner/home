@@ -8,7 +8,7 @@ venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(2)'
 paperurl: 'http://osnathassner.github.io/talhassner/files/paper1.pdf'
 citation: 'Ronen Basri, Tal Hassner, and Lihi Zelnik-Manor*. (2011). &quot;Approximate Nearest Subspace Search.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(2)</i>.'
 ---
-Editor's selection for spotlight paper.
+"Editor's selection for spotlight paper"
 *Author names in alphabetical order due to equal contribution.
 
 [Download paper here](http://osnathassner.github.io/talhassner/files/paper1.pdf)
