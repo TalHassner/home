@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The One-Shot Similarity Kernel"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/10 The One-Shot Similarity Kernel.md
+excerpt: ''
+date: September 2009
+venue: 'IEEE International Conference on Computer Vision (ICCV), Kyoto'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lior Wolf, Tal Hassner, and Yaniv Taigman. (2009). &quot;The One-Shot Similarity Kernel.&quot; <i>IEEE International Conference on Computer Vision (ICCV), Kyoto</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://osnathassner.github.io/talhassner/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Lior Wolf, Tal Hassner, and Yaniv Taigman. (2009). "The One-Shot Similarity Kernel." <i>IEEE International Conference on Computer Vision (ICCV), Kyoto</i>.
