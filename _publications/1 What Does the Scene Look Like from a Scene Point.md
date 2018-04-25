@@ -2,7 +2,7 @@
 title: "What Does the Scene Look Like from a Scene Point????"
 collection: publications
 permalink: /publication/1 What Does the Scene Look Like from a Scene Point
-excerpt: 
+excerpt: 'WHATTTTTT'
 date: May 2002
 venue: 'European Conference on Computer Vision (ECCV)'
 paperurl: 'http://osnathassner.github.io/talhassner/files/paper1.pdf'
