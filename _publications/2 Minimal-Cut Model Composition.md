@@ -5,7 +5,7 @@ permalink: /publication/2 Minimal-Cut Model Composition
 excerpt: ''
 date: June 2005
 venue: 'International Conference on Shape Modeling and Applications (SMI), Boston'
-paperurl: 'http://osnathassner.github.io/talhassner/files/paper1.pdf'
+paperurl: 'http://www.wisdom.weizmann.ac.il/~vision/MCMC/SMI05_MinCutModelComposition.pdf'
 citation: 'Tal Hassner, Lihi Zelnik-Manor, George Leifman, and Ronen Basri. (2005). &quot;Minimal-Cut Model Composition.&quot; <i>International Conference on Shape Modeling and Applications (SMI), Boston</i>.'
 ---
 Best Student Paper Award at SMI 2005; Patent pending
