@@ -8,4 +8,4 @@ venue: 'Beyond Patches Workshop at IEEE Conference on Computer Vision and Patter
 paperurl: 'http://www.wisdom.weizmann.ac.il/~vision/By_Example_Reconstruction/BP06_HASSNER_T.pdf'
 citation: 'Tal Hassner and Ronen Basri (2006). &quot;Example Based 3D Reconstruction from Single 2D Images.&quot; <i>Beyond Patches Workshop at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New-York</i>.'
 ---
-Patent pending.
+Patent pending...........
