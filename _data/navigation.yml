@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Data"
-    url: /talks/    
+    url: /data/    
 
   - title: "Code"
-    url: /teaching/    
+    url: /code/    
     
   - title: "Students"
-    url: /portfolio/
+    url: /students/
     
   - title: "Media / Videos"
     url: /media/
