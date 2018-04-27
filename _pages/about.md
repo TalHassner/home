@@ -88,17 +88,17 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 - June 23rd, 2014: 
 **Invited speaker** at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision]http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio
 
-- May 21st, 2013: 
-[**Area chair**](http://www.pamitc.org/cvpr14/people.php) for [CVPR'14](http://www.pamitc.org/cvpr14/), Columbus, Ohio
-
 - December 7th, 2013: 
 **Invited speaker** at [THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes](http://crcv.ucf.edu/ICCV13-Action-Workshop/), ICCV'13, Sydney, Australia ([Talk video](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269))
 
 - December 2nd, 2013: 
-**Invited talk** at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](https://www.openu.ac.il/home/hassner/Events/DenseCorrespondencesICCV13/DenseCorrespondences_web.pdf), [PPTX](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pptx))
+**Invited talk** at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pdf), [PPTX](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pptx))
 
 - June 23rd, 2013: 
 **Co-organizer** of the [International Workshop on Action Similarity in Unconstrained Videos](https://www.openu.ac.il/home/hassner/Events/ACTS13/ACTS.html) (ACTS'13), held in conjunction with [CVPR'13](http://www.pamitc.org/cvpr13/), Portland, Oregon
+
+- May 21st, 2013: 
+[**Area chair**](http://www.pamitc.org/cvpr14/people.php) for [CVPR'14](http://www.pamitc.org/cvpr14/), Columbus, Ohio
 
 - May 13th, 2013: 
 **Co-organizer** of the [OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society](https://www.openu.ac.il/events/130513.html). Videos lectures are [available online](https://www.youtube.com/playlist?list=PLEMOEwdRMCam73cqlLrin97B0nQE5vode). (Hebrew)
