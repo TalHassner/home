@@ -1,5 +1,5 @@
 ---
-title: "Example Based 3D Reconstruction from Single 2D Images"
+title: "<img src='https://osnathassner.github.io/talhassner/images/Example Based 3D Reconstruction from Single 2D Images - Icon.jpg' height='60' width='60'> Example Based 3D Reconstruction from Single 2D Images"
 collection: publications
 permalink: /publication/3 Example Based 3D Reconstruction from Single 2D Images
 excerpt: 'Patent pending'
