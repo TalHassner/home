@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tal Hassner - Home"
+title: "Tal Hassner"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,16 +21,20 @@ Office phone:  +972-9-778-1261
 Office Fax:  +972-9-778-0605
 E-Mail: talhassner@gmail.com
 
+[IEEE Signal Processing Society]
+
 Research interests
 ======
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
 
 Events and news
 ======
-Dec. 6th, 2017
+- December 6th, 2017
 Workshop Chair for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- December 1st, 2017
+Excited to announce that Roee Enbar was selected for the 2017 SPS Young Author Best Paper Award by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](https://www.openu.ac.il/home/hassner/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+
 
 A data-driven personal website
 ======
