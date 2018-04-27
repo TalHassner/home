@@ -68,7 +68,7 @@ Our [LATCH descriptor](https://www.openu.ac.il/home/hassner/projects/LATCH/) has
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
 
 - March 24th, 2015: 
-Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF](https://www.openu.ac.il/home/hassner/projects/LATCH/LATCH.pdf), [Project and Code](https://www.openu.ac.il/home/hassner/projects/LATCH/))
+Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF](https://osnathassner.github.io/talhassner/files/LATCH.pdf), [Project and Code](https://www.openu.ac.il/home/hassner/projects/LATCH/))
 
 - March 24th, 2015: 
 **Invited speaker** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC), one hour tutorial on "A Short Intro to Deep Learning for Face Recognition"
