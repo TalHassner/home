@@ -1,8 +1,9 @@
 ---
 title: "Minimal-Cut Model Composition"
+<img src='/images/Minimal Cut Model Composition - Icon.png'>
 collection: publications
 permalink: /publication/2 Minimal-Cut Model Composition
-excerpt: 'Best Student Paper Award at SMI 2005; Patent pending. <img src='/images/Minimal Cut Model Composition - Icon.png'>'
+excerpt: 'Best Student Paper Award at SMI 2005; Patent pending.'
 date: June 2005
 venue: 'International Conference on Shape Modeling and Applications (SMI), Boston'
 paperurl: ''
