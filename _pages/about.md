@@ -53,7 +53,7 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 **Biometrics Research Award**, awarded by the [The Biometric Applications Commissioner](http://bioapp.gov.il/Pages/Home.aspx), Israeli Prime Minister's Office
 
 - August 30th, 2016:
-[**Workshop Co-Chair**] for [AVSS'17](http://www.avss2017.org/), Lecce, Italy. Call for workshops is [now available](http://www.avss2017.org/?page_id=119).
+[**Workshop Co-Chair**](http://www.avss2017.org/?page_id=16) for [AVSS'17](http://www.avss2017.org/), Lecce, Italy. Call for workshops is [now available](http://www.avss2017.org/?page_id=119).
 
 - August 20th, 2016: 
 [**Demo Chair and Area chair**](http://pamitc.org/wacv2017/people/) for [WACV'17](http://pamitc.org/wacv2017/), Santa Rosa, CA. Please see [call for demos](http://pamitc.org/wacv2017/calls/call-for-demos/) for more information.
