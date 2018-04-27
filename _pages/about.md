@@ -86,7 +86,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 **Invited talk** at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/files/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx))
 
 - June 23rd, 2014: 
-**Invited speaker** at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision]http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio
+**Invited speaker** at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision](http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio
 
 - December 7th, 2013: 
 **Invited speaker** at [THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes](http://crcv.ucf.edu/ICCV13-Action-Workshop/), ICCV'13, Sydney, Australia ([Talk video](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269))
