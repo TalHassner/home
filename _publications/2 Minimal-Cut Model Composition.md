@@ -1,5 +1,5 @@
 ---
-title: <img src='https://github.com/osnathassner/talhassner/blob/master/images/Minimal%20Cut%20Model%20Composition%20-%20Icon.png'> "Minimal-Cut Model Composition"
+title: '<img src='https://github.com/osnathassner/talhassner/blob/master/images/Minimal%20Cut%20Model%20Composition%20-%20Icon.png'> "Minimal-Cut Model Composition" '
 collection: publications
 permalink: /publication/2 Minimal-Cut Model Composition
 excerpt: 'Best Student Paper Award at SMI 2005; Patent pending.'
