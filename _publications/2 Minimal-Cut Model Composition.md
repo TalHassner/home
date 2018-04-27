@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/Minimal Cut Model Composition - Icon.png'> Minimal-Cut Model Composition"
+title: "<img src='/images/Minimal Cut Model Composition - Icon.png' height="42" width="42"> Minimal-Cut Model Composition"
 collection: publications
 permalink: /publication/2 Minimal-Cut Model Composition
 excerpt: 'Best Student Paper Award at SMI 2005; Patent pending.'
