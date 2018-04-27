@@ -21,8 +21,6 @@ Office phone:  +972-9-778-1261
 Office Fax:  +972-9-778-0605
 E-Mail: talhassner@gmail.com
 
-[IEEE Signal Processing Society]
-
 Research interests
 ======
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
@@ -30,7 +28,7 @@ I am an Associate Professor at the Open University of Israel, Department of Math
 Events and news
 ======
 - December 6th, 2017: 
-Workshop Chair for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
+*Workshop Chair* for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
 - December 1st, 2017: 
 Excited to announce that Roee Enbar was selected for the 2017 SPS Young Author Best Paper Award by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](https://www.openu.ac.il/home/hassner/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
@@ -83,31 +81,31 @@ Co-organizer of the [OpenU Symposium on Surveillance and Tracking](https://www.o
 Co-organizer of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on ["Digital Palaeography: New Machines and Old Texts"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=14302)
 
 - June 23rd, 2014: 
-Invited talk at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/publications/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx))
+Invited talk at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/files/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx))
 
 - June 23rd, 2014: 
-Invited speaker at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision]http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/publications/))
+Invited speaker at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision]http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/files/Hassner_POCV14_upload.pptx))
 
 - May 21st, 2013: 
-Area chair for CVPR'14, Columbus, Ohio
+[Area chair](http://www.pamitc.org/cvpr14/people.php) for [CVPR'14](http://www.pamitc.org/cvpr14/), Columbus, Ohio
 
 - December 7th, 2013: 
-Invited speaker at THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes, ICCV'13, Sydney, Australia (Talk video)
+Invited speaker at [THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes](http://crcv.ucf.edu/ICCV13-Action-Workshop/), ICCV'13, Sydney, Australia ([Talk video](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269))
 
 - December 2nd, 2013: 
-Invited talk at the ICCV'13 tutorial on Dense Image Correspondences for Computer Vision, Sydney Australia (talk slides: PDF, PPTX)
+Invited talk at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](https://www.openu.ac.il/home/hassner/Events/DenseCorrespondencesICCV13/DenseCorrespondences_web.pdf), [PPTX](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pptx))
 
 - June 23rd, 2013: 
-Co-organizer of the International Workshop on Action Similarity in Unconstrained Videos (ACTS'13), held in conjunction with CVPR'13, Portland, Oregon
+Co-organizer of the [International Workshop on Action Similarity in Unconstrained Videos](https://www.openu.ac.il/home/hassner/Events/ACTS13/ACTS.html) (ACTS'13), held in conjunction with [CVPR'13](http://www.pamitc.org/cvpr13/), Portland, Oregon
 
 - May 13th, 2013: 
-Co-organizer of the OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society. Videos lectures are available online. (Hebrew)
+Co-organizer of the [OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society](https://www.openu.ac.il/events/130513.html). Videos lectures are [available online](https://www.youtube.com/playlist?list=PLEMOEwdRMCam73cqlLrin97B0nQE5vode). (Hebrew)
 
 - September 19th - 21st, 2012: 
-Co-organizer of the Schloss Dagstuhl - Leibniz Center for Informatics, Perspective Workshop on "Computation and Palaeography: Potentials and Limits"
+Co-organizer of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Perspective Workshop](https://www.dagstuhl.de/programm/dagstuhl-perspektiven/) on ["Computation and Palaeography: Potentials and Limits"](https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=12382)
 
 - January 9th, 2012: 
-Co-organizer of the popular science Symposium on Human and Machine Vision. Videos lectures are available online. (Hebrew)
+Co-organizer of the popular science [Symposium on Human and Machine Vision](https://www.openu.ac.il/events/chais-shoam/090112.html). Videos lectures are [available online](https://www.youtube.com/course?list=EC45E7A9494A711DE3). (Hebrew)
 
 
 A data-driven personal website
