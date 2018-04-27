@@ -83,10 +83,10 @@ Co-organizer of the [OpenU Symposium on Surveillance and Tracking](https://www.o
 Co-organizer of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on ["Digital Palaeography: New Machines and Old Texts"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=14302)
 
 - June 23rd, 2014: 
-Invited talk at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX]())
+Invited talk at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/publications/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx))
 
 - June 23rd, 2014: 
-Invited speaker at POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision, CVPR'14, Columbus, Ohio (talk slides: PPTX)
+Invited speaker at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision]http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/publications/))
 
 - May 21st, 2013: 
 Area chair for CVPR'14, Columbus, Ohio
