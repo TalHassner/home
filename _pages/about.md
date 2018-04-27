@@ -29,10 +29,10 @@ I am an Associate Professor at the Open University of Israel, Department of Math
 
 Events and news
 ======
-- December 6th, 2017
+- December 6th, 2017: 
 Workshop Chair for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
-- December 1st, 2017
+- December 1st, 2017: 
 Excited to announce that Roee Enbar was selected for the 2017 SPS Young Author Best Paper Award by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](https://www.openu.ac.il/home/hassner/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
 
 
