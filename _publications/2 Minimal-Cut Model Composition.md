@@ -1,5 +1,5 @@
 ---
-title: "Minimal-Cut Model Composition"
+title: <img src='/images/Minimal Cut Model Composition - Icon.png'> "Minimal-Cut Model Composition"
 collection: publications
 permalink: /publication/2 Minimal-Cut Model Composition
 excerpt: 'Best Student Paper Award at SMI 2005; Patent pending.'
@@ -10,4 +10,4 @@ citation: 'Tal Hassner, Lihi Zelnik-Manor, George Leifman, and Ronen Basri. (200
 ---
 
 [Download paper here](http://www.wisdom.weizmann.ac.il/~vision/MCMC/SMI05_MinCutModelComposition.pdf)
-<img src='/images/Minimal Cut Model Composition - Icon.png'>
+
