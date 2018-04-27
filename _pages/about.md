@@ -1,12 +1,25 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tal Hassner - Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Starting August 2015 I will be on sabbatical and taking up a position of Senior Computer Scientist  at the University of Southern California (USC), Viterbi School of Engineering, Information Sciences Institute (ISI).
+
+ 
+-Contact info
+======
+Office address: 
+Department of Mathematics and Computer Science, The Open University of Israel 
+1 University Road, P.O.B. 808, Raanana 43107, Israel
+
+Office phone:  +972-9-778-1261
+Office Fax:  +972-9-778-0605
+E-Mail: hassner@openu.ac.il
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
