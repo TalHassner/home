@@ -9,5 +9,7 @@ paperurl: ''
 citation: 'Tal Hassner, Lihi Zelnik-Manor, George Leifman, and Ronen Basri. (2005). &quot;Minimal-Cut Model Composition.&quot; <i>International Conference on Shape Modeling and Applications (SMI), Boston</i>.'
 ---
 
+<img src='/images/Minimal Cut Model Composition - Icon.png'>
+
 [Download paper here](http://www.wisdom.weizmann.ac.il/~vision/MCMC/SMI05_MinCutModelComposition.pdf)
 
