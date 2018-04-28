@@ -1,5 +1,5 @@
 ---
-title: "img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'>Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
+title: <"img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'>Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
 collection: publications
 permalink: /publication/2011_TPAMI
 excerpt: 'Press coverage:
