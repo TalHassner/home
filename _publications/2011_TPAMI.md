@@ -1,10 +1,10 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'> Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
+title: "<img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'>  Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
 collection: publications
 permalink: /publication/2011_TPAMI
-excerpt: '[Download paper here](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)<br/><br/>
-**Press coverage:**
-Winter 2011 - Feature article in [Open Letter](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [Available online](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html).'
+excerpt: '**Press coverage:**<br/>
+Winter 2011 - Feature article in [Open Letter](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [Available online](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html). <br/><br/>
+[Download paper here](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)'
 
 date: 2011-10-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)'
