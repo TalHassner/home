@@ -2,7 +2,7 @@
 title: "<img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'> Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
 collection: publications
 permalink: /publication/2011_TPAMI
-excerpt: '[Download paper here](http://https://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)<br/><br/>
+excerpt: '[Download paper here](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)<br/><br/>
 **Press coverage:**
 Winter 2011 - Feature article in [Open Letter](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [Available online](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html).'
 
@@ -19,5 +19,5 @@ Computer Vision and Biometrics systems have demonstrated considerable improvemen
 
 [Data](https://www.openu.ac.il/home/hassner/data/lfwa/)
 
-[Download paper here](http://https://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)
+[Download paper here](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)
 
