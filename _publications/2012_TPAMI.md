@@ -6,7 +6,7 @@ excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/
 date: 2012-03-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 34(3)'
 paperurl: ''
-citation: 'Orit Kliper-Gross, Tal Hassner, and Lior Wolf. (2012). &quot;The Action Similarity Labeling Challenge.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 34(3)</i>. 1(1).'
+citation: 'Orit Kliper-Gross, Tal Hassner, and Lior Wolf. (2012). &quot;The Action Similarity Labeling Challenge.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 34(3)</i>.'
 ---
 
 Abstract
