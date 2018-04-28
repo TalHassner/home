@@ -3,7 +3,7 @@ title: "<img src='https://osnathassner.github.io/talhassner/images/ApproximateNe
 collection: publications
 permalink: /publication/2011-TPAMI
 excerpt: "Editor's selection for spotlight paper<br/><br/>
-\*Author names in alphabetical order due to equal contribution.<br/><br/>
+* Author names in alphabetical order due to equal contribution.<br/><br/>
 [Download paper here](http://osnathassner.github.io/talhassner/files/ApproximateNearestSubspaceSearch_PAMI.pdf) "
 
 date: 2011-02-01
