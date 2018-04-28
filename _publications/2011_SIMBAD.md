@@ -15,6 +15,6 @@ The One-Shot-Similarity (OSS) is a framework for classifierbased similarity func
 In this work we present a metric learning technique that is geared toward improved OSS performance. We test the proposed technique using the recently presented ASLAN action similarity labeling benchmark. Enhanced, state of the art performance is obtained, and the method compares favorably to leading similarity learning techniques
 
 
-[Project](http://videolectures.net/simbad2011_kliper_gross_recognition/)
+[Video Lecture](http://videolectures.net/simbad2011_kliper_gross_recognition/)
 
 [Download paper here]((https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)
