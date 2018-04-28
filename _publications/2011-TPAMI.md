@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/ApproximateNearestSubspaceSearch - Icon.jpg' width='80'>Approximate Nearest Subspace Search"
+title: "<img src='https://osnathassner.github.io/talhassner/images/ApproximateNearestSubspaceSearch - Icon.jpg' width='80'> Approximate Nearest Subspace Search"
 collection: publications
 permalink: /publication/2011-TPAMI
 excerpt: "Editor's selection for spotlight paper<br/><br/>
