@@ -1,7 +1,7 @@
 ---
 title: "<img src='https://osnathassner.github.io/talhassner/images/Age and Gender Estimation 2 - Icon.jpg' width='80'> Age and Gender Estimation of Unfiltered Faces"
 collection: publications
-permalink: /publication/2014_IEEE-TIFS
+permalink: /publication/2014_IEEE_TIFS
 excerpt: '**R. Enbar selected for the 2017 SPS Young Author Best Paper Award by the IEEE Signal Processing Society.**<br/><br/>
 [Download paper here](https://osnathassner.github.io/talhassner/files/EidingerEnbarHassner_tifs.pdf)'
 date: 2014-12-01
