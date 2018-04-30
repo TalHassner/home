@@ -3,6 +3,6 @@
   author={Yue Wu and Tal Hassner and KangGeon Kim and Gerard Medioni and Prem Natarajan},
   journal={arXiv preprint arXiv:1511.04031},
   year={2016},
-  URL 	= {\url{https://www.openu.ac.il/home/hassner/projects/tcnn_landmarks}},
+  URL 	= {\url{https://osnathassner.github.io/talhassner/projects/FacialLandmarkDetectionWTweakedConvolutionalNeuralNetworks/project.html}},
   note = {First two authors are equal contributors / joint first authors.}
 }
