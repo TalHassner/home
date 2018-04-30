@@ -29,7 +29,7 @@ Graduated students
 * **Eyal Shamur**<br/>
 **M.Sc. in Computer Science - Research Track**, "Identification of feeding strikes by larval fish from continuous high-speed digital video," <br/>Completed Jan., 2016
 
-* **<br/>Gil Levi**<br/>
+* **Gil Levi**<br/>
 **M.Sc. in Computer Science - Research Track**, "LATCH: Learned Arrangements of Three Patch Codes," <br/>Completed June, 2015
 
 * **Moria Tau**<br/>
@@ -39,8 +39,7 @@ Graduated students
 **M.Sc. in Computer Science**, "Sparse and Local Coding Methods for Classification of Visual Information," <br/>Completed Sept. 2014
 
 * **Viki Mayzels**<br/>
-**M.Sc. in Electrical Engineering**, "On SIFTs and their Scales," 
-At the Technion, supervised jointly with [Lihi Zelnik-Manor](http://lihi.eew.technion.ac.il/).
+**M.Sc. in Electrical Engineering**, "On SIFTs and their Scales," At the Technion, <br/>supervised jointly with [Lihi Zelnik-Manor](http://lihi.eew.technion.ac.il/).
 <br/>Completed Dec. 2013
 
 * **Yerry Sofer**<br/>
@@ -51,7 +50,7 @@ At the Technion, supervised jointly with [Lihi Zelnik-Manor](http://lihi.eew.tec
 
 * **Orit Kliper-Gross**<br/>
 **Ph.D. in Applied Mathematics and Computer Science**, "Action Recognition in Challenging Real-World Videos," 
-At the Weizmann Institute of Science, supervised jointly with [Ronen Basri](http://www.weizmann.ac.il/math/ronen/).
+At the Weizmann Institute of Science, <br/>supervised jointly with [Ronen Basri](http://www.weizmann.ac.il/math/ronen/).
 <br/>Completed Dec. 2012 
 
 * **Liav Assif**<br/>
