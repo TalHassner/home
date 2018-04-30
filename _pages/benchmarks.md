@@ -11,6 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.benchmarks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* <img src = '<img src='https://osnathassner.github.io/talhassner/images/New - icon.jpg' width='80'> **LFW3D**<br/>
+Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images generated using our frontalization method.
+
+* **[Unfiltered Faces for Gender and Age Classification](https://www.openu.ac.il/home/hassner/Adience/data.html)**<br/>
+Dataset of face images, labeled for age, gender and identity, acquired by smart-phones and other mobile devices, and uploaded without manual filtering to online image repositories.
+
+* **[Dynamic Point-Cloud Data](https://www.openu.ac.il/home/hassner/projects/PG13/index.html)**<br/>
+Real scans and synthetic data For foreground / background motion segmentation.
+
+* **[Violent Flows Benchmark](https://www.openu.ac.il/home/hassner/data/violentflows/index.html)**<br/>
+Video benchmark for classification and detection of outbursts of violence in crowded scenes.
+
+* **[Action Similarity Labeling Benchmark (ASLAN)](https://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)**<br/>
+Video benchmark for same/not-same classification of pairs of videos presenting human action in captured in the wild (YouTube).
+
+* **[YouTube Faces Benchmark](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
+Video benchmark for same/not-same classification of pairs of videos presenting human faces. Modeled after the LFW benchmark.
+
+* **[LFW-a Data Set](https://www.openu.ac.il/home/hassner/data/lfwa/)**<br/>
+Our own version of the LFW data set, aligned using commercial software.
