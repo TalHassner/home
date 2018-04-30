@@ -12,11 +12,11 @@ author_profile: true
 {% include base_path %}
 
 For prospective students:
-==
+------
 I am constantly seeking high quality, motivated graduate students interested in computer vision thesis projects. Please be aware that I require all my students to successfully complete the Introduction to Computer Vision graduate course ([22928](https://www.openu.ac.il/courses/22928.htm)), as well as an advanced seminar -- either as part of the group seminar ([22955](https://www.openu.ac.il/courses/22955.htm)) or as a written seminar ([22949](https://www.openu.ac.il/courses/22949.htm)). This, before beginning to work on their thesis.
 
 Graduated students
-====
+------
 * **Yuval Nirkin**<br/>
 **M.Sc. in Computer Science - Research Track**, "On Face Segmentation, Face Swapping, and Face Perception,"<br/>Completed Aug., 2017
 
