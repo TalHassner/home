@@ -174,7 +174,7 @@ collections:
   Students:
     output: true
     permalink: /:collection/:path/
-  MediaVideo:
+  Media:
     output: true
     permalink: /:collection/:path/
 
@@ -233,7 +233,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _mediaVideo
+  # _media
   - scope:
       path: ""
       type: media
