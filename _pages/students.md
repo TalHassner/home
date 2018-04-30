@@ -18,43 +18,43 @@ I am constantly seeking high quality, motivated graduate students interested in 
 Graduated students
 ------
 * **Yuval Nirkin**<br/>
-**M.Sc. in Computer Science - Research Track**, "On Face Segmentation, Face Swapping, and Face Perception,"<br/>Completed Aug., 2017
+**M.Sc. in Computer Science - Research Track**, "On Face Segmentation, Face Swapping, and Face Perception,"<br/>Completed August 2017
 
 * **Shay Filosof**<br/>
-**M.Sc. in Computer Science - Research Track**, "SIFTing Through Scales," <br/>Completed Aug., 2016
+**M.Sc. in Computer Science - Research Track**, "SIFTing Through Scales," <br/>Completed August 2016
 
 * **Shai Harel**<br/>
-**M.Sc. in Computer Science - Research Trac**, "Effective Face Frontalization," <br/>Completed Jan., 2016
+**M.Sc. in Computer Science - Research Trac**, "Effective Face Frontalization," <br/>Completed January 2016
 
 * **Eyal Shamur**<br/>
-**M.Sc. in Computer Science - Research Track**, "Identification of feeding strikes by larval fish from continuous high-speed digital video," <br/>Completed Jan., 2016
+**M.Sc. in Computer Science - Research Track**, "Identification of feeding strikes by larval fish from continuous high-speed digital video," <br/>Completed January 2016
 
 * **Gil Levi**<br/>
-**M.Sc. in Computer Science - Research Track**, "LATCH: Learned Arrangements of Three Patch Codes," <br/>Completed June, 2015
+**M.Sc. in Computer Science - Research Track**, "LATCH: Learned Arrangements of Three Patch Codes," <br/>Completed June 2015
 
 * **Moria Tau**<br/>
-**M.Sc. in Computer Science - Research Trac**, "Scale propagation for Accurate and Practical Dense Correspondence Estimation Across Scenes and Scales," <br/>Completed Feb., 2015
+**M.Sc. in Computer Science - Research Trac**, "Scale propagation for Accurate and Practical Dense Correspondence Estimation Across Scenes and Scales," <br/>Completed February 2015
 
 * **Eyal Dahari**<br/>
-**M.Sc. in Computer Science**, "Sparse and Local Coding Methods for Classification of Visual Information," <br/>Completed Sept. 2014
+**M.Sc. in Computer Science**, "Sparse and Local Coding Methods for Classification of Visual Information," <br/>Completed September 2014
 
 * **Viki Mayzels**<br/>
-**M.Sc. in Electrical Engineering**, "On SIFTs and their Scales," At the Technion, <br/>supervised jointly with [Lihi Zelnik-Manor](http://lihi.eew.technion.ac.il/ "Lihi Zelnik-Manor").
-<br/>Completed Dec. 2013
+**M.Sc. in Electrical Engineering**, "On SIFTs and their Scales," At the Technion, supervised jointly with [Lihi Zelnik-Manor](http://lihi.eew.technion.ac.il/ "Lihi Zelnik-Manor").
+<br/>Completed December 2013
 
 * **Yerry Sofer**<br/>
-**M.Sc. in Computer Science - Research Track**, "Interactive Learning for Point-Cloud Motion Segmentation," <br/>Completed August, 2013
+**M.Sc. in Computer Science - Research Track**, "Interactive Learning for Point-Cloud Motion Segmentation," <br/>Completed August 2013
 
 * **Yossi Itcher**<br/>
-**M.Sc. in Computer Science - Research Track**, "Real-Time Detection of Violent Crowd Behavior," <br/>Completed July, 2013
+**M.Sc. in Computer Science - Research Track**, "Real-Time Detection of Violent Crowd Behavior," <br/>Completed July 2013
 
 * **Orit Kliper-Gross**<br/>
 **Ph.D. in Applied Mathematics and Computer Science**, "Action Recognition in Challenging Real-World Videos," 
-At the Weizmann Institute of Science, <br/>supervised jointly with [Ronen Basri](http://www.weizmann.ac.il/math/ronen/ "Ronen Basri").
-<br/>Completed Dec. 2012 
+At the Weizmann Institute of Science, supervised jointly with [Ronen Basri](http://www.weizmann.ac.il/math/ronen/ "Ronen Basri").
+<br/>Completed December 2012 
 
 * **Liav Assif**<br/>
-**M.Sc. in Computer Science - Research Track**, "View Relevancy for Model based Pose Estimation in Single Photos," <br/>Completed Nov. 2011
+**M.Sc. in Computer Science - Research Track**, "View Relevancy for Model based Pose Estimation in Single Photos," <br/>Completed November 2011
 
 * **Tal Agmon**<br/>
 **M.Sc. in Computer Science**, "Face Matching in Unconstrained Images," <br/>Completed June 2011
