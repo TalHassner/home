@@ -17,8 +17,8 @@ I am constantly seeking high quality, motivated graduate students interested in 
 
 Graduated students
 ====
-* Yuval Nirkin
-M.Sc. in Computer Science - Research Track, "On Face Segmentation, Face Swapping, and Face Perception," Completed Aug., 2017
+* **Yuval Nirkin:**<br/>
+**M.Sc. in Computer Science** - Research Track, "On Face Segmentation, Face Swapping, and Face Perception," Completed Aug., 2017
 
 * Shay Filosof
 M.Sc. in Computer Science - Research Track, "SIFTing Through Scales," Completed Aug., 2016
