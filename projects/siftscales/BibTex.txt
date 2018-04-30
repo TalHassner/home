@@ -1,0 +1,8 @@
+@inproceedings{HMZM:CVPR12:OSatS,
+ author    = {Tal Hassner and Viki Mayzels and Lihi Zelnik-Manor},
+ title     = {On SIFTs and their Scales},
+ booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+ month	=  {June.},
+ year 	= {2012},
+ URL 	= {https:://osnathassner.github.io/talhassner/projects/siftscales}
+}
