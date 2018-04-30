@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src = '<img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='80'> **LFW3D**<br/>
+* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='80'> **LFW3D**<br/>
 Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images generated using our frontalization method.
 
 * **[Unfiltered Faces for Gender and Age Classification](https://www.openu.ac.il/home/hassner/Adience/data.html)**<br/>
