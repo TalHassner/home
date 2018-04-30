@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>SIFTing through Scales</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="SIFTing through Scales" name="description">
+    <style type="text/css">
+        .style1
+        {
+            width: 90%;
+        }
+        .style2
+        {
+            text-align: center;
+            font-size: medium;
+            font-family: Verdana;
+            font-weight: bold;
+        }
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style6
+        {
+            width: 425px;
+            text-align: center;
+            height: 20px;
+            font-family: Verdana;
+            font-size: medium;
+            font-style: italic;
+        }
+        .style8
+        {
+            font-family: Verdana;
+            font-size: medium;
+            font-style: italic;
+        }
+        .style12
+        {
+            width: 76%;
+        }
+        .style13
+        {
+            width: 294px;
+            height: 229px;
+        }
+        .style14
+        {
+            width: 294px;
+            height: 229px;
+        }
+        .style15
+        {
+            width: 294px;
+            height: 229px;
+        }
+        .style16
+        {
+            height: 20px;
+            text-align: center;
+            font-family: Verdana;
+            font-size: small;
+        }
+        .style17
+        {
+            text-align: center;
+            font-size: small;
+            font-family: Verdana;
+        }
+        .style20
+        {
+            font-size: small;
+        }
+        .style21
+        {
+            font-family: Verdana;
+            font-size: small;
+        }
+        .style22
+        {
+            text-align: justify;
+        }
+        .style23
+        {
+            direction: ltr;
+        }
+        .style24
+        {
+            font-size: medium;
+        }
+        .style26
+        {
+            text-decoration: underline;
+        }
+        .style27
+        {
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <center>
+            <table id="AutoNumber2" style="border-collapse: collapse; background-color: rgb(238, 238, 238);
+                width: 899px; height: 899px;" border="0" cellpadding="0" cellspacing="0">
+                <tbody>
+                    <tr>
+                        <td style="width: 100%; font-family: Verdana; text-align: center;">
+                            <h1 style="text-align: center; font-weight: normal;" class="style5">
+                                &nbsp;</h1>
+                            <h1 style="text-align: center; font-weight: normal;" class="style5">
+                                <strong><em>SIFTing through Scales</em></strong></h1>
+                            <table align="center" class="style1">
+                                <tbody><tr>
+                                    <td class="style2">
+                                        <a href="https://osnathassner.github.io/talhassner/">Tal Hassner</a>
+                                    </td>
+                                    <td class="style2">
+                                        Shay Filosof
+                                    </td>
+                                    <td class="style2">
+                                        Viki Mayzels
+                                    </td>
+                                    <td class="style2">
+                                        <a href="http://webee.technion.ac.il/~lihi/">Lihi Zelnik-Manor</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="style6" colspan="2" style="text-align: center">
+                                        Dept. of Math. and Computer Science
+                                    </td>
+                                    <td class="style6" colspan="2" style="text-align: center">
+                                        Dept. of Electrical Engineering
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="style8" colspan="2" style="text-align: center">
+                                        <p align="center" class="style8">
+                                            The Open University of Israel</p>
+                                    </td>
+                                    <td class="style8" colspan="2" style="text-align: center">
+                                        The Technion
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <h3>
+                                <a href="https://osnathassner.github.io/talhassner/projects/siftscales/#SLS_distribution">Code Now Available!</a></h3>
+                            <blockquote class="style23">
+                                <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                                    <span class="style24"><strong>Abstract</strong>:</span> Scale invariant feature
+                                    detectors often find stable scales in only a few image pixels. Consequently, methods
+                                    for feature matching typically choose one of two extreme options: matching a sparse
+                                    set of scale invariant features, or dense matching using arbitrary scales. In this
+                                    paper, we turn our attention to the overwhelming majority of pixels, those where
+                                    stable scales are not found by standard techniques. We ask, is scale-selection necessary
+                                    for these pixels, when dense, scale-invariant matching is required and if so, how
+                                    can it be achieved? We make the following contributions: (i) We show that features
+                                    computed over different scales, even in low-contrast areas, can be different and
+                                    selecting a single scale, arbitrarily or otherwise, may lead to poor matches when
+                                    the images have different scales. (ii) We show that representing each pixel as a
+                                    set of SIFTs, extracted at multiple scales, allows for far better matches than single-scale
+                                    descriptors, but at a computational price. Finally, (iii) we demonstrate that each
+                                    such set may be accurately represented by a low-dimensional, linear subspace. A
+                                    subspace-to-point mapping may further be used to produce a novel descriptor representation,
+                                    the Scale-Less SIFT (SLS), as an alternative to single-scale descriptors. These
+                                    claims are verified by quantitative and qualitative tests, demonstrating significant
+                                    improvements over existing methods.
+                                    <br>
+                                    <br class="style24">
+                                    <strong>Reference (Extended journal version):</strong> Tal Hassner, Shay Filosof,
+                                    Viki Mayzels, and Lihi Zelnik-Manor, <em>SIFTing through Scales,</em> IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 39(7): 1431-1443 (2017)  (<a href="https://www.openu.ac.il/home/hassner/projects/siftscales/HassneretalTPAMI16.pdf">PDF</a>,
+                                    <a href="https://osnathassner.github.io/talhassner/projects/siftscales/BibTeXJournal.txt">BibTex</a>)
+                                    <br>
+                                    <br class="style24">
+                                    <strong>Reference (conference paper):</strong> Tal Hassner, Viki Mayzels, and Lihi
+                                    Zelnik-Manor, <em>On SIFTs and their Scales,</em> IEEE Conf. on Computer Vision
+                                    and Pattern Recognition (CVPR), Rhode Island, June 2012 (<a href="https://osnathassner.github.io/talhassner/files/OnSiftsAndTheirScales-CVPR12.pdf">PDF</a>,
+                                    <a href="https://osnathassner.github.io/talhassner/projects/siftscales/BibTeX.txt">BibTex</a>)
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <hr style="width: 100%; height: 2px;">
+                                    <span class="style27"><strong>New! (13 June 2016)</strong></span>
+                                    <br>
+                                    Extended journal version accepted to IEEE-TPAMI. See above for reference 
+                                    details. <br>
+                                    <br>
+                                    <span class="style27"><strong>New!</strong></span> Followup project on <a href="https://osnathassner.github.io/talhassner/projects/scalemaps/">
+                                        dense correspondences between scenes and scales</a> has been posted, including
+                                    code and related documents.<br>
+                                    <br>
+                                    Slides from the ICCV'13 tutorial on Dense Image Correspondences for Computer Vision,
+                                    Sydney Australia, Dec. 2013. (<a href="https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pdf">PDF</a>,
+                                    <a href="https://www.openu.ac.il/home/hassner/Events/DenseCorrespondencesICCV13/DenseCorrespondences_web.pptx">
+                                        PPTX</a>)
+                                </div>
+                                <hr style="width: 100%; height: 2px;">
+                                <table align="center" class="style12">
+                                    <tbody><tr>
+                                        <td class="style16">
+                                            Left input image
+                                        </td>
+                                        <td class="style16">
+                                            Right input image
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img alt="" class="style13" src="./flowers_left.jpg">
+                                        </td>
+                                        <td>
+                                            <img alt="" class="style13" src="./flowers_right.jpg">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img alt="" class="style14" src="./flowers_warp_dsift.jpg">
+                                        </td>
+                                        <td>
+                                            <img alt="" class="style15" src="./flowers_warp_sls.jpg">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="style17">
+                                            Warp with DSIFT
+                                        </td>
+                                        <td class="style17">
+                                            Warp+crop with our SLS
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <div class="style22">
+                                    <strong>
+                                        <br>
+                                        <span class="style21">Dense matches of different objects in different scales.</span></strong>
+                                    <span class="style5"><strong><span class="style20">Top:</span></strong><span class="style20">
+                                        Left and Right input images. </span><strong><span class="style20">Bottom:</span></strong><span class="style20"> Left image warped onto Right using the recovered flows: Using DSIFT
+                                            (bottom left) and our Scale-Less SIFT (SLS) descriptor (bottom right), cropped to
+                                            the region of confident matches and overlaid on the Right image. DSIFT fails to
+                                            capture the scale differences and produces an output in the same scale as the input.
+                                            Our SLS descriptor captures scale changes at each pixel: the output produced by
+                                            using SLS has the appearance of the Left image in the scale and position of the
+                                            Right. Please see text for further details.</span></span><br class="style21">
+                                    <br class="style21">
+                                </div>
+                                <hr style="width: 100%; height: 2px;">
+                                <h2 style="text-align: left">
+                                    <a name="SLS_distribution">SLS distribution</a>
+                                </h2>
+                                <p style="text-align: left">
+                                    MATLAB code for computing dense Scale-Less SIFT descriptors (SLS) is now available
+                                    for <a href="https://osnathassner.github.io/talhassner/projects/siftscales/#SLS_Download">download here</a>. The distribution contains also a
+                                    demo script for establishing dense correspondences between two images of different
+                                    scenes in different scales using the SLS descriptors.
+                                </p>
+                                <h3 style="text-align: left">
+                                    Installing and running&nbsp;
+                                </h3>
+                                <ol>
+                                    <li>
+                                        <p style="text-align: left; direction: ltr;">
+                                            The code uses the <a href="http://www.vlfeat.org/">vlfeat</a> distribution to compute
+                                            SIFT descriptors and the <a href="http://people.csail.mit.edu/celiu/ECCV2008/">SIFT-Flow</a>
+                                            release for computing dense correspondences. Please follow these instructions to
+                                            set these up before running our code.</p>
+                                    </li>
+                                </ol>
+                                <ul>
+                                    <li>
+                                        <p style="text-align: left" class="style23">
+                                            Download the following software to your computer and modify the following lines
+                                            in <a href="osnathassner.github.io/talhassner/projects/siftscales/demo.m">demo.m</a> and <a href="https://osnathassner.github.io/talhassner/projects/siftscales/compute_dense_flow.m">compute_dense_flow.m</a></p>
+                                    </li>
+                                    <li>
+                                        <p style="text-align: left" class="style23">
+                                            The vl_feat code from <a href="http://www.vlfeat.org/">http://www.vlfeat.org/</a><br>
+                                            In the line "addpath vlfeat-0.9.14/toolbox" - replace "vlfeat-0.9.14"
+                                            with the name of the folder containing the vl_feat code.</p>
+                                    </li>
+                                    <li>
+                                        <p style="text-align: left">
+                                            The Sift-flow code from <a href="http://people.csail.mit.edu/celiu/ECCV2008/">http://people.csail.mit.edu/celiu/ECCV2008/</a><br>
+                                            In the lines "addpath release" and "addpath release/mex" - replace
+                                            "release" with the name of the folder containing the SIFT-flow code.</p>
+                                    </li>
+                                </ul>
+                                <ol start="2">
+                                    <li>
+                                        <p style="text-align: left">
+                                            To run the algorithm on an example image pair, included in the distribution, simply
+                                            run the script demo.m. To use your own images or to modify parameters, see their
+                                            help:<br>
+                                            &nbsp; help <a href="osnathassner.github.io/talhassner/projects/siftscales/demo.m">demo</a>
+                                            <br>
+                                            &nbsp; help <a href="osnathassner.github.io/talhassner/projects/siftscales/extract_scalelessdescs.m">extract_scalelessdescs</a>
+                                            <br>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p style="text-align: left" class="style23">
+                                            Alternatively, to run the demo as a function, you can call:<br>
+                                            [flo,wrp,clrflo] = compute_dense_flow(Im_Source, Im_Target)<br>
+                                            wrp provides warped output images such as those shown in the paper.<br>
+                                            For more information, see<br>
+                                            &nbsp; help <a href="osnathassner.github.io/talhassner/projects/siftscales/compute_dense_flow.m">compute_dense_flow</a></p>
+                                    </li>
+                                    <li>
+                                        <p style="text-align: left">
+                                            Please note that this code was not designed for optimal running times or memory
+                                            usage. It may therefore require quite a lot of time to produce multiple SIFTs for
+                                            each pixel and compute their subspaces. The same is true for the memory required
+                                            for the descriptors at each pixel.
+                                        </p>
+                                    </li>
+                                </ol>
+                                <h3 style="text-align: left">
+                                    <a name="SLS_Download">Download</a></h3>
+                                <p style="text-align: left" class="style23">
+                                    Please cite <a href="https://osnathassner.github.io/talhassner/projects/siftscales/BibTeX.txt">
+                                        our paper</a> if you use this code for your research.</p>
+                                <p style="text-align: left">
+                                    11-June-2012, Version 1.1: <a href="https://osnathassner.github.io/talhassner/projects/siftscales/sls_distribution.1.1.zip">sls_distribution.1.1.zip</a>
+                                    (36k)</p>
+                                <p style="margin-left: 50px;" class="style22">
+                                    <span class="style26">What's new:</span>
+                                </p>
+                                <p style="margin-left: 50px;" class="style22">
+                                    The code now includes an option to compute SLS descriptors with PCA reduced SIFTs.
+                                    This produces SLS descriptors which are an order of magnitude smaller than those
+                                    used in the paper, while still providing high quality dense flows. A more detailed
+                                    description of this addition will be described in an upcoming paper.</p>
+                                <p style="margin-left: 50px;" class="style22">
+                                    See the help for <a href="https://osnathassner.github.io/talhassner/projects/siftscales/extract_scalelessdescs.m">extract_scalelessdescs</a> for
+                                    more information on the new usage options.</p>
+                                <p style="text-align: left">
+                                    31-May-2012, Version 1.0: <a href="https://osnathassner.github.io/talhassner/projects/siftscales/sls_distribution.1.0.zip">sls_distribution.1.0.zip</a>
+                                    (36k)</p>
+                                <h3 style="text-align: left">
+                                    Contact and questions</h3>
+                                <p style="text-align: left" class="style23">
+                                    For questions or concerns, please write <a href="mailto:talhassner@gmail.com">talhassner@gmail.com</a>
+                                </p>
+                                <h3 style="text-align: left">
+                                    Copyright and disclaimer
+                                </h3>
+                                <p style="text-align: left">
+                                    Copyright 2012, Tal Hassner, Viki Mayzels, Shay Filosof, and Lihi Zelnik-Manor<br>
+                                    <a href="https://osnathassner.github.io/talhassner/projects/siftscales/project.html">https://osnathassner.github.io/talhassner/projects/siftscales/</a></p>
+                                <p style="text-align: left">
+                                    The SOFTWARE ("extract_scalelessdescs", "compute_dense_flow"
+                                    and "demo.m") is provided "as is", without any guarantee made
+                                    as to its suitability or fitness for any particular use. It may contain bugs, so
+                                    use of this tool is at your own risk. We take no responsibility for any damage that
+                                    may unintentionally be caused through its use.
+                                </p>
+                                <p style="text-align: left">
+                                    ver 1.1, 11-June-2012</p>
+                                <hr style="width: 100%; height: 2px;">
+                            </blockquote>
+                            <div style="text-align: center;">
+                                <br>
+                                <font style="font-size: 9pt; direction: ltr;" face="Verdana">Last update 13th of June,
+                                    2016</font><br>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%;">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </center>
+    </div>
+    <br>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>
