@@ -1,8 +1,8 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/New - icon.jpg' width='80'> Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild"
+title: "<img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='80'> Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild"
 collection: publications
 permalink: /publication/2018_TPAMI
-excerpt: '* Denotes first / lead senior author.<br/><br/>
+excerpt: '\* Denotes first / lead senior author.<br/><br/>
 [arXiv preprint]() '
 date: 2018-05-15
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)'
