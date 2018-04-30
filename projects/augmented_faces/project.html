@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0062)https://www.openu.ac.il/home/hassner/projects/augmented_faces/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Do We Really Need to Collect Millions of Faces for Effective Face Recognition?
+    </title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="Do We Really Need to Collect Millions of Faces for Effective Face Recognition?" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style19
+        {
+            text-align: justify;
+        }
+        .style20
+        {
+            width: 847px;
+            margin-left: 0px;
+        }
+        .style49
+        {
+            text-align: center;
+        }
+        .style23
+        {
+            text-align: justify;
+        }
+        .style52
+        {
+            direction: ltr;
+        }
+        .style53
+        {
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h2 style="text-align: center; font-weight: normal;">
+                        <strong>Do We Really Need to Collect Millions of Faces<br>
+                            for Effective Face Recognition?</strong></h2>
+                    <table align="center" style="width: 812px">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    <a href="http://www-bcf.usc.edu/~iacopoma">Iacopo Masi</a><sup>1</sup></h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="https://sites.google.com/site/anhttranusc/">Anh Tuan Tran</a><sup>1</sup></h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="https://www.openu.ac.il/home/hassner/">Tal Hassner</a><sup>2,3</sup>
+                                </h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="http://www-scf.usc.edu/~leksut/">Jatuporn Toy Leksut</a><sup>1</sup>
+                                </h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="http://iris.usc.edu/people/medioni/index.html">Gerard Medioni</a><sup>1</sup></h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                1. <a href="http://iris.usc.edu/iris.html">Institute for Robotics and Intelligent Systems,
+                                    USC, CA, USA</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                2. <a href="http://www.isi.edu/home">Information Sciences Institute, USC, CA, USA</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                3. <a href="https://www-e.openu.ac.il/">The Open University of Israel</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <img alt="Adience examples" class="style20" longdesc="Adience examples" src="./project_files/teaser_a.png"><br>
+                    <center>
+                        <blockquote style="text-align: justify; width: 721px;">
+                            <strong>Augmenting faces by using different generic 3D models for rendering. </strong>
+                            Top: The ten generic 3D face shapes used for rendering. Bottom: Faces rendered with
+                            the generic appearing right above them. Different shapes induce subtle appearance
+                            variations yet do not change the perceived identity of the face in the image. A
+                            single face image is rendered using different generic 3D models, at different poses
+                            and different expressions (not shown here, see paper). This enriches the training
+                            set with important intra-subject appearance variations thereby substantially improving
+                            recognition rates.</blockquote>
+                    </center>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;" class="style52">
+                            <span class="style24"><strong>Abstract:</strong></span> Face recognition capabilities
+                            have recently made extraordinary leaps. Though this progress is at least partially
+                            due to ballooning training set sizes -- huge numbers of face images downloaded and
+                            labeled for identity -- it is not clear if the formidable task of collecting so
+                            many images is truly necessary. We propose a far more accessible means of increasing
+                            training data sizes for face recognition systems. Rather than manually harvesting
+                            and labeling more faces, we simply synthesize them. We describe novel methods of
+                            enriching an existing dataset with important facial appearance variations by manipulating
+                            the faces it contains. We further apply this synthesis approach when matching query
+                            images represented using a standard convolutional neural network. The effect of
+                            training and testing with synthesized images is extensively tested on the LFW and
+                            IJB-A (verification and identification) benchmarks and Janus CS2. The performances
+                            obtained by our approach match state of the art results reported by systems trained
+                            on millions of images.<br>
+                            <br>
+                            <br class="style24">
+                            <span class="style24"><strong>Reference:</strong></span> <font class="style19">Iacopo
+                                Masi*, Anh Tuan Tran*, Tal Hassner*, Jatuporn Toy Leksut and Gerard Medioni, <em>Do
+                                    We Really Need to Collect Millions of Faces for Effective Face Recognition?</em>
+                                European Conference on Computer Vision (ECCV), Amsterdam, The Netherlands, Oct.
+                                2016. (<a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/Masietal2016really.pdf">PDF</a>, <a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/BibTeX.txt">BibTex</a>)<br>
+                                * Denotes equal 
+                            first authorship
+                                <br>
+                                <br>
+                                <br>
+                                <strong>Older arXiv preprint:</strong> Iacopo Masi, Anh Tuan Tran,
+                                Jatuporn Toy Leksut, Tal Hassner, Gerard Medioni, <em>Do We Really Need to Collect Millions
+                                    of Faces for Effective Face Recognition?</em> arXiv preprint arXiv:1603.07057,
+                                24 Mar 2016 (<a href="http://arxiv.org/abs/1603.07057">arXiv</a>)<br>
+                                <br>
+                                <br>
+                                <br>
+                                <span class="style53">
+                                <strong>New!</strong></span> If you want to better understand how the rendering code works, and why a simple 10-line Python function renders faces faster than OpenGL, read our FG'17 paper:<br>
+&nbsp;<br>
+                                Iacopo Masi, Tal Hassner, Anh Tuan Tran, and Gerard Medioni, <em>Rapid Synthesis of Massive Face Sets for Improved Face Recognition,</em> IEEE International Conference on Automatic Face and Gesture Recognition (FG) Washington, DC, May, 2017 (<a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/Masietal2017rapid.pdf">PDF</a>, <a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/BibTeXFG.txt">BibTex</a>)<br>
+                                <br>
+                                <br>
+                            <br>
+                            <br>
+                        </font></div><font class="style19">
+                    </font></blockquote><font class="style19">
+                    <hr style="width: 90%; height: 2px;">
+                    <blockquote class="style23">
+                        <div style="text-align: left; font-size: medium; font-family: Verdana; direction: ltr;">
+                            <h3 style="text-align: center">
+                                Downloads</h3>
+                                <center>
+                                If you find the resources below useful, please reference our paper in your work.
+                                </center>
+                                <br>
+                                <br>
+                            <center>
+                                1. Python, face specific augmentation code now <a href="https://github.com/iacopomasi/face_specific_augm">
+                                    available on GitHub</a>.
+                            </center>
+                            <br>
+                            <p align="justify">
+                                The code can be used to synthesize new views of faces appearing in unconstrained
+                                images, to the three yaw angles (frontal / 0°, 40° and 75°) with the
+                                same ten generic 3D face shapes used in our ECCV'16 paper (see also figure at the
+                                top of this page).
+                                <br>
+                                <br>
+                                This code implements a different method than the one used for the ECCV'16 paper.
+                                The new method provides more functionality and the code is designed to provide an
+                                easy to use interface. Tests comparing the new rendering method with the one used
+                                for ECCV show the new approach to lead to better trained CNN models and higher recognition
+                                rates*. This code release, however, may still be unstable, so please use at your
+                                own risk!
+                                <br>
+                                <br>
+                                * The new functionality and the additional tests comparing this new version to the
+                                one used for the ECCV paper are currently unpublished.
+                            </p>
+                            <br>
+                            <br>
+                            <center>
+                                2. 
+                                <a href="https://goo.gl/3vygej">ResFace-101 a ResNet-101 network for face recognition</a>, fined-tuned on CASIA images following the augmentation
+                                described in our paper.
+                            </center>
+                            <br>
+                            <p align="justify">
+                                This is a deep network trained to recognize faces appearing in extreme poses and
+                                viewing conditions. It was tested on the IJB-A benchmark and shown to provide results
+                                comparable to state of the art. This network was not used in the paper; we found
+                                the ResNet-101 to provide better performance than the network we previously used.
+                                Finally, augmentation used the new code available on this webpage (rather than the
+                                older function used in the paper).
+                            </p>
+                            <br>
+                            <br>
+                            <center>
+                                This is an ongoing project and we are continually adding more features, data and
+                                information. Please check this page again for updates.
+                            </center>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            Copyright 2016, Iacopo Masi, Anh Tuan Tran, Tal Hassner, Jatuporn Toy Leksut and
+                            Gerard Medioni
+                            <br>
+                            <br>
+                            The SOFTWARE provided in this page is provided "as is", without any guarantee made
+                            as to its suitability or fitness for any particular use. It may contain bugs, so
+                            use of this tool is at your own risk. We take no responsibility for any damage of
+                            any sort that may unintentionally be caused through its use.
+                        </div>
+                    </blockquote>
+                    <br>
+                    &nbsp;<hr style="width: 90%; height: 2px;">
+                    <p class="style49">
+                        Last update 
+                        June 22th, 2017</p>
+                    <p>
+                        &nbsp;</p>
+                </font></td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>
