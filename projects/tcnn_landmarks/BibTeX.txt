@@ -1,1 +1,8 @@
-
+@article{WH:2015:facial,
+  title={Facial Landmark Detection with Tweaked Convolutional Neural Networks},
+  author={Yue Wu and Tal Hassner and KangGeon Kim and Gerard Medioni and Prem Natarajan},
+  journal={arXiv preprint arXiv:1511.04031},
+  year={2016},
+  URL 	= {\url{https://osnathassner.github.io/talhassner/projects/tcnn_landmarks/project.html}},
+  note = {First two authors are equal contributors / joint first authors.}
+}
