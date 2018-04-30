@@ -1,8 +1,8 @@
-@article{WH:2015:facial,
-  title={Facial Landmark Detection with Tweaked Convolutional Neural Networks},
-  author={Yue Wu and Tal Hassner and KangGeon Kim and Gerard Medioni and Prem Natarajan},
-  journal={arXiv preprint arXiv:1511.04031},
-  year={2016},
-  URL 	= {\url{https://www.openu.ac.il/home/hassner/projects/tcnn_landmarks}},
-  note = {First two authors are equal contributors / joint first authors.}
+@InProceedings{MTHLM:2016:dowe,
+author = {Iacopo Masi and Anh Tu\~{a}n Tr\~{a}n and Tal Hassner and Jatuporn Toy Leksut and G\'{e}rard Medioni},
+title = {Do We Really Need to Collect Millions of Faces for Effective Face Recognition?},
+booktitle = {European Conference on Computer Vision (ECCV)},
+month = {October},
+year = {2016},
+  URL 	= {\url{https://osnathassner.github.io/talhassner/projects/augmented_faces}}
 }
