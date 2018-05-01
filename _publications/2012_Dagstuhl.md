@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Dagstuhl Manifestos - Icon.jpg' width='80'> Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)"
+title: "Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)"
 collection: publications
 permalink: /publication/2012_Dagstuhl
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/dagman-v002-i001-complete.pdf)'
@@ -8,6 +8,8 @@ venue: 'Dagstuhl Manifestos 2(1): 14-35 (2012)'
 paperurl: ''
 citation: 'Tal Hassner, Malte Rehbein, Peter A. Stokes, and Lior Wolf. (2012). &quot;Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382).&quot; <i>Dagstuhl Manifestos 2(1): 14-35 (2012)</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Dagstuhl Manifestos - Icon.jpg'>
 
 Abstract
 ------
