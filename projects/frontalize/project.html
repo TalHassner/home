@@ -1,1 +1,392 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0057)https://www.openu.ac.il/home/hassner/projects/frontalize/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Effective Face Frontalization in Unconstrained Images</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="Effective Face Frontalization in Unconstrained Images" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style19
+        {
+            text-align: justify;
+        }
+        .style20
+        {
+            width: 700px;
+        }
+        .style49
+        {
+            text-align: center;
+        }
+        .style23
+        {
+            text-align: justify;
+        }
+        .style50
+        {
+            font-weight: normal;
+        }
+        .style52
+        {
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h2 style="text-align: center; font-weight: normal;">
+                        <strong>Effective Face Frontalization in Unconstrained Images</strong></h2>
+                    <table align="center" style="width: 695px">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="https://www.openu.ac.il/home/hassner/" style="text-align: center">Tal Hassner</a></h4>
+                            </td>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    Shai Harel<span class="style50">*</span></h4>
+                            </td>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    Eran Paz<span class="style50">*</span></h4>
+                            </td>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    Roee Enbar</h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="style49">
+                                <a href="https://www-e.openu.ac.il/">The Open University of Israel</a>
+                            </td>
+                            <td class="style49">
+                                <a href="http://www.adience.com/">Adience</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <img alt="Frontalization examples" class="style20" longdesc="Frontalization examples" src="./project_files/teaser_e.png"><br>
+                        <center>
+                    <blockquote style="text-align: justify; width: 721px;">
+                        <strong>Figure 1.</strong> Frontalized faces. Top: Input photos; bottom: our frontalizations,
+                        obtained without estimating 3D facial shapes.</blockquote></center>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                            <span class="style24"><strong>Abstract:</strong></span> Frontalization is the process
+                            of synthesizing frontal facing views of faces appearing in single unconstrained
+                            photos. Recent reports have suggested that this process may substantially boost
+                            the performance of face recognition systems. This, by transforming the challenging
+                            problem of recognizing faces viewed from unconstrained viewpoints to the easier
+                            problem of recognizing faces in constrained, forward facing poses. Previous frontalization
+                            methods did this by attempting to approximate 3D facial shapes for each query image.
+                            We observe that 3D face shape estimation from unconstrained photos may be a harder
+                            problem than frontalization and can potentially introduce facial misalignments.
+                            Instead, we explore the simpler approach of using a single, unmodified, 3D surface
+                            as an approximation to the shape of all input faces. We show that this leads to
+                            a straightforward, efficient and easy to implement method for frontalization. More
+                            importantly, it produces aesthetic new frontal views and is surprisingly effective
+                            when used for face recognition and gender estimation.<br>
+                            <br>
+                            <br class="style24">
+                            <span class="style24"><strong>Reference:</strong></span> <big><span class="style24">
+                            </span></big><font class="style19">Tal Hassner, Shai Harel*, Eran Paz* and Roee Enbar, 
+                            <em>Effective
+                                Face Frontalization in Unconstrained Images</em>, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015<br>
+                                * These author names are in alphabetical order due to equal contribution.
+                                <br>
+                                <br>
+                                </font><font class="style46"><span class="style46"><a href="https://www.openu.ac.il/home/hassner/projects/frontalize/frontalize.pdf">
+                            Camera ready</a> (PDF)</span></font><br>
+                                <font class="style46"><span class="style46">
+                            <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/frontalize_abstract.pdf">Extended abstract</a> (PDF)</span></font>
+                            <br>
 
+                            <font class="style46"><span class="style46">
+                            <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/hassner_et_al_cvpr15_poster.pdf">CVPR poster</a> (PDF)</span></font><br>
+                            <font class="style46"><a href="http://arxiv.org/abs/1411.7964">arXiv preprint PDF</a></font><font class="style19"> (early arXiv preprint arXiv:1411.7964, 28 Nov. 2014)<font class="style46"><br>
+                            </font></font><font class="style46"><span class="style46"><a href="https://www.openu.ac.il/home/hassner/projects/frontalize/BibTeX.txt">BibTex</a></span></font>
+                            <br>
+                            <br>
+                            <br>
+                            <center><span class="style52"><strong>New!</strong></span> Please see <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/#new_related">below for new related projects and code</a>.</center>
+                            <br>
+                            <br>
+
+                        </div>
+                    </blockquote>
+                     <hr style="width: 90%; height: 2px;">
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana; direction: ltr;">
+                            <h3 style="text-align: center">
+                                Downloads</h3>
+                            <strong>1. Frontalization code:</strong> Our MATLAB implementation of the method described in the paper is available on the FTP in the file frontalization.0.1.3.zip. 
+                            Please see the <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/README.txt">README.txt</a> for details on how to install 
+                            and run the code. Though our code is written entirely in MATLAB, it has a few 
+                            dependencies, including the
+                            <a href="https://www.openu.ac.il/home/hassner/projects/poses/">calib function</a> 
+                            and a facial feature detector. See&nbsp; the README.txt for further details.<br>
+                            <br>
+                            <span class="style52"><strong>March, 21st 2016, New!</strong></span> The <strong>entire frontalization project</strong> was independently 
+                            <strong>ported to Python</strong> by 
+                            <a href="mailto:douglas.souza.002@acad.pucrs.br">Douglas Souza</a>. This useful port is available directly from his 
+                            <a href="https://github.com/dougsouza/face-frontalization">github page</a>. 
+                            This port uses the <a href="http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html">DLIB facial feature detector</a>.
+                            <strong>Thank you Douglas!</strong><br>
+                            <br>
+                            <span class="style52"><strong>April, 18st 2016, New!</strong></span>
+                            <a href="https://github.com/YuvalNirkin">Yuval Nirkin</a> has provided a 
+                            <a href="https://github.com/YuvalNirkin/find_face_landmarks">MATLAB wrapper for the DLIB face and facial landmark detector</a> used with the frontalization code.
+                            <strong>Thank you, Yuval!</strong>
+                            <br>
+                            <br>
+                            <hr style="width: 45%; height: 1px;">
+                            <br>
+                            <strong>2. LFW3D:</strong> The entire <a href="http://vis-www.cs.umass.edu/lfw/">LFW collection</a>, frontalized and stored in the same directory 
+                            structure as the original LFW, is available on the FTP in the file LFW3D.0.1.1.zip.&nbsp;
+                            <br>
+                            <br>
+                            <hr style="width: 45%; height: 1px;">
+                            <br>
+                            <strong>3. Adience3D</strong>: The entire
+                            <a href="https://www.openu.ac.il/home/hassner/Adience/data.html#agegender">
+                            Adience image collection</a>, frontalized and stored in the same directory 
+                            structure as the original Adience collection, is available on the FTP in the file 
+                            Adience3D.0.1.1.zip.<br>
+                            <br>
+                            Images in the above sets were frontalized using the SDM facial feature detector (<a href="http://www.humansensing.cs.cmu.edu/intraface/">Intraface</a>). Though 
+                            we have found SDM to provide the best results, alternative detectors can easily be 
+                            used with our code in its stead and we offer a number of other options. Please 
+                            see documentation in the <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/README.txt">README.txt</a> and the MATLAB 
+                            functions themselves.
+                            <br>
+                            <br>
+                            Note that we are continuing to improve the quality of the frontalized images, 
+                            and may post updates to both these collections (hence the version numbers on 
+                            both files).<br>
+
+                            <br>
+                            <hr style="width: 45%; height: 1px;">
+                            <h4>What's new</h4>
+                            <span class="style52">June, 6th 2017<br></span>
+                            Please see our 
+                            <a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces">followup project on face recognition</a>, with more details on rendering and new Python code supporting more rendered views.<br>
+                            <br>
+                            <br>
+                            <span class="style52">March, 21st 2016<br></span>
+                            To help run frontalization on MATLAB, 
+                            <a href="https://github.com/YuvalNirkin">Yuval Nirkin</a> has provided a
+                            <a href="https://github.com/YuvalNirkin/find_face_landmarks">MATLAB MEX for 
+                            detecting faces and facial landmarks</a> using the DLIB library.<br>
+                            <br>
+                            <br>
+                            <span class="style52">March, 21st 2016<br></span>
+                            Added 
+                            <a href="https://github.com/dougsouza/face-frontalization">link</a> to Python port of the frontalization project, 
+                            contributed by <a href="mailto:douglas.souza.002@acad.pucrs.br">Douglas Souza</a>. 
+                            <br>
+                            <br>
+                            <br>
+                            <span class="style52">Dec., 8th 2015<br></span>
+                            Demo now allows for frontalization with any standard sparse (five-point) landmark detection method such as the one described in our recent paper 
+                            <a href="http://arxiv.org/abs/1511.04031">here</a>.
+                            Choosing this option in demo.m currently allows for manual five-point 
+                            localization.
+                            <br>
+                            <br>
+                            <br>
+                            <span class="style52">May, 18th 2015<br>
+                            </span>frontalization.0.1.2 now includes example usage with the 
+                            <a href="http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html">DLIB facial feature detector</a> 
+                            (based on
+                            <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf">Kazemi and Sullivan</a>, CVPR'14). We have found it to provide excellent performance, and so offer it as an alternative to the commercial 
+                            <a href="http://www.humansensing.cs.cmu.edu/intraface/download_functions_matlab.html">SDM detector</a> and the older detector by 
+                            <a href="http://www.ics.uci.edu/~xzhu/face/">Zhu and Ramanan</a>.
+                            <br>
+                            <br>
+                            <br>
+                             <hr style="width: 90%; height: 2px;">
+                            <br>
+                            <strong>Download instructions:</strong><br>
+                            These resources are available on our FTP server: <em>
+                            agas.openu.ac.il</em>. Direct access to the download directory is available through <a href="http://www.cslab.openu.ac.il/download/">http://www.cslab.openu.ac.il/download/</a>.
+                            <br>
+                            <br>
+                            For the FTP user name and password, please provide the details below. We ask for 
+                            these details so we can keep
+                            in touch in case we find any need for a critical update or in case we would organize
+                            a dedicated workshop, etc. When done, you will immediately be able to see the FTP
+                            user name.&nbsp;
+                            <br>
+                            <br>
+                            <form action="https://docs.google.com/forms/d/1E5AX7S6pbvNsl2S9hazsN75WN7f813JBzWQR-_2SmNI/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+                            <ol role="list" class="ss-question-list" style="padding-left: 0">
+                                <div class="ss-form-question errorbox-good" role="listitem">
+                                    <div dir="ltr" class="ss-item ss-item-required ss-text">
+                                        <div class="ss-form-entry">
+                                            <label class="ss-q-item-label" for="entry_1779840249">
+                                                <div class="ss-q-title">
+                                                    Your name
+                                                    <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">
+                                                    </label>
+                                                    <span class="ss-required-asterisk">*&nbsp;&nbsp; </span>
+                                                    <input type="text" name="entry.1779840249" value="" class="ss-q-short" id="entry_1779840249" dir="auto" aria-label="Your name " aria-required="true" required="" title=""></div>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ss-form-question errorbox-good" role="listitem">
+                                    <div dir="ltr" class="ss-item ss-item-required ss-text">
+                                        <div class="ss-form-entry">
+                                            <label class="ss-q-item-label" for="entry_301328552">
+                                                <div class="ss-q-title">
+                                                    Your e-mail
+                                                    <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">
+                                                    </label>
+                                                    <span class="ss-required-asterisk">*&nbsp; </span>
+                                                    <input type="text" name="entry.301328552" value="" class="ss-q-short" id="entry_301328552" dir="auto" aria-label="Your e-mail  " aria-required="true" required="" title=""></div>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br>
+                                * Required field
+                                <br>
+                                <input type="hidden" name="draftResponse" value="[,,&quot;-7148573684254473238&quot;]">
+                                <input type="hidden" name="pageHistory" value="0">
+                                <input type="hidden" name="fbzx" value="-7148573684254473238">
+                                <div class="ss-item ss-navigate">
+                                    <table id="navigation-table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+                                                    <input type="submit" name="submit" value="Submit" id="ss-submit">
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </ol>
+                            </form>
+                            If you have problems accessing the files through the 
+                            direct link above please use 
+                            instead a dedicated FTP client, and connect to the server agas.openu.ac.il. Two free clients are FileZilla and WinSCP.
+                            <br>
+                            <br>
+                            <br>
+
+                            
+                             
+                        </div>
+                    
+                    <hr style="width: 90%; height: 2px;">
+                            <strong>
+                        <br><a name="new_related">
+                        Other related papers / projects / code:</a></strong><br>
+                            <ul>
+                            <li>
+                                Iacopo Masi, Tal Hassner, Anh Tuan Tran, and Gerard Medioni, Rapid Synthesis of Massive Face Sets for Improved Face Recognition, IEEE International Conference on Automatic Face and Gesture Recognition (FG) Washington, DC, May, 2017 (<a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/Masietal2017rapid.pdf">PDF</a>, 
+                                <a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/">project and code</a>)
+                            </li>
+                            </ul>
+
+                            <ul>
+                            <li>
+Iacopo Masi*, Anh Tuan Tran*, Tal Hassner*, Jatuporn Toy Leksut and Gerard Medioni, Do We Really Need to Collect Millions of Faces for Effective Face Recognition? European Conference on Computer Vision (ECCV), Amsterdam, The Netherlands, Oct. 2016 (<a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/Masietal2016really.pdf">PDF</a>, 
+                                <a href="https://www.openu.ac.il/home/hassner/projects/augmented_faces/">project and code</a>)<br>
+* Denotes equal contribution.
+                            </li>
+                            </ul>
+
+
+                            <ul>
+                            <li>
+                                Yue Wu*, Tal Hassner*, KangGeon Kim, Gerard Medioni and Prem Natarajan, <em>Facial Landmark Detection with Tweaked Convolutional Neural Networks,</em> arXiv preprint arXiv:1511.04031, 21 Mar. 2016 (<a href="http://arxiv.org/abs/1511.04031">PDF</a>, 
+                                <a href="https://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/">project and code</a>)<br>
+                                    * Denotes joint first authorship / equal contribution
+                            </li>
+                            </ul>
+
+                            <ul>
+                            <li>
+                                E. Eidinger,
+                                    R. Enbar, and T. Hassner, <em>Age and Gender Estimation of Unfiltered Faces,</em>
+                                    Transactions on Information Forensics and Security (IEEE-TIFS), special issue on
+                                    Facial Biometrics in the Wild, Volume 9, Issue 12, pages 2170 - 2179, Dec. 2014 (<a href="https://www.openu.ac.il/home/hassner/Adience/EidingerEnbarHassner_tifs.pdf">PDF</a>, <a href="https://www.openu.ac.il/home/hassner/Adience/">
+                                        project</a>, <a href="https://www.openu.ac.il/home/hassner/Adience/data.html">data</a>,
+                                    <a href="https://www.openu.ac.il/home/hassner/Adience/code.html#inplanealign">code</a>)
+                            </li>
+                            </ul>
+                            <ul>
+                            <li>
+                            T. Hassner, L. Assif, and L. Wolf, <em>
+                                    When Standard RANSAC is Not Enough: Cross-Media Visual Matching with Hypothesis
+                                    Relevancy,</em> Machine Vision and Applications (MVAP), Volume 25, Issue 4, Page
+                                    971-983, 2014 (<a href="https://www.openu.ac.il/home/hassner/projects/poses/">Code</a>, <a href="https://www.openu.ac.il/home/hassner/projects/ransaclearn/HasserAssifWolfMVAP13.pdf">
+                                        PDF</a>, <a href="http://www.springerlink.com/openurl.asp?genre=article&amp;id=doi:10.1007/s00138-013-0571-4">
+                                            Springer</a>)
+                            </li>
+                            </ul>
+                            <ul>
+                            <li>
+                            T. Hassner, <em>Viewing Real-World Faces in 3D,</em>
+                                International Conference on Computer Vision (ICCV), Sydney, Austraila, Dec. 2013
+                                (<a href="https://www.openu.ac.il/home/hassner/projects/poses/">Code</a>, <a href="http://openu.ac.il/home/hassner/projects/ViewFaces3D/">project</a>, <a href="https://www.openu.ac.il/home/hassner/projects/ViewFaces3D/HassnerICCV2013preprint.pdf">PDF</a>)
+                            </li>
+                            </ul>
+                            </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                     <blockquote class="style23">
+                    Copyright 2014, Tal Hassner
+                    <br>
+                    <br>
+                    TThe SOFTWARE ("frontalization" and all included files) is provided "as is", without any guarantee made as to its suitability or fitness for any particular use.  It may contain bugs, so use of this tool is at your own risk. We take no responsibility for any damage that may unintentionally be caused through its use.
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <p>
+                        Last update 
+                        6th of June, 2017</p>
+                    <p>
+                        &nbsp;</p>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>
