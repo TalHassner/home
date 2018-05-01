@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0061)https://www.openu.ac.il/home/hassner/projects/GANS/index.html -->
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>A General Framework for Approximate Nearest Subspace Search</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="A General Framework for Approximate Nearest Subspace Search" name="description">
+</head>
+<body style="background-color: rgb(0, 0, 0);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <center>
+            <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); border-collapse: collapse;
+                width: 1120px; height: 822px;" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0">
+                <tbody>
+                    <tr>
+                        <td style="width: 100%;">
+                            <p align="center">
+                                <font style="font-size: 9pt;" face="Verdana">&nbsp;</font>&nbsp;</p>
+                            <h1 style="text-align: center; font-weight: normal; font-family: helvetica,arial,sans-serif;">
+                                A General Framework for Approximate Nearest Subspace Search</h1>
+                            <p align="center">
+                                <font face="Verdana" size="2"><a href="http://www.wisdom.weizmann.ac.il/~ronen">Ronen
+                                    Basri</a><sup>1</sup> &nbsp;&nbsp; <a href="https://www.openu.ac.il/home/hassner/">Tal
+                                        Hassner</a></font><small><sup><span style="font-family: Verdana;">2</span></sup></small><font face="Verdana" size="2"> &nbsp;&nbsp; <a href="http://www.ee.technion.ac.il/~lihi/">
+                                                Lihi Zelnik-Manor</a></font><font face="Verdana" size="2"><sup>3</sup></font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">1. Dept. of Computer Science and Applied Math.<br>
+                                    Weizmann Institute of Science</font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">2. Computer Science Division<br>
+                                    The Open University of Israel<br>
+                                </font>
+                            </p>
+                            <p align="center">
+                                <font face="Verdana" size="2">3. Dept. of Electrical Engineering<br>
+                                    California Institute of Technology<br>
+                                </font>
+                            </p>
+                            <blockquote>
+                                <br>
+                                <p>
+                                    <font style="font-size: 9pt;" face="Verdana"><b>Abstract</b>:</font><b style="font-family: Verdana;"><font style="font-size: 9pt;">&nbsp;</font></b><big style="font-family: Verdana;"><big><font style="font-size: 9pt; font-family: verdana;">Subspaces offer convenient means of
+                                            representing information in many Pattern Recognition, Machine Vision, and Statistical
+                                            Learning applications. Contrary to the growing popularity of subspace representations,
+                                            the problem of efficiently searching through large subspace databases has received
+                                            little attention in the past. In this paper we present a general solution to the
+                                            Approximate Nearest Subspace search problem. Our solution uniformly handles cases
+                                            where both query and database elements may differ in dimensionality, where the database
+                                            contains subspaces of different dimensions, and where the queries themselves may
+                                            be subspaces. To this end we present a simple mapping from subspaces to points,
+                                            thus reducing the problem to the well studied Approximate Nearest Neighbor problem
+                                            on points. We provide theoretical proofs of correctness and error bounds of our
+                                            construction and demonstrate its capabilities on synthetic and real data. Our experiments
+                                            indicate that an approximate nearest subspace can be located significantly faster
+                                            than the nearest subspace, with little loss of accuracy.</font></big></big></p>
+                                <p>
+                                    <font style="font-size: 9pt;" face="Verdana"><b>Reference</b>:&nbsp; R. Basri, T.Hassner
+                                        and L. Zelnik-Manor, <span style="font-weight: bold; font-family: Verdana;">A General
+                                            Framework for Approximate Nearest Subspace Search</span><span style="font-family: Verdana;">,&nbsp;</span></font><font style="font-size: 9pt; font-family: Verdana;" face="Verdana">2nd IEEE International
+                                                Workshop on Subspace Methods at the IEEE International Conference on Computer Vision
+                                                (ICCV), Kyoto, Sept 2009</font><font style="font-size: 9pt; font-family: Verdana;" face="Verdana">.</font></p>
+                                <p>
+                                    <b><font style="font-size: 9pt;" face="Verdana">Click here for the <a href="https://www.openu.ac.il/home/hassner/projects/GANS/BHZM_ICCVW_2009.pdf">
+                                        PDF</a> (833kb)<br>
+                                    </font></b>
+                                </p>
+                                <p>
+                                    <b><font style="font-size: 9pt;" face="Verdana">Click here for the <a href="https://www.openu.ac.il/home/hassner/projects/GANS/BibTeX.txt">
+                                        BibTex</a></font></b></p>
+                                <p>
+                                    <strong>Older tech-report </strong><span style="font-family: Verdana"><span style="font-size: 9pt">
+                                        <strong>Reference</strong>:&nbsp; R. Basri, T.Hassner and L. Zelnik-Manor, <span style="font-weight: bold">A General Framework for Approximate Nearest Subspace Search</span><span>,
+                                            </span></span></span><span class="nfakPe">Technical</span> <span class="nfakPe">Report</span>
+                                    CCIT #699 , Department of Electrical Engineering, Technion, June 2008<font face="Verdana" style="font-size: 9pt">. </font>
+                                </p>
+                                <p>
+                                    <font face="Verdana" style="font-size: 9pt"></font>
+                                </p><hr style="width: 100%; height: 2px;">
+                                    &nbsp;<p></p>
+                                <h2>
+                                    Some results</h2>
+                                Please see paper for a full description of our experiments and more results.
+                                <br>
+                                <h3>
+                                    Synthetic data tests</h3>
+                                <table style="text-align: left; width: 762px; height: 223px;" border="1" cellpadding="2" cellspacing="2">
+                                    <tbody>
+                                        <tr>
+                                            <th style="text-align: center;">
+                                                Varying database size</th>
+                                            <th style="text-align: center;">
+                                                Varying query dimension</th>
+                                            <th style="text-align: center;">
+                                                Varying ambient space</th>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align: center;">
+                                                <img style="width: 234px; height: 183px;" alt="Varying database size" title="Varying database size" src="./project_files/ss2ss_RangeVar_N_S_runtime_b_small.jpg"></td>
+                                            <td style="text-align: center;">
+                                                <img style="width: 238px; height: 181px;" alt="Varying query dimension" title="Varying query dimension" src="./project_files/ss2ss_RangeVar_dimIntrinsicQ_runtime_a_small.jpg"></td>
+                                            <td style="text-align: center;">
+                                                <img style="width: 244px; height: 181px;" alt="Varying ambient space dimension" title="Varying ambient space dimension" src="./project_files/ss2ss_RangeVar_D_runtime_a_small.jpg"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br>
+                                <div style="text-align: justify;">
+                                    log-scale run times compared for an exact linear search, linear search with a preprocessed
+                                    database and our ANS method with ANN&nbsp;epsilon=100. The following tests were
+                                    performed. Varying number of database subspaces (database size): Database subspaces
+                                    of dimension&nbsp;30 embedded in a&nbsp;60 dimensional&nbsp; space, tested with
+                                    1000 queries of dimension 10. Varying query dimension: Database contains 1000 subspaces
+                                    with dimension&nbsp;30, tested with 1000 queries. Varying ambient dimension: Database
+                                    contains 1000 subspaces with dimension&nbsp;30, tested with 1000 queries of dimension&nbsp;10.
+                                    The error rate for our method remained at an almost constant 0.01 in all three experiments,
+                                    through all values tested.<br>
+                                </div>
+                                <h3>
+                                    Scene classification results</h3>
+                                <table style="width: 429px; height: 136px; text-align: left;" border="1" cellpadding="2" cellspacing="2">
+                                    <tbody>
+                                        <tr>
+                                            <th style="text-align: center; font-weight: bold; font-style: italic;">
+                                                Method</th>
+                                            <th style="text-align: center; font-weight: bold; font-style: italic;">
+                                                Run-time</th>
+                                            <th style="text-align: center; font-weight: bold; font-style: italic;">
+                                                Correct</th>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                ANS (Our result)</td>
+                                            <td style="text-align: center;">
+                                                2.3 sec.</td>
+                                            <td style="text-align: center;">
+                                                63%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Exact subspace search (with preprocessing)</td>
+                                            <td style="text-align: center;">
+                                                13.8 sec.</td>
+                                            <td style="text-align: center;">
+                                                63%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Exact nearest patch</td>
+                                            <td style="text-align: center;">
+                                                135 sec</td>
+                                            <td style="text-align: center;">
+                                                55%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br>
+                                <hr style="width: 100%; height: 2px;">
+                            </blockquote>
+                            <div style="text-align: center;">
+                                <font style="font-size: 9pt;" face="Verdana">Copyright: no material is allowed to be
+                                    copied or used in any way without written permission of the authors.</font><br>
+                                <br>
+                                <font style="font-size: 9pt;" face="Verdana">Last update 21st of Sept, 2009</font><br>
+                                <br>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </center>
+    </div>
+    <br>
+
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+
+
+</body></html>
