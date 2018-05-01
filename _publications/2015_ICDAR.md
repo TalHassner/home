@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Viral Transcript Alignment - Icon.jpg' width='80'> Viral Transcription Alignment"
+title: "Viral Transcription Alignment"
 collection: publications
 permalink: /publication/2015_ICDAR
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/ICDAR2015_viralta.pdf)'
@@ -8,6 +8,8 @@ venue: 'International Conference on Document Analysis and Recognition (ICDAR), N
 paperurl: ''
 citation: 'Gil Sadeh, Lior Wolf, Tal Hassner, Nachum Dershowitz, and Daniel Stokl Ben-Ezra. (2015). &quot;Viral Transcription Alignment.&quot; <i>International Conference on Document Analysis and Recognition (ICDAR), Nancy, France</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Viral Transcript Alignment - Icon.jpg'>
 
 Abstract
 ------
