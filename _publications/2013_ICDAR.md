@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Free Transcript Alignment - Icon.jpg' width='80'> OCR-Free Transcript Alignment"
+title: "OCR-Free Transcript Alignment"
 collection: publications
 permalink: /publication/2013_ICDAR
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/ICRA2013_ofta_online.pdf)'
@@ -8,6 +8,8 @@ venue: 'International Conference on Document Analysis and Recognition (ICDAR), W
 paperurl: ''
 citation: 'Tal Hassner, Lior Wolf, and Nachum Dershowitz. (2013). &quot;OCR-Free Transcript Alignment.&quot; <i>International Conference on Document Analysis and Recognition (ICDAR), Washington DC</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Free Transcript Alignment - Icon.jpg'>
 
 Abstract
 ------
