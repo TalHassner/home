@@ -25,6 +25,6 @@ that scale propagation allows for accurate dense correspondences to be obtained 
 computational costs beyond those required by existing methods
 
 
-[Project and Code](https://www.openu.ac.il/home/hassner/projects/scalemaps/)
+[Project and Code](https://osnathassner.github.io/talhassner/projects/scalemaps/project.html)
 
 [Download paper here](https://osnathassner.github.io/talhassner/files/TauHassner_TPAMI.pdf)
