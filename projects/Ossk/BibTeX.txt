@@ -1,0 +1,8 @@
+@inproceedings{WHT:ICCV09:OSSK,
+ author    = {L.~Wolf and T.~Hassner and Y.~Taigman},
+ title     = {The One-Shot Similarity Kernel},
+ booktitle = {IEEE International Conference on Computer Vision (ICCV)},
+ month	=  {Sept.},
+ year 	= {2009},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/Ossk}
+}
