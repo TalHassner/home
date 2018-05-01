@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0067)http://www.wisdom.weizmann.ac.il/~vision/By_Example_Reconstruction/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>Example Based 3D Reconstruction from Single 2D Images</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204); background-image: url(image001.jpg);" alink="#000099" lang="EN-US" link="blue" vlink="purple">
+<div class="Section1">
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<h1 style="text-align: center;">Example Based 3D Reconstruction from
+Single 2D Images<span style="font-weight: normal;"><o:p></o:p></span></h1>
+<h2 style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center"><a href="http://www.wisdom.weizmann.ac.il/~hassner">T.Hassner</a>
+and <a href="http://www.wisdom.weizmann.ac.il/~ronen">R.Basri</a></h2>
+<div style="text-align: center;">
+<h2><span style="text-decoration: underline;"></span>Beyond Patches
+Workshop at CVPR'06<br>
+</h2>
+</div>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<h1 style="text-align: center;">Abstract</h1>
+<div style="margin-left: 40px; width: 1058px; height: 100px;">
+<p align="justify"><big>We present a novel solution to the
+problem of depth reconstruction from a single image. Single view 3D
+reconstruction is an ill-posed problem. We address this problem by
+using an example-based synthesis approach. Our method uses a database
+of objects from a single class (e.g. hands, human figures) containing
+example patches of feasible mappings from the appearance to the depth
+of each object. Given an image of a novel object, we combine the known
+depths of patches from similar objects to produce a plausible depth
+estimate. This is achieved by optimizing a global target function
+representing the likelihood of the candidate depth. We demonstrate how
+the variability of 3D shapes and their poses can be handled by updating
+the example database on-the-fly. In addition, we show how we can employ
+our method for the novel task of recovering an estimate for the
+occluded <b>backside</b> of the imaged objects. Finally, we present
+results on
+a variety of object classes and a range of imaging conditions. <br>
+<br>
+</big></p>
+</div>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;">&nbsp;</p>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;">Full paper : <a href="http://www.wisdom.weizmann.ac.il/~vision/By_Example_Reconstruction/BP06_HASSNER_T.pdf">pdf</a>
+(487kb). </span><span style="font-size: 14pt;"><a href="http://www.wisdom.weizmann.ac.il/~vision/By_Example_Reconstruction/BibTeX.txt">BibTeX</a>.</span></p>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;">
+</p>
+<div class="MsoNormal" style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center">
+<hr align="center" size="2" width="82%"></div>
+<h1 align="center">Some Results</h1>
+<p align="center">More results can be found in the paper.<br>
+</p>
+<div style="text-align: center;">
+<div style="text-align: left;">
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <h2 style="text-align: center;">Human figure reconstruction</h2>
+    </blockquote>
+  </blockquote>
+</blockquote>
+<div align="center">
+<center>
+<table style="text-align: left; margin-left: auto; margin-right: auto; width: 670px; height: 208px; border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="7" cellspacing="7">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Human figure - input image" title="Human figure - input image" src="./project_files/Dsc.jpg" style="border: 0px solid ; width: 94px; height: 228px;"><br>
+      </td>
+      <td style="vertical-align: middle; text-align: center;" width="392"> <img alt="Human figure - our depth estimate" title="Human figure - our depth estimate" src="./project_files/Dsc_result.jpg" style="border: 1px solid ; width: 102px; height: 197px;"><br>
+      </td>
+      <td style="vertical-align: middle; text-align: center;" width="259"> <img alt="Human figure - our back depth estimate" title="Human figure - our back depth estimate" src="./project_files/Dsc_result_BACK.jpg" style="border: 1px solid ; width: 93px; height: 197px;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">Input
+image<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="392">Our
+depth
+estimate (rendered in 3D)<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="259">Our
+depth
+estimate for the man's <b>back</b><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: left;">
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <h2 style="text-align: center;">Fish reconstruction<br>
+      </h2>
+    </blockquote>
+  </blockquote>
+</blockquote>
+</div>
+<div align="center">
+<center>
+<table style="text-align: left; margin-left: auto; margin-right: auto; width: 670px; height: 208px; border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="7" cellspacing="7">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Fish - input image" title="Fish - input image" src="./project_files/FISH1011.jpg" style="border: 0px solid ; width: 200px; height: 150px;"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Fish - our depth estimate" title="Fish - our depth estimate" src="./project_files/FISH1011_result.jpg" style="border: 1px solid ; width: 108px; height: 182px;"></td>
+      <td style="vertical-align: top; text-align: center;" width="259">
+      <img alt="Fish - our depth estimate, textured" title="Fish - our depth estimate, textured" src="./project_files/FISH1011_results_tex.jpg" style="border: 1px solid ; width: 171px; height: 146px;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">Input
+image<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="294">Our
+depth
+estimate (rendered in 3D)</td>
+      <td style="vertical-align: top; text-align: center;" width="259">
+      <p dir="ltr">Textured renderings of our depth estimate<br>
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+&nbsp;
+<p>&nbsp;</p>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <h2>Hand reconstruction</h2>
+    </blockquote>
+  </blockquote>
+</blockquote>
+</div>
+<div style="text-align: center;"><br>
+</div>
+<div align="center">
+<center>
+<table style="text-align: left; margin-left: auto; margin-right: auto; width: 670px; height: 208px; border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="7" cellspacing="7">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Hand - Input image" title="Hand - Input image" src="./project_files/hand.jpg" style="border: 0px solid ; width: 130px; height: 161px;"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="392">
+      <img alt="Hand - our depth estimate" title="Hand - our depth estimate" src="./project_files/hand_result.jpg" style="border: 1px solid ; width: 147px; height: 161px;"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="259">
+      <img alt="Hand - our back depth estimate" title="Hand - our back depth estimate" src="./project_files/hand_result_BACK.jpg" style="border: 1px solid ; width: 154px; height: 161px;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">Input
+image<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="392">Our
+depth
+estimate (rendered in 3D)<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="259">Our
+depth
+estimate for the <b>back</b> of the hand <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+<p align="center">
+<span style="font-style: italic;"><br>
+</span>
+</p>
+<div style="text-align: center;">
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <h2>Face reconstruction</h2>
+    </blockquote>
+  </blockquote>
+</blockquote>
+</div>
+<div style="text-align: center;"><br>
+</div>
+<div align="center">
+<center>
+<table style="text-align: left; margin-left: auto; margin-right: auto; width: 670px; height: 208px; border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="7" cellspacing="7">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Face - input image" title="Face - input image" src="./project_files/avi.jpg" style="border: 0px solid ; width: 100px; height: 121px;"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="392">
+      <img alt="Face - our depth estimate" title="Face - our depth estimate" src="./project_files/avi_result.jpg" style="border: 1px solid ; width: 112px; height: 128px;"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="259">
+      <img alt="Face - our depth estimate, textured" title="Face - our depth estimate, textured" src="./project_files/avi_result_tex.jpg" style="border: 1px solid ; width: 110px; height: 128px;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">
+      <img alt="Cyclops - input image" title="Cyclops - input image" src="./project_files/cyclops.jpg" style="border: 0px solid ; width: 104px; height: 121px;"></td>
+      <td style="vertical-align: top; text-align: center;" width="392">
+      <img alt="Cyclops - our depth estimate" title="Cyclops - our depth estimate" src="./project_files/cyclops_result.jpg" style="border: 1px solid ; width: 115px; height: 133px;"></td>
+      <td style="vertical-align: top; text-align: center;" width="259">
+      <img alt="Cyclops - our depth estimate, textured" title="Cyclops - our depth estimate, textured" src="./project_files/cyclops_result_tex.jpg" style="border: 1px solid ; width: 108px; height: 133px;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;" width="294">Input
+image<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="392">Our
+depth
+estimate (rendered in 3D)<br>
+      </td>
+      <td style="vertical-align: top; text-align: center;" width="259">Textured
+rendering of our depth estimate<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div>
+<p align="center">
+&nbsp;</p>
+<p align="center">
+&nbsp;</p>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><i><a href="http://www.weizmann.ac.il/"><span style="">To
+the Weizmann Institute of Science Home Page<br>
+</span></a></i><span style=""></span><span style=""><a href="http://www.wisdom.weizmann.ac.il/">Faculty
+of Mathematics and Computer
+Science<br>
+</a></span><a href="http://www.wisdom.weizmann.ac.il/mathusers/vision/">Computer
+Vision Group</a><br>
+</p>
+<address><span style="">
+<br>
+<o:p></o:p></span></address>
+<div class="MsoNormal" style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center">
+<hr align="center" size="2" width="82%"></div>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+Last update:<span style=""></span><span style="">&nbsp; </span>July.
+30,
+2006<br>
+For
+questions and remarks please contact:&nbsp; <a href="http://www.wisdom.weizmann.ac.il/~hassner">Tal Hassner</a>.<a href="mailto:hassner@wisdom.weizmann.ac.il"><br>
+</a>Confidential - Proprietary <span class="moz-txt-citetags"></span>Information.<br>
+<br>
+<br>
+<br>
+</div>
+&nbsp;
+<div id="eXTReMe"><a href="http://extremetracking.com/open?login=tal3d"><img src="./project_files/i.gif" style="border: 0pt none ;" id="EXim" alt="eXTReMe Tracker" height="38" width="41"></a>
+<script type="text/javascript"><!--
+var EXlogin='tal3d' // Login
+var EXvsrv='s10' // VServer
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e1.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><img src="./project_files/s10.g" height="1" width="1">
+<noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+src="http://e1.extreme-dm.com/s10.g?login=tal3d&amp;j=n&amp;jv=n" />
+</div></noscript>
+</div>
+
+
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'IACJJPNJCODKDEMDCAFJBFGDLABOBKABNCDNNPABLLMEKJAILGFALFHBGKJPFFDIOCJBBINCCOOEILHMLIKAOHNNAONFEOGPGNPPIIMEFJIADILKEBPEEOHHCBGIHJFH',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1384992543aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body></html>
