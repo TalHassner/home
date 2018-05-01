@@ -1,5 +1,4 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<!-- saved from url=(0052)https://www.openu.ac.il/home/hassner/projects/poses/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
     
     <title>MATLAB 3D Model Renderer</title>
@@ -123,7 +122,7 @@
                                 Outputs an 'unproject' matrix, linking each pixel with the coordinates the 3D 
                                 surface point projected onto that pixel; it is therefore ideal for calibration / 
                                 pose estimation using a
-                                <a href="https://www.openu.ac.il/home/hassner/projects/ransaclearn/HasserAssifWolfMVAP13.pdf">
+                                <a href="https://osnathassner.github.io/talhassner/files/HasserAssifWolf_MVAP13.pdf">
                                 3D model as reference</a>.
                             </li>
                             <li>
@@ -135,26 +134,26 @@
                             </ul>
                                 
                                 This code was developed by <a href="mailto:liav.assif@gmail.com">Liav Assif</a> 
-                                and <a href="https://www.openu.ac.il/home/hassner">Tal Hassner</a>
+                                and <a href="https://osnathassner.github.io/talhassner/">Tal Hassner</a>
                                 and was used in the following papers:
                     <ul>
                         <li style="text-align: justify;" class="style1">Tal Hassner, Shai Harel*, Eran Paz* and Roee Enbar, <em>Effective Face Frontalization in Unconstrained Images,</em> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015 
-                            (<a href="https://www.openu.ac.il/home/hassner/projects/frontalize/">Project and code</a>,
+                            (<a href="https://osnathassner.github.io/talhassner/projects/frontalize/project.html">Project and code</a>,
                             <a href="http://arxiv.org/abs/1411.7964">arXiv</a>,
                             <a href="http://arxiv.org/pdf/1411.7964v1.pdf">PDF</a>)<br>* These author names are in alphabetical order due to equal contribution.</li>
                     </ul>
                             <ul>
-                                <li><a href="https://www.openu.ac.il/home/hassner/">T. Hassner</a>, Viewing Real-World
+                                <li><a href="https://osnathassner.github.io/talhassner/">T. Hassner</a>, Viewing Real-World
                                     Faces in 3D, International Conference on Computer Vision (ICCV), Sydney, Austraila,
-                                    Dec. 2013 (<a href="http://openu.ac.il/home/hassner/projects/ViewFaces3D/">project</a>,
-                                    <a href="https://www.openu.ac.il/home/hassner/projects/ViewFaces3D/HassnerICCV2013preprint.pdf">
+                                    Dec. 2013 (<a href="http://osnathassner.github.io/talhassner/projects/ViewFaces3D/">project</a>,
+                                    <a href="https://osnathassner.github.io/talhassner/files/HassnerICCV2013.pdf">
                                         PDF</a>)</li>
                             </ul>
                             <ul>
-                                <li><a href="https://www.openu.ac.il/home/hassner/">T. Hassner</a>, <a href="mailto:liav.assif@gmail.com">
+                                <li><a href="https://osnathassner.github.io/talhassner/">T. Hassner</a>, <a href="mailto:liav.assif@gmail.com">
                                     L. Assif</a>, and <a href="http://www.cs.tau.ac.il/~wolf/">L. Wolf</a>, When Standard
                                     RANSAC is Not Enough: Cross-Media Visual Matching with Hypothesis Relevancy, Machine
-                                    Vision and Applications (MVAP), Volume 25, Issue 4, Page 971-983, 2014 (<a href="https://www.openu.ac.il/home/hassner/projects/ransaclearn/HasserAssifWolfMVAP13.pdf">PDF</a>)</li>
+                                    Vision and Applications (MVAP), Volume 25, Issue 4, Page 971-983, 2014 (<a href="https://osnathassner.github.io/talhassner/files/HasserAssifWolf_MVAP13.pdf">PDF</a>)</li>
                             </ul>
                             <p>
                                 <strong>If you find this code useful, please add suitable references in your work to 
@@ -169,16 +168,16 @@
                     <blockquote style="text-align: justify" class="style6">
                     The following files are available for download:
                     <ul>
-                        <li><a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer-1.0.2.tar.gz">renderer-1.0.2.tar.gz</a> Linux version of the renderer function (see <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more)</li>
-                        <li><a href="https://www.openu.ac.il/home/hassner/projects/poses/calib.1.0.1.zip">calib.1.0.1.zip</a>, a MATLAB wrapper for the OpenCV calibration function,
-                        used with renderer to adjust the pose of the model rendered using renderer. (see <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more). 
+                        <li><a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.2.tar.gz">renderer-1.0.2.tar.gz</a> Linux version of the renderer function (see <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more)</li>
+                        <li><a href="https://osnathassner.github.io/talhassner/projects/poses/calib.1.0.1.zip">calib.1.0.1.zip</a>, a MATLAB wrapper for the OpenCV calibration function,
+                        used with renderer to adjust the pose of the model rendered using renderer. (see <a href="https://osnathassner.github.io/talhassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more). 
                             This is the Linux version, in order to use on Windows, see below for the 
                             Windows, OpenCV binaries.</li>
                         <li>To help newcomers, we provide pre-compiled versions of the dependent libraries, OpenSceneGraph and Mesa OpenGL 
-                        in <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer-pre-compiled-libs.0.0.2.tar.gz">renderer-pre-compiled-libs.0.0.2.tar.gz</a> 
+                        in <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-pre-compiled-libs.0.0.2.tar.gz">renderer-pre-compiled-libs.0.0.2.tar.gz</a> 
                         (~58MB). </li>
-                        <li>OpenCV binaries for calib on Windows are also available, in <a href="https://www.openu.ac.il/home/hassner/projects/poses/opencv_lib.zip">opencv_lib.zip</a> and 
-                            <a href="https://www.openu.ac.il/home/hassner/projects/poses/opencv_bin.zip">opencv_bin.zip</a>. To use these, unpack to two 
+                        <li>OpenCV binaries for calib on Windows are also available, in <a href="https://osnathassner.github.io/talhassner/projects/poses/opencv_lib.zip">opencv_lib.zip</a> and 
+                            <a href="https://osnathassner.github.io/talhassner/projects/poses/opencv_bin.zip">opencv_bin.zip</a>. To use these, unpack to two 
                             separate folders and add these folders to the system PATH before running MATLAB.</li>
                         <li>
                         An unofficial 
@@ -188,8 +187,8 @@
                         <li><strong>Elad Shtivi's</strong> code and <strong>Windows binaries</strong> for the real-time demo, including facial animation (see videos below) is now available from 
                             <a href="https://github.com/eshtivi/Poses">github</a>.</li>
                         <li>An unofficial (and unsupported) <strong>Windows port for renderer, with special 
-                            thanks to Chao Yao</strong>: <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.Windows.1.0.0.zip">renderer.Windows.1.0.0.zip</a>. See 
-                            <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt</a> for further 
+                            thanks to Chao Yao</strong>: <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.Windows.1.0.0.zip">renderer.Windows.1.0.0.zip</a>. See 
+                            <a href="https://www.openu.ac.il/osnathassner.github.io/talhassner/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt</a> for further 
                             details. For questions or concerns regarding this Windows version, please
                             contact <a href="mailto:leonhartyao@gmail.com">Chao Yao</a>. </li>
                      </ul>
@@ -198,7 +197,7 @@
                         <br><br>
                         14th of Apr. 2015<br>
 
-                        Updated version for the Linux version of <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer-1.0.1.tar.gz">renderer</a>; 
+                        Updated version for the Linux version of <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.1.tar.gz">renderer</a>; 
                         now supports MATLAB 2014b and includes changes to the documentation (previous 
                         version available below).<br><br>
                         8th of Feb. 2015<br>
@@ -207,13 +206,13 @@
                         <strong>pre-compiled Windows binaries for the renderer function</strong>, 
                         along with source files, modified for easy compilation on different Windows platforms 
                         / MATLAB versions.&nbsp;Code is available in <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.Windows.1.0.0.zip">renderer.Windows.1.0.0.zip</a>. 
-                        Please see <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt </a>for 
+                        Please see <a href="https://osnathassner.github.io/talhassner/projects/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt </a>for 
                         additional information.&nbsp;
 
                         <br><br>
                         1st of Dec. 2014<br>
                         Face frontalization project is 
-                        <a href="https://www.openu.ac.il/home/hassner/projects/frontalize/">now online</a>, 
+                        <a href="https://osnathassner.github.io/talhassner/projects/frontalize/project.html">now online</a>, 
                         including MATLAB code for synthesizing front-facing views of faces in 
                         unconstrained images. This project utilizes the calib function as well as data 
                         produced by the renderer function (though renderer is not required for 
@@ -231,14 +230,14 @@
                         - <strong>Elad Shtivi's</strong> Windows code and binaries for the real-time demo of renderer and calib, including facial animations, is now online from 
                         <a href="https://github.com/eshtivi/Poses">github</a>. Videos demonstrating some of its capabilities are available on Youtube:<br><br>
                         <center>
-                        <iframe src="./project_files/8-_kW3XITkQ.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
+                        <iframe src="./8-_kW3XITkQ.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
                         </center>
                         <br><br>
                         28 Aug. 2014<br>
                         - Some basic capabilities of the calib+renderer 
                         combo, including the addition of facial animation, are demonstrated by <strong>Elad Shtivi</strong> in the following video.<br><br>
                         <center>
-                        <iframe src="./project_files/OvaCBEHa0LE.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
+                        <iframe src="./OvaCBEHa0LE.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
                         </center>
                         <br><br>
                         17 Aug. 20144<br>
@@ -255,7 +254,7 @@
                         <br>
 
                         13 July 2014<br>
-                        - Updated renderer code with some bug fixes. New <a href="https://www.openu.ac.il/home/hassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> with more information, 
+                        - Updated renderer code with some bug fixes. New <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> with more information, 
                         quick start guide, FAQ and more. Example public domain wrl file now included in 
                         the package.<br>
                         <br>
@@ -277,29 +276,29 @@
                         <br>
                         <br>
                         <strong>Previous versions</strong><br>
-                        <li>14 Apr. 2015 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer-1.0.1.tar.gz">renderer-1.0.1.tar.gz</a></li>
-                        <li>30 Nov. 2014 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/calib-1.0.0.tar.gz">calib-1.0.0.tar.gz</a></li>
-                        <li>17 August 2014 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/calib.0.0.2.zip">calib.0.0.2.zip</a></li>
-                        <li>17 August 2014 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.1.0.0.zip">renderer.1.0.0.zip</a></li>
-                        <li>13 July 2014 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.0.0.2.zip">renderer.0.0.2.zip</a></li>
-                        <li>17 March 2014 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer-pre-compiled-libs.tar.gz">renderer-pre-compiled-libs.tar.gz</a>
+                        <li>14 Apr. 2015 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.1.tar.gz">renderer-1.0.1.tar.gz</a></li>
+                        <li>30 Nov. 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib-1.0.0.tar.gz">calib-1.0.0.tar.gz</a></li>
+                        <li>17 August 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib.0.0.2.zip">calib.0.0.2.zip</a></li>
+                        <li>17 August 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.1.0.0.zip">renderer.1.0.0.zip</a></li>
+                        <li>13 July 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.0.0.2.zip">renderer.0.0.2.zip</a></li>
+                        <li>17 March 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-pre-compiled-libs.tar.gz">renderer-pre-compiled-libs.tar.gz</a>
                         </li>
                             
-                        <li> 23 Dec. 2013 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/calib.0.0.1.zip">calib.0.0.1.zip</a></li>
+                        <li> 23 Dec. 2013 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib.0.0.1.zip">calib.0.0.1.zip</a></li>
                             <li>
-                            18 Nov. 2013 - <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.0.0.1.zip">renderer.0.0.1.zip</a></li>
+                            18 Nov. 2013 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.0.0.1.zip">renderer.0.0.1.zip</a></li>
                         
                     </blockquote>
                     <hr style="width: 90%; height: 2px;">
                     <h3>
                         Example usage</h3>
                     <blockquote class="style18">
-                        See quickstart section in <a href="https://www.openu.ac.il/home/hassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> for installation instructions.
-                        In case of any problems, please see the FAQ, also in <a href="https://www.openu.ac.il/home/hassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a>.
+                        See quickstart section in <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> for installation instructions.
+                        In case of any problems, please see the FAQ, also in <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a>.
                         <br>
                         <br>
                         Example taken from
-                        <a href="http://openu.ac.il/home/hassner/projects/ViewFaces3D/">Hassner, ICCV'13</a>: 
+                        <a href="http://osnathassner.github.io/talhassner/projects/ViewFaces3D/project.html">Hassner, ICCV'13</a>: 
                         Rendering a 3D face model to match the
                         pose of a face appearing in a query photo. Assuming that the code from <span class="style10">
                             <a href="http://www.ics.uci.edu/~xzhu/face/">www.ics.uci.edu/~xzhu/face/</a></span>
@@ -448,7 +447,7 @@
 	}
 	catch (e) {}
 	-->
-</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+</script><script src="./ga.js.download" type="text/javascript"></script>
 <script type="text/javascript">
 	<!--
 	try 
