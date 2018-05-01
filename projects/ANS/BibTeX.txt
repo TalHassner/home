@@ -1,0 +1,10 @@
+@inproceedings{BHZM:CVPR07:ANSS,
+ author    = {R.~Basri and T.~Hassner and L.~Zelnik-Manor},
+ title     = {Approximate Nearest Subspace Search with Applications to Pattern Recognition},
+ booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+ month	=  {June},
+ year 	= {2007},
+ publisher = {IEEE Computer Society},
+ URL 	= {http://osnathassner.github.io/talhassner/projects/ANS/},
+ note 	= {Author names are ordered alphabetically due to equal contribution.}
+}
