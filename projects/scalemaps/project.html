@@ -1,1 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0056)https://www.openu.ac.il/home/hassner/projects/scalemaps/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Dense Correspondences Across Scenes and Scales</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="OCR-Free Transcript Alignment" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style19
+        {
+            text-align: justify;
+        }
+        .style20
+        {
+            width: 350px;
+            height: 306px;
+        }
+        .style49
+        {
+            text-align: center;
+        }
+        .style23
+        {
+            text-align: justify;
+        }
+        .style51
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h2 style="text-align: center; font-weight: normal;">
+                        <strong>Dense Correspondences Across Scenes and Scales</strong></h2>
+                    <table align="center" style="width: 334px">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    Moria Tau</h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="https://www.openu.ac.il/home/hassner/" style="text-align: center">Tal Hassner</a></h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" class="style49">
+                                <a href="https://www-e.openu.ac.il/">The Open University of Israel</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <img alt="Dense correspondences with and without scale propagation" class="style20" longdesc="Dense correspondences with and without scale propagation" src="./project_files/teaser_a.png"><br>
+                        <center>
+                    <blockquote style="text-align: justify; width: 721px;">
+                        <strong>Figure 1. Dense correspondences between the same semantic content ("smiley")
+                            in different scenes and different scales.</strong> Top: Input images. Bottom:
+                        Results visualized by warping the colors of the "Target" photo onto the "Source"
+                        using the estimated correspondences from Source to Target. A good result has the
+                        colors of the Target photo, located in the same position as their matching semantic
+                        regions in the Source. Results show the output of the original SIFT-Flow method,
+                        using DSIFT without local scale selections (bottom left), and our method (bottom
+                        right).</blockquote></center>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                            <span class="style24"><strong>Abstract: </strong></span>We seek a practical method
+                            for establishing dense correspondences between two images with similar content,
+                            but possibly different 3D scenes. One of the challenges in designing such a system
+                            is the local scale differences of objects appearing in the two images. Previous
+                            methods often considered only small subsets of image pixels; matching only pixels
+                            for which stable scales may be reliably estimated. More recently, others have considered
+                            dense correspondences, but with substantial costs associated with generating, storing
+                            and matching scale invariant descriptors. Our work here is motivated by the observation
+                            that pixels in the image have contexts -- the pixels around them -- which may be
+                            exploited in order to estimate local scales reliably and repeatably. Specifically,
+                            we make the following contributions. (i) We show that scales estimated in sparse
+                            interest points may be propagated to neighboring pixels where this information cannot
+                            be reliably determined. Doing so allows scale invariant descriptors to be extracted
+                            anywhere in the image, not just in detected interest points. (ii) We present three
+                            different means for propagating this information: using only the scales at detected
+                            interest points, using the underlying image information to guide the propagation
+                            of this information across each image, separately, and using both images simultaneously.
+                            Finally, (iii), we provide extensive results, both qualitative and quantitative,
+                            demonstrating that accurate dense correspondences can be obtained even between very
+                            different images, with little computational costs beyond those required by existing
+                            methods. .<br>
+                            <br class="style24">
+                            <span class="style24"><strong>Reference:</strong></span> <big><span class="style24">
+                            </span></big><font class="style19"><span class="style51"><strong>NEW!</strong></span> Moria Tau and Tal Hassner,
+                                <em>
+                            <a href="https://www.openu.ac.il/home/hassner/projects/scalemaps/TauHassner(TPAMI).pdf">Dense Correspondences Across Scenes and Scales</a></em>, IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 38(5): 875-888 (2016)
+</font><br><br>
 
+                            (Earlier, shorter version appeared as:<big><span class="style24">
+                            </span></big><font class="style19">Moria Tau and Tal Hassner,
+                                <em>Dense Correspondences Across Scenes and Scales</em>, arXiv preprint
+                            arXiv:1406.6323, 24 Jun. 2014)</font><br>
+                                <br>
+                                <hr style="width: 90%; height: 2px;">
+                             <font class="style46">Click 
+                            <a href="https://www.openu.ac.il/home/hassner/projects/scalemaps/TauHassner(TPAMI).pdf">here for the full PAMI version PDF</a></font><br>
+                            <font class="style46">Click <a href="http://arxiv.org/pdf/1406.6323v1.pdf">here for the short ArXiv preprint PDF</a></font>
+                            <br>
+                            <br>
+                            Video talk from the Dec. 21st, 2014,
+                            <a href="http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html">IDC Israel 
+                            Vision Day</a><br>
+                            <br> 
+                            <center>
+                            <iframe src="./project_files/I_u9t30Qxj4.html" frameborder="0" allowfullscreen="" style="height: 178px; width: 340px"></iframe>
+                            </center>
+                            <br>
+                            <br>
+                            Slides from the CVPR'14 tutorial on 
+                            <a href="http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/">Dense Image Correspondences for Computer 
+                            Vision</a>, Columbus, Ohio, June. 2014 (<a href="https://www.openu.ac.il/home/hassner/Events/DenseCorrespondencesICCV14/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx">PPTX</a>)<br>
+                        </div>
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana; direction: ltr;">
+                            <h3 style="text-align: center">
+                                Downloads</h3>
+                            <strong>Scale propagation code:</strong> Our MATLAB implementation of the scale propagation method is 
+                            <a href="https://www.openu.ac.il/home/hassner/projects/scalemaps/scalemaps.0.0.1.zip">available here</a>.
+                            <br>
+                            <br>
+                            If you find this code useful, please cite our paper.<br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <span class="style51"><strong>April 18, 2016 New!</strong></span>
+                            <a href="https://github.com/YuvalNirkin">Yuval Nirkin</a> 
+                            has shared a 3D reconstruction project which uses
+                            <a href="https://github.com/openMVG/openMVG/">OpemMVG</a>,
+                            <a href="http://people.csail.mit.edu/celiu/SIFTflow/">SIFT flow</a> and our 
+                            scale propagation method for 3D reconstruction from multiple views. In doing so, 
+                            both <a href="http://people.csail.mit.edu/celiu/SIFTflow/">SIFT flow</a> and our 
+                            scale propagation methods were ported to OpenCV compatible code. 
+                            <br>
+                            <ul>
+                            <li>The 3D reconstruction code is available from a dedicated
+                            <a href="https://github.com/YuvalNirkin/DenseCorrespondences">github page</a>.&nbsp;</li>
+                            <li>A pending OpenCV contribution with a port for SIFT flow and out scale 
+                                propagation is available on the
+                                <a href="https://github.com/YuvalNirkin/opencv_contrib">OpenCV github</a>.</li>
+                            </ul>
+                            <br>
+                        </div>
+                                                <hr style="width: 90%; height: 2px;">
+                            <h3 style="text-align: center">Other related papers / projects / codee</h3>
+                            <ul>
+                            <li style="text-align: justify;"><font face="Tahoma">T. Hassner, V. Mayzels, and L.
+                                Zelnik-Manor, <em>On SIFTs and their Scales,</em> IEEE Conf. on Computer Vision
+                                and Pattern Recognition (CVPR), Rhode Island, June 2012</font><font face="Tahoma"> (<a href="https://www.openu.ac.il/home/hassner/projects/siftscales/">project and code</a>,
+                                    <a href="https://www.openu.ac.il/home/hassner/projects/siftscales/OnSiftsAndTheirScales-CVPR12.pdf">
+                                        PDF</a>)</font></li></ul>
+
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <blockquote class="style23">
+                        Copyright 2014, Moria Tau and Tal Hassner 
+                        <br>
+                        <br>
+                        The SOFTWARE ("scalemaps" and all included files) is provided "as is", without
+                        any guarantee made as to its suitability or fitness for any particular use. It may
+                        contain bugs, so use of this tool is at your own risk. We take no responsibility
+                        for any damage that may unintentionally be caused through its use.
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <p>
+                        Last update 
+                        18th of April., 2016</p>
+                    <p>
+                        &nbsp;</p>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>
