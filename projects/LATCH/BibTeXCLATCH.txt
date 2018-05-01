@@ -1,0 +1,7 @@
+@inproceedings{Parkeretal2016CLATCH,
+  title={The {CUDA} {LATCH} Binary Descriptor: Because Sometimes Faster Means Better},
+  author={Christopher Parker and Matthew Daiter and Kareem Omar and Gil Levi and Tal Hassner},
+  booktitle={European Conference on Computer Vision (ECCV) workshops},
+  year={2016},
+  url = {https://osnathassner.github.io/talhassner/projects/LATCH}
+}
