@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Dense Correspondences - Icon.jpg' width='80'> Dense Correspondences across Scenes and Scales"
+title: "Dense Correspondences across Scenes and Scales"
 collection: publications
 permalink: /publication/2016_TPAMI
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/TauHassner_TPAMI.pdf)'
@@ -8,6 +8,8 @@ venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 38(5):
 paperurl: ''
 citation: 'Moria Tau and Tal Hassner. (2016). &quot;Dense Correspondences across Scenes and Scales.&quot; <i> IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 38(5): 875-888 (2016)</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Dense Correspondences - Icon.jpg'>
 
 Abstract
 ------
