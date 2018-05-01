@@ -1,0 +1,9 @@
+@inproceedings{BHZM:ICCVW09:GANSS,
+ author    = {R.~Basri and T.~Hassner and L.~Zelnik-Manor},
+ title     = {A General Framework for Approximate Nearest Subspace Search},
+ booktitle = {2nd IEEE International Workshop on Subspace Methods at the IEEE International Conference on Computer Vision (ICCV)},
+ month	=  {Sept.},
+ year 	= {2009},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/GANS/},
+ note 	= {Author names are ordered alphabetically due to equal contribution.}
+}
