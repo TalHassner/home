@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg' width='80'>  Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
+title: "Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics"
 collection: publications
 permalink: /publication/2011_TPAMI
 excerpt: '**Press coverage:**<br/>
@@ -11,6 +11,8 @@ venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)
 paperurl: ''
 citation: 'Lior Wolf, Tal Hassner, and Yaniv Taigman. (2011). &quot;Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Effective Unconstrained Face Recognition - Icon.jpg'>
 
 Abstract
 ------
