@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/Age and Gender Estimation 2 - Icon.jpg' width='80'> Age and Gender Estimation of Unfiltered Faces"
+title: "Age and Gender Estimation of Unfiltered Faces"
 collection: publications
 permalink: /publication/2014_IEEE_TIFS
 excerpt: '**R. Enbar selected for the 2017 SPS Young Author Best Paper Award by the IEEE Signal Processing Society.**<br/><br/>
@@ -9,6 +9,8 @@ venue: 'Transactions on Information Forensics and Security (IEEE-TIFS), special 
 paperurl: ''
 citation: 'Eran Eidinger, Roee Enbar, Tal Hassner. (2014). &quot;Age and Gender Estimation of Unfiltered Faces.&quot; <i>Transactions on Information Forensics and Security (IEEE-TIFS), special issue on Facial Biometrics in the Wild, Volume 9, Issue 12, pages 2170 - 2179</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/Age and Gender Estimation 2 - Icon.jpg'>
 
 Abstract
 ------
