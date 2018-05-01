@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/One Shot Similarity - Icon.jpg' width='80'> One Shot Similarity Metric Learning for Action Recognition"
+title: "One Shot Similarity Metric Learning for Action Recognition"
 collection: publications
 permalink: /publication/2011_SIMBAD
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)'
@@ -8,6 +8,8 @@ venue: 'International Workshop on Similarity-Based Pattern Analysis and Recognit
 paperurl: ''
 citation: 'Orit Kliper-Gross, Tal Hassner, and Lior Wolf. (2011). &quot;One Shot Similarity Metric Learning for Action Recognition.&quot; <i>International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), Venice, Italy</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/One Shot Similarity - Icon.jpg'>
 
 Abstract
 ------
