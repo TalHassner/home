@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0061)https://www.openu.ac.il/home/hassner/projects/PG13/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Interactive Learning for Point-Cloud Motion Segmentation</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="OCR-Free Transcript Alignment" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style19
+        {
+            font-size: small;
+            font-weight: bold;
+        }
+        .style23
+        {
+            direction: ltr;
+            text-align: justify;
+        }
+        .style24
+        {
+            font-size: medium;
+        }
+        .style25
+        {
+            font-size: medium;
+            font-weight: bold;
+        }
+        .style27
+        {
+            width: 833px;
+        }
+        .style48
+        {
+            width: 277px;
+            text-align: center;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .style49
+        {
+            width: 277px;
+            text-align: center;
+            font-style: italic;
+        }
+        .style51
+        {
+            width: 809px;
+            height: 197px;
+        }
+        .style52
+        {
+            font-size: small;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h1 style="text-align: center; font-weight: normal;">
+                        <strong>Interactive Learning for Point-Cloud Motion Segmentation</strong></h1>
+                    <table align="center" class="style27">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4>
+                                    Yerry Sofer</h4>
+                            </td>
+                            <td class="style48">
+                                <h4>
+                                    <a href="https://www.openu.ac.il/home/hassner">Tal Hassner</a></h4>
+                            </td>
+                            <td class="style48">
+                                <h4>
+                                    <a href="http://www.cs.bgu.ac.il/~asharf/">Andrei Sharf</a></h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="style49">
+                                The Open University of Israel
+                            </td>
+                            <td class="style49">
+                                The Open University of Israel
+                            </td>
+                            <td class="style49">
+                                Ben-Gurion University
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <img alt="Motion segmentation of dynamic point-cloud scenes." class="style51" longdesc="Motion segmentation of dynamic point-cloud scenes." src="./project_files/visual.png"><br>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: small; font-family: Verdana;">
+                            <strong>Motion segmentation of dynamic point-cloud scenes.</strong>. Given a dynamic
+                            scene of two people walking under a bridge with their paths intersecting (left),
+                            we simulate its scan (mid-left) and compute its fg/bg segmentation. We adaptively
+                            refine the decision border of our classifier (mid-right) resulting in an accurate
+                            motion (fg) separation (right).</div>
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                            <span class="style24"><strong>Abstract</strong>:</span> Segmenting a moving foreground
+                            (fg) from its background (bg) is a fundamental step in many Machine Vision and Computer
+                            Graphics applications. Nevertheless, hardly any attempts have been made to tackle
+                            this problem in dynamic 3D scanned scenes. Scanned dynamic scenes are typically
+                            challenging due to noise and large missing parts. Here, we present a novel approach
+                            for motion segmentation in dynamic point-cloud scenes designed to cater to the unique
+                            properties of such data. Our key idea is to augment fg/bg classification with an
+                            active learning framework by refining the segmentation process in an adaptive manner.
+                            Our method initially classifies the scene points as either fg or bg in an un-supervised
+                            manner. This, by training discriminative RBF-SVM classifiers on automatically labeled,
+                            high-certainty fg/bg points. Next, we adaptively detect unreliable classification
+                            regions (i.e. where fg/bg separation is uncertain), locally add more training examples
+                            to better capture the motion in these areas, and re-train the classifiers to fine-tune
+                            the segmentation. This not only improves segmentation accuracy, but also allows
+                            our method to perform in a coarse-to-fine manner, thereby efficiently process high-density
+                            point-clouds. Additionally, we present a unique interactive paradigm for enhancing
+                            this learning process, by using a manual editing tool. The user explicitly edits
+                            the RBF-SVM decision borders in unreliable regions in order to refine and correct
+                            the classification. We provide extensive qualitative and quantitative experiments
+                            on both real (scanned) and synthetic dynamic .<br>
+                            <br class="style24">
+                            <big><span class="style25">Reference</span><span class="style24">:&nbsp; </span>
+                            </big><font face="Tahoma">Y. Sofer, T. Hassner, and A. Sharf, <em>Interactive Learning
+                                for Point-Cloud Motion Segmentation,</em> In Computer Graphics Forum, vol. 32, no.
+                                7, pp. 51-60. 2013</font><font class="style19">
+                                    <br>
+                                    <br>
+                                    <a href="https://www.openu.ac.il/home/hassner/projects/PG13/pg13_SoferHassnerSharf.pdf">
+                                        Click here for the PDF</a><br>
+                                    <a href="https://www.openu.ac.il/home/hassner/projects/PG13/BibTeX.txt">Click here for the BibTex</a><br>
+                                    <a href="https://www.openu.ac.il/home/hassner/projects/PG13/Hassner_POCV14_upload.pptx">
+                                        Click here for slides from the POCV14 workshop, CVPR'14</a>
+                                    <br>
+                        </font></div><font class="style19">
+                    </font></blockquote><font class="style19">
+                    <br>
+                    <hr style="width: 90%; height: 2px;">
+                    <h2>Dynamic point cloud data</h2>
+                    </font><font class="style52">
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                    We provide the data used in the experiments reported in our paper. 
+                    
+                            The data in the files below is formatted one point per row. Each row includes the 
+                            following values:<br>
+                    <center>X Y Z nX nY nZ R G B</center><br>
+                    Where:<br>
+                    <ul>
+                    <li>X Y Z are the spatial coordinates of each point (float)</li>
+                    <li>nX nY nZ are the estimated normal at that point (float)
+                    </li><li>R G B are the color values at the point, but should not be used / unreliable (integer)</li>
+                    </ul>
+                    Each archive contains one file per frame, where file names indicate the frame number. The following point clouds are available:<br>
+                    <ul>
+                    <li>Real scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/set2.zip">set2</a> (483Mb)</li>
+                    <li>Real scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/data2.zip">data2</a> (130Mb)</li>
+                    <li>Real scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/data3.zip">data3</a> (134Mb)</li>
+                    <li>Real scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/scan2.zip">scan2</a> (106Mb)</li>
+                    <li>Synthetic scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/sc2_10.zip">sc2_10</a> (3Mb)</li>
+                    <li>Synthetic scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/sc3_10.zip">sc3_10</a> (4.5Mb)</li>
+                    <li>Synthetic scan - <a href="https://www.openu.ac.il/home/hassner/projects/PG13/complex.zip">complex</a> (12.5Mb)</li>
+                    </ul>
+                    This data is free to use for academic purposes only. If you use this data in your work, please provide appropriate citations to <a href="https://www.openu.ac.il/home/hassner/projects/PG13/BibTeX.txt">our paper</a>.
+                    </div>
+                    </blockquote>
+                    </font><font class="style19">
+                    <hr style="width: 90%; height: 2px;">
+                    <p>
+                        Last update 24th of Aug., 2014</p>
+                    <p>
+                        &nbsp;</p>
+                </font></td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>
