@@ -1,5 +1,5 @@
 ---
-title: "<img src='https://osnathassner.github.io/talhassner/images/SIFTs and Scales - Icon.jpg' width='80'>SIFTing through Scales"
+title: "SIFTing through Scales"
 collection: publications
 permalink: /publication/2017_TPAMI
 excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/HassneretalTPAMI16.pdf)'
@@ -8,6 +8,8 @@ venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 39(7):
 paperurl: ''
 citation: 'Tal Hassner, Shay Filosof, Viki Mayzels, and Lihi Zelnik-Manor. (2017). &quot;SIFTing through Scales.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 39(7): 1431-1443 (2017)</i>.'
 ---
+
+<img src='https://osnathassner.github.io/talhassner/images/SIFTs and Scales - Icon.jpg'>
 
 Abstract
 ------
