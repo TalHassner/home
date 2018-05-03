@@ -9,9 +9,9 @@ paperurl: ''
 citation: 'Tal Hassner, Lior Wolf, and Nachum Dershowitz. (2013). &quot;OCR-Free Transcript Alignment.&quot; <i>International Conference on Document Analysis and Recognition (ICDAR), Washington DC</i>.'
 ---
 
-[Download paper here](https://osnathassner.github.io/talhassner/project/ofta/ICRA2013_ofta_online.pdf)
+[Download paper here](https://osnathassner.github.io/talhassner/projects/ofta/ICRA2013_ofta_online.pdf)
 
-[BibTeX](https://osnathassner.github.io/talhassner/project/ofta/BibTeX.txt)
+[BibTeX](https://osnathassner.github.io/talhassner/projects/ofta/BibTeX.txt)
 
 Abstract
 ------
