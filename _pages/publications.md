@@ -1,6 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Books"
+permalink: /publications/
+author_profile: true
+---
+layout: archive
+title: "Publications in Journals, Conferences and Workshops"
+permalink: /publications/
+author_profile: true
+---
+layout: archive
+title: "Reports"
 permalink: /publications/
 author_profile: true
 ---
