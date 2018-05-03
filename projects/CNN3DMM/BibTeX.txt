@@ -1,1 +1,7 @@
-
+@article{tran2016regressing,
+  title={Regressing Robust and Discriminative {3D} Morphable Models with a very Deep Neural Network},
+  author={Anh Tu\~{a}n Tr\~{a}n and Tal Hassner and Iacopo Masi and G\'{e}rard Medioni},
+  journal={arXiv preprint arXiv:1612.04904},
+  year={2016},
+  URL 	= {https://osnathassner.github.io/talhassner/projects/CNN3DMM}
+}
