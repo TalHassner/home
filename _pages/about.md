@@ -11,8 +11,7 @@ redirect_from:
 Starting August 2015 I will be on sabbatical and taking up a position of Senior Computer Scientist  at the University of Southern California (USC), Viterbi School of Engineering, Information Sciences Institute (ISI).
 
  
-Contact info
-======
+## Contact info
 Office address: 
 Department of Mathematics and Computer Science, The Open University of Israel 
 1 University Road, P.O.B. 808, Raanana 43107, Israel
@@ -23,12 +22,10 @@ Office Fax:  +972-9-778-0605
 
 E-Mail: talhassner@gmail.com
 
-Research interests
-======
+## Research interests
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
 
-Events and news
-======
+## Events and news
 - December 6th, 2017: 
 **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
