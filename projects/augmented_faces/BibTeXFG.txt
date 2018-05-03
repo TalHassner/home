@@ -1,0 +1,8 @@
+@InProceedings{Masietal:2017:repid,
+author = {Iacopo Masi and Tal Hassner and Anh Tu\~{a}n Tr\~{a}n and G\'{e}rard Medioni},
+title = {Rapid Synthesis of Massive Face Sets for Improved Face Recognition},
+booktitle = {International Conference on Automatic Face and Gesture Recognition (FG)},
+month = {May},
+year = {2017},
+URL = {\url{https://https://osnathassner.github.io/talhassner/projects/augmented_faces}}
+}
