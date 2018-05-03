@@ -19,4 +19,4 @@ In this work we present a metric learning technique that is geared toward improv
 
 [Video Lecture](http://videolectures.net/simbad2011_kliper_gross_recognition/)
 
-[Download paper here]((https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)
+[Download paper here](https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)
