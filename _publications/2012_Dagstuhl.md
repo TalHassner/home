@@ -2,14 +2,14 @@
 title: "Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)"
 collection: publications
 permalink: /publication/2012_Dagstuhl
-excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](https://osnathassner.github.io/talhassner/files/dagman-v002-i001-complete.pdf)'
+excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](../projects/dagstuhl/dagman-v002-i001-complete.pdf)'
 date: 2012-09-01
 venue: 'Dagstuhl Manifestos 2(1): 14-35 (2012)'
 paperurl: ''
-citation: 'Tal Hassner, Malte Rehbein, Peter A. Stokes, and Lior Wolf. (2012). &quot;Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382).&quot; <i>Dagstuhl Manifestos 2(1): 14-35 (2012)</i>.'
+citation: 'Tal Hassner, Malte Rehbein, Peter A. Stokes, and Lior Wolf. <i>Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382).</i> Dagstuhl Manifestos 2(1): 14-35, 2012.'
 ---
 
-<img src='https://osnathassner.github.io/talhassner/images/Dagstuhl Manifestos - Icon.jpg'>
+<img src='../images/Dagstuhl Manifestos - Icon.jpg'>
 
 Abstract
 ------
@@ -18,4 +18,4 @@ This is the manifesto of Dagstuhl Perspectives Workshop 12182 on a multi-discipl
 
 [Info](http://drops.dagstuhl.de/opus/volltexte/2013/4171/)
 
-[Download paper here](https://osnathassner.github.io/talhassner/files/dagman-v002-i001-complete.pdf)
+[Download paper here](../projects/dagstuhl/dagman-v002-i001-complete.pdf)
