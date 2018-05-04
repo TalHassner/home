@@ -3,8 +3,8 @@ title: "Effective Unconstrained Face Recognition by Combining Multiple Descripto
 collection: publications
 permalink: /publication/2011_TPAMI
 excerpt: '**Press coverage:**<br/>
-Winter 2011 - Feature article in [Open Letter](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [Available online](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html). <br/><br/>
-[Download paper here](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)'
+Winter 2011 - Feature article in [<font color="SkyBlue">Open Letter</font>](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [<font color="SkyBlue">Available online</font>](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html). <br/><br/>
+[<font color="SkyBlue"><i>Download paper</i></font>](http://osnathassner.github.io/talhassner/files/WolfHassnerTaigman_TPAMI2011.pdf)'
 
 date: 2011-10-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)'
