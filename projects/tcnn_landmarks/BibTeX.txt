@@ -3,6 +3,6 @@
   author={Yue Wu and Tal Hassner and KangGeon Kim and Gerard Medioni and Prem Natarajan},
   journal={arXiv preprint arXiv:1511.04031},
   year={2016},
-  URL 	= {\url{https://osnathassner.github.io/talhassner/projects/tcnn_landmarks/project.html}},
+  URL 	= {\url{https://osnathassner.github.io/talhassner/projects/tcnn_landmarks/}},
   note = {First two authors are equal contributors / joint first authors.}
 }
