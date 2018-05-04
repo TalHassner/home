@@ -2,7 +2,7 @@
 title: "Dense Correspondences across Scenes and Scales"
 collection: publications
 permalink: /publication/2016_TPAMI
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/projects/scalemaps/TauHassner_TPAMI.pdf)'
+excerpt: '[<font color="SkyBlue">Download paper</font>](https://osnathassner.github.io/talhassner/projects/scalemaps/TauHassner_TPAMI.pdf)'
 date: 2016-06-15
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 38(5): 875-888 (2016)'
 paperurl: ''
