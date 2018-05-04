@@ -2,7 +2,7 @@
 title: "OCR-Free Transcript Alignment"
 collection: publications
 permalink: /publication/2013_ICDAR
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/projects/Ofta/ICRA2013_ofta_online.pdf)'
+excerpt: '[<font color="SkyBlue">Download paper</font>](https://osnathassner.github.io/talhassner/projects/Ofta/ICRA2013_ofta_online.pdf)'
 date: 2013-08-01
 venue: 'International Conference on Document Analysis and Recognition (ICDAR), Washington DC'
 paperurl: ''
