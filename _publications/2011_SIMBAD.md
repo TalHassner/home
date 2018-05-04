@@ -2,7 +2,7 @@
 title: "One Shot Similarity Metric Learning for Action Recognition"
 collection: publications
 permalink: /publication/2011_SIMBAD
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)'
+excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>]](https://osnathassner.github.io/talhassner/files/simbad_2011.pdf)'
 date: 2011-09-01
 venue: 'International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), Venice, Italy'
 paperurl: ''
