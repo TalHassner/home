@@ -2,7 +2,7 @@
 title: "Viral Transcription Alignment"
 collection: publications
 permalink: /publication/2015_ICDAR
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/ICDAR2015_viralta.pdf)'
+excerpt: '[<font color="SkyBlue">Download paper</font>](https://osnathassner.github.io/talhassner/files/ICDAR2015_viralta.pdf)'
 date: 2015-08-01
 venue: 'International Conference on Document Analysis and Recognition (ICDAR), Nancy, France'
 paperurl: ''
