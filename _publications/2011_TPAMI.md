@@ -4,15 +4,14 @@ collection: publications
 permalink: /publication/2011_TPAMI
 excerpt: '**Press coverage:**<br/>
 Winter 2011 - Feature article in [<font color="SkyBlue">Open Letter</font>](https://www.openu.ac.il/newsletter-eng/previous.html), The Open University of Israel Magazine. [<font color="SkyBlue">Available online</font>](https://www.openu.ac.il/newsletter-eng/2011-1/computers_sights.html). <br/><br/>
-[<font color="SkyBlue"><i>Download paper</i></font>](http://osnathassner.github.io/talhassner/projects/eufr/WolfHassnerTaigman_TPAMI2011.pdf)'
-
+[<font color="SkyBlue"><i>Download paper</i></font>](../projects/eufr/WolfHassnerTaigman_TPAMI2011.pdf)'
 date: 2011-10-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)'
 paperurl: ''
-citation: 'Lior Wolf, Tal Hassner, and Yaniv Taigman. (2011). &quot;Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics.&quot; <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10)</i>.'
+citation: 'Lior Wolf, Tal Hassner, and Yaniv Taigman. <i>Effective Unconstrained Face Recognition by Combining Multiple Descriptors and Learned Background Statistics.</i> IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 33(10), 2011.'
 ---
 
-<img src='https://osnathassner.github.io/talhassner/projects/eufr/teaser.jpg'><br/>
+<img src='../projects/eufr/teaser.jpg'><br/>
 <b>Partitioning into pose.</b> (a) Images in the same pose bin. (b) One example from each pose bin ordered by value. In each subfigure the top row contains the original images and the bottom row contains the aligned versions. 
 
 ### Abstract
@@ -21,5 +20,5 @@ Computer Vision and Biometrics systems have demonstrated considerable improvemen
 
 [Data](https://www.openu.ac.il/home/hassner/data/lfwa/)
 
-[Download paper here](http://osnathassner.github.io/talhassner/projects/eufr/WolfHassnerTaigman_TPAMI2011.pdf)
+[Download paper here](../projects/eufr/WolfHassnerTaigman_TPAMI2011.pdf)
 
