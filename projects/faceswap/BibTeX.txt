@@ -1,0 +1,8 @@
+@article{NMTHM:2017:face,
+author = {Yuval Nirkin and Iacopo Masi and Anh Tu\~{a}n Tr\~{a}n and Tal Hassner and G\'{e}rard Medioni},
+title = {On Face Segmentation, Face Swapping, and Face Perception},
+journal={arXiv preprint arXiv:1704.06729},
+month = {April},
+year = {2017},
+URL = {\url{https://osnathassner.github.io/talhassner/projects/faceswap/}}
+}
