@@ -29,55 +29,55 @@ Code and deep models for face segmentation and swapping of unconstrained images 
 * **[<font color="SkyBlue">Very deep network for regressing 3D morphable face models (3DMM)</font>](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/)**<br/>
 A fast, robust and discriminative method for estimating 3DMM parameters.
 
-* **[CLATCH: A CUDA port for the LATCH binary descriptor](https://www.openu.ac.il/home/hassner/projects/LATCH/)**<br/>
+* **[<font color="SkyBlue">CLATCH: A CUDA port for the LATCH binary descriptor</font>](https://www.openu.ac.il/home/hassner/projects/LATCH/)**<br/>
 LATCH Local binary descriptors at breakneck extraction speeds.
 
-* **[Face recognition with augmented data](https://www.openu.ac.il/home/hassner/projects/augmented_faces/)**<br/>
+* **[<font color="SkyBlue">Face recognition with augmented data</font>](https://www.openu.ac.il/home/hassner/projects/augmented_faces/)**<br/>
 Code, trained models and data are in preparation. Please see project page for updates.
 
-* **[Convolutional neural network for facial landmark detection](https://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)**<br/>
+* **[<font color="SkyBlue">Convolutional neural network for facial landmark detection</font>](https://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)**<br/>
 Caffe models, code and example usage.
 
-* **[Code and trained Convolutional Neural Networks for emotion recognition](https://www.openu.ac.il/home/hassner/projects/cnn_emotions/)** from single face images.
+* **[<font color="SkyBlue">Code and trained Convolutional Neural Networks for emotion recognition</font>](https://www.openu.ac.il/home/hassner/projects/cnn_emotions/)** from single face images.
 
-* **[GPU-Based Computation of 2D Least Median of Squares](https://github.com/ligaripash/CudaLMS2D)**<br/>
+* **[<font color="SkyBlue">GPU-Based Computation of 2D Least Median of Squares</font>](https://github.com/ligaripash/CudaLMS2D)**<br/>
 Fast Least Median of Squares as a more robust substitute for 2D Least Squares, implemented on the GPU
 
-* **[The LATCH binary descriptor](https://www.openu.ac.il/home/hassner/projects/LATCH/)**<br/>
+* **[<font color="SkyBlue">The LATCH binary descriptor</font>](https://www.openu.ac.il/home/hassner/projects/LATCH/)**<br/>
 The Learned Arrangements of Three Patch Codes (LATCH) Local binary descriptor, implemented as part of OpenCV 3.0.
 
-* **[Face frontalization for recognition](https://www.openu.ac.il/home/hassner/projects/frontalize/)**<br/>
+* **[<font color="SkyBlue">Face frontalization for recognition</font>](https://www.openu.ac.il/home/hassner/projects/frontalize/)**<br/>
 MATLAB code for synthesizing aggressively aligned, forward facing new views of faces in unconstrained images.
 
-* **[Convolutional neural networks for age and gender classification](https://www.openu.ac.il/home/hassner/projects/cnn_agegender/)**<br/>
-Used with the [Adience](https://www.openu.ac.il/home/hassner/Adience/data.html#agegender) benchmark of unfiltered face images.
+* **[<font color="SkyBlue">Convolutional neural networks for age and gender classification</font>](https://www.openu.ac.il/home/hassner/projects/cnn_agegender/)**<br/>
+Used with the [<font color="SkyBlue">Adience</font>](https://www.openu.ac.il/home/hassner/Adience/data.html#agegender) benchmark of unfiltered face images.
 
-* **[Scale propagation](https://www.openu.ac.il/home/hassner/projects/scalemaps/)**<br/>
+* **[<font color="SkyBlue">Scale propagation</font>](https://www.openu.ac.il/home/hassner/projects/scalemaps/)**<br/>
 For scale-invariant dense correspondence estimation across images of different scenes (used with, e.g., SIFT-Flow).
 
-* **[In-plane alignment of faces](https://www.openu.ac.il/home/hassner/Adience/code.html#inplanealign)**<br/>
+* **[<font color="SkyBlue">In-plane alignment of faces</font>](https://www.openu.ac.il/home/hassner/Adience/code.html#inplanealign)**<br/>
 A robust face alignment technique which explicitly considers the uncertainties of facial feature detectors.
 
-* **[Identification of Larval feeding strikes](https://github.com/EyalShamur/Identification-of-Larval-feeding-strikes)**<br/>
+* **[<font color="SkyBlue">Identification of Larval feeding strikes</font>](https://github.com/EyalShamur/Identification-of-Larval-feeding-strikes)**<br/>
 A framework for automated detection of prey acquisition strikes from a long video of foraging larvae.
 
-* **[MATLAB 3D Model Renderer](https://www.openu.ac.il/home/hassner/projects/poses/)**<br/>
-MATLAB functions for rendering textured 3D models and using them to calibrate (estimate 6DOF pose) of objects appearing in images. See inside for example usage in estimating head pose. Also available is code for our [face animation demo](https://github.com/eshtivi/Poses).
+* **[<font color="SkyBlue">MATLAB 3D Model Renderer</font>](https://www.openu.ac.il/home/hassner/projects/poses/)**<br/>
+MATLAB functions for rendering textured 3D models and using them to calibrate (estimate 6DOF pose) of objects appearing in images. See inside for example usage in estimating head pose. Also available is code for our [<font color="SkyBlue">face animation demo</font>](https://github.com/eshtivi/Poses).
 
-* **[Motion Interchange Patterns (MIP)](https://www.openu.ac.il/home/hassner/projects/MIP/)**<br/>
+* **[<font color="SkyBlue">Motion Interchange Patterns (MIP)</font>](https://www.openu.ac.il/home/hassner/projects/MIP/)**<br/>
 Code for computing the MIP video representation for action recognition.
 
-* **[Violent Vlows (ViF) descriptor](https://www.openu.ac.il/home/hassner/data/violentflows/)**<br/>
+* **[<font color="SkyBlue">Violent Vlows (ViF) descriptor</font>](https://www.openu.ac.il/home/hassner/data/violentflows/)**<br/>
 Code for extracting the ViF video representation for violent action detection in videos of crowded scenes.
 
-* **[Scale-Less SIFT (SLS) descriptor](https://www.openu.ac.il/home/hassner/projects/siftscales/)**<br/>
+* **[<font color="SkyBlue">Scale-Less SIFT (SLS) descriptor</font>](https://www.openu.ac.il/home/hassner/projects/siftscales/)**<br/>
 Extracts the SLS descriptor on a dense grid, in order to allow for dense correspondences between images with varying scales.
 
-* **[Matched Background Similarity (MBGS) and baseline methods](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
+* **[<font color="SkyBlue">Matched Background Similarity (MBGS) and baseline methods</font>](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
 Sources for computing the similarities of faces appearing in videos for face video verification (set-to-set similarities). Includes both our own MBGS as well as baseline methods tested.
 
-* **[The One-Shot Similarity (OSS) Kernel](https://www.openu.ac.il/home/hassner/projects/Ossk/)**<br/>
+* **[<font color="SkyBlue">The One-Shot Similarity (OSS) Kernel</font>](https://www.openu.ac.il/home/hassner/projects/Ossk/)**<br/>
 MATLAB code for efficiently computing the OSS similarity kernel.
 
-* **[Patch LBP code](https://www.openu.ac.il/home/hassner/projects/Patchlbp/)**<br/>
+* **[<font color="SkyBlue">Patch LBP code</font>](https://www.openu.ac.il/home/hassner/projects/Patchlbp/)**<br/>
 MATLAB code for computing the Three-Patch LBP (TPLBP) and the Four-Patch LBP (FPLBP) descriptors for face and texture images.
