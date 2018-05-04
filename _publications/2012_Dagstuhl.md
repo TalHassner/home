@@ -2,7 +2,7 @@
 title: "Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)"
 collection: publications
 permalink: /publication/2012_Dagstuhl
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/dagman-v002-i001-complete.pdf)'
+excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](https://osnathassner.github.io/talhassner/files/dagman-v002-i001-complete.pdf)'
 date: 2012-09-01
 venue: 'Dagstuhl Manifestos 2(1): 14-35 (2012)'
 paperurl: ''
