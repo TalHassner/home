@@ -2,7 +2,7 @@
 title: "The Action Similarity Labeling Challenge"
 collection: publications
 permalink: /publication/2012_TPAMI
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/files/ActionSimilarityLabelingChallenge_TPAMI_2012.pdf)'
+excerpt: '[<font color="SkyBlue">Download paper</font>](https://osnathassner.github.io/talhassner/files/ActionSimilarityLabelingChallenge_TPAMI_2012.pdf)'
 date: 2012-03-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 34(3)'
 paperurl: ''
