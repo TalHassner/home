@@ -2,7 +2,7 @@
 title: "SIFTing through Scales"
 collection: publications
 permalink: /publication/2017_TPAMI
-excerpt: '[Download paper here](https://osnathassner.github.io/talhassner/projects/siftscales/HassneretalTPAMI16.pdf)'
+excerpt: '[<font color="SkyBlue">Download paper</font>](https://osnathassner.github.io/talhassner/projects/siftscales/HassneretalTPAMI16.pdf)'
 date: 2017-07-25
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 39(7): 1431-1443 (2017)'
 paperurl: ''
