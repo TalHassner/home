@@ -11,22 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[Extreme 3D face reconstruction](https://github.com/anhttran/extreme_3d_faces)**<br/>
-Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [CNN3DMM project](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083).
+* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">Extreme 3D face reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
+Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083).
 
-* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[FaceExpressionNet (ExpNet)](https://github.com/fengju514/Expression-Net)**<br/>
+* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">FaceExpressionNet (ExpNet)</font>](https://github.com/fengju514/Expression-Net)**<br/>
 Deep models and code for estimating the expression bases for a 3D face shape directly from image intensities and without the use of facial landmark detectors.
 
-* **[FacePoseNet](https://github.com/fengju514/Face-Pose-Net)**<br/>
+* [<font color="SkyBlue"><b>FacePoseNet</b></font>](https://github.com/fengju514/Face-Pose-Net)<br/>
 Deep, direct estimation of 6 degrees of freedom head pose for 2D and 3D face alignment. The Python code also includes fast rendering for new view synthesis of face photos to three poses, including frontalization.
 
-* **[Temporal Tessellation](https://github.com/dot27/temporal-tessellation)**<br/>
-A Unified Approach for Video Analysis [shown](https://arxiv.org/abs/1612.06950) obtain state of the art results in video captioning (LSMDC’16 benchmark), video summarization (SumMe and TVSum benchmarks), and Temporal Action Detection (Thumos2014 benchmark).
+* **[<font color="SkyBlue">Temporal Tessellation</font>](https://github.com/dot27/temporal-tessellation)**<br/>
+A Unified Approach for Video Analysis [<font color="SkyBlue">shown</font>](https://arxiv.org/abs/1612.06950) obtain state of the art results in video captioning (LSMDC’16 benchmark), video summarization (SumMe and TVSum benchmarks), and Temporal Action Detection (Thumos2014 benchmark).
 
-* **[Face segmentation and face swapping](https://www.openu.ac.il/home/hassner/projects/faceswap/)**<br/>
+* **[<font color="SkyBlue">Face segmentation and face swapping</font>](https://www.openu.ac.il/home/hassner/projects/faceswap/)**<br/>
 Code and deep models for face segmentation and swapping of unconstrained images and arbitrarily selected image pairs.
 
-* **[Very deep network for regressing 3D morphable face models (3DMM)](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/)**<br/>
+* **[<font color="SkyBlue">Very deep network for regressing 3D morphable face models (3DMM)</font>](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/)**<br/>
 A fast, robust and discriminative method for estimating 3DMM parameters.
 
 * **[CLATCH: A CUDA port for the LATCH binary descriptor](https://www.openu.ac.il/home/hassner/projects/LATCH/)**<br/>
