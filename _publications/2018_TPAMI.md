@@ -3,7 +3,7 @@ title: "<img src='https://osnathassner.github.io/talhassner/images/New - Icon.jp
 collection: publications
 permalink: /publication/2018_TPAMI
 excerpt: '\* Denotes first / lead senior author.<br/><br/>
-[<font color="SkyBlue">arXiv preprint</font>]() '
+[<font color="SkyBlue">arXiv preprint - Coming soon</font>]() '
 date: 2018-12-01
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: ''
@@ -14,6 +14,6 @@ Abstract
 ------
 
 
-[Pose aware models]()
+Pose aware models - Coming soon
 
-[arXiv preprint]()
+arXiv preprint - Coming soon
