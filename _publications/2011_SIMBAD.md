@@ -2,14 +2,14 @@
 title: "One Shot Similarity Metric Learning for Action Recognition"
 collection: publications
 permalink: /publication/2011_SIMBAD
-excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](https://osnathassner.github.io/talhassner/projects/simbad/simbad_2011.pdf)'
+excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](../projects/simbad/simbad_2011.pdf)'
 date: 2011-09-01
 venue: 'International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), Venice, Italy'
 paperurl: ''
-citation: 'Orit Kliper-Gross, Tal Hassner, and Lior Wolf. (2011). &quot;One Shot Similarity Metric Learning for Action Recognition.&quot; <i>International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), Venice, Italy</i>.'
+citation: 'Orit Kliper-Gross, Tal Hassner, and Lior Wolf. <i>One Shot Similarity Metric Learning for Action Recognition.</i> International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), Venice, Italy, 2011.'
 ---
 
-<img src='https://osnathassner.github.io/talhassner/projects/simbad/teaser.jpg'><br/>
+<img src='../projects/simbad/teaser.jpg'><br/>
 <b>Most confident OSSML results.</b> The Same/Not-Same labels are the ground truth labels, and the Correct/Incorrect labels indicate whether the method predicted correctly. For example, the top right quadrant displays same-action pairs that were most confidently labeled as not-same.
 
 ### Abstract
@@ -19,4 +19,4 @@ In this work we present a metric learning technique that is geared toward improv
 
 [Video Lecture](http://videolectures.net/simbad2011_kliper_gross_recognition/)
 
-[Download paper here](https://osnathassner.github.io/talhassner/projects/simbad/simbad_2011.pdf)
+[Download paper here](../projects/simbad/simbad_2011.pdf)
