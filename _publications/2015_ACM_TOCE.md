@@ -2,7 +2,7 @@
 title: "Teaching Computer Vision: Bringing Research Benchmarks to the Classroom"
 collection: publications
 permalink: /publication/2015_ACM_TOCE
-excerpt: '[Download paper at ACM](https://dl.acm.org/citation.cfm?id=2597627)'
+excerpt: '[<font color="SkyBlue">Download paper at ACM</font>](https://dl.acm.org/citation.cfm?id=2597627)'
 date: 2015-02-01
 venue: 'ACM Transactions on Computing Education (ACM-TOCE), Volume 14 Issue 4'
 paperurl: ''
