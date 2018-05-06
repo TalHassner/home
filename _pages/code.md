@@ -23,7 +23,7 @@ Deep, direct estimation of 6 degrees of freedom head pose for 2D and 3D face ali
 * **[<font color="SkyBlue">Temporal Tessellation</font>](https://github.com/dot27/temporal-tessellation)**<br/>
 A Unified Approach for Video Analysis [<font color="SkyBlue">shown</font>](https://arxiv.org/abs/1612.06950) obtain state of the art results in video captioning (LSMDC’16 benchmark), video summarization (SumMe and TVSum benchmarks), and Temporal Action Detection (Thumos2014 benchmark).
 
-* **[<font color="SkyBlue">Face segmentation and face swapping</font>](../publications/2018_FG)**<br/>
+* **[<font color="SkyBlue">Face segmentation and face swapping</font>](../publication/2018_FG)**<br/>
 Code and deep models for face segmentation and swapping of unconstrained images and arbitrarily selected image pairs.
 
 * **[<font color="SkyBlue">Very deep network for regressing 3D morphable face models (3DMM)</font>](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/)**<br/>
