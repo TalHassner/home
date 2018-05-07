@@ -43,7 +43,7 @@ If you find this code useful, please cite our paper.
 - A pending OpenCV contribution with a port for SIFT flow and out scale propagation is available on the [OpenCV github](https://github.com/YuvalNirkin/opencv_contrib).
 
 ### Other Related Papers / Projects / Code
-T. Hassner, V. Mayzels, and L. Zelnik-Manor, On SIFTs and their Scales, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Rhode Island, June 2012 ([project and code](./2012_CVPR_1), [PDF](../projects/siftscales/OnSiftsAndTheirScales-CVPR12.pdf))
+Tal Hassner, Viki Mayzels, and Lihi Zelnik-Manor, On SIFTs and their Scales, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Rhode Island, June 2012 ([Project and Code](./2012_CVPR_1), [PDF](../projects/siftscales/OnSiftsAndTheirScales-CVPR12.pdf))
 
 <br/><b>Copyright and disclaimer</b>
 <br/>Copyright 2014, Moria Tau and Tal Hassner 
