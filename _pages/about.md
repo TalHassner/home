@@ -29,7 +29,7 @@ I am an Associate Professor at the Open University of Israel, Department of Math
 **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
 - December 1st, 2017: 
-Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](https://osnathassner.github.io/talhassner/files/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](../projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
 
 - October 27th, 2017:
 Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! 
@@ -43,7 +43,7 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 **Co-organizer** of the [International Workshop on Cross-domain Human Identification](https://chi-workshop.github.io/) (CHI), held in conjunction with [ICCV'17](http://iccv2017.thecvf.com/program/workshops), Venice, Italy.
 
 - November 15th, 2016: 
-[Tutorial co-chair](http://iccv2017.thecvf.com/organizers#tutorialsshort_courses_chairs) for [ICCV'17](http://iccv2017.thecvf.com), Venice, Italy.
+[**Tutorial co-chair**](http://iccv2017.thecvf.com/organizers#tutorialsshort_courses_chairs) for [ICCV'17](http://iccv2017.thecvf.com), Venice, Italy.
 
 - September 20th, 2016: 
 **Biometrics Research Award**, awarded by the [The Biometric Applications Commissioner](http://bioapp.gov.il/Pages/Home.aspx), Israeli Prime Minister's Office
@@ -58,19 +58,19 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 [**Area chair**](http://www.pamitc.org/cvpr16/people.php) for [CVPR'16](http://cvpr2016.thecvf.com/), Las Vegas, Nevada
 
 - June 11th, 2015: 
-Our [LATCH descriptor](https://www.openu.ac.il/home/hassner/projects/LATCH/) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
+Our [LATCH descriptor](../publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
 
 - May 11th, 2015: 
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
 
 - March 24th, 2015: 
-Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF](https://osnathassner.github.io/talhassner/files/LATCH.pdf), [Project and Code](https://www.openu.ac.il/home/hassner/projects/LATCH/))
+Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF](../projects/LATCH/LATCH.pdf), [Project and Code](../publication/2016_WACV_2))
 
 - March 24th, 2015: 
 **Invited speaker** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC), one hour tutorial on "A Short Intro to Deep Learning for Face Recognition"
 
 - December 21st, 2014: 
-**Invited speaker** at the [IDC Israel Vision Day](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html). Talk title: "Towards Dense Correspondences Between Any Two Images." ([Talk video](https://www.youtube.com/watch?v=I_u9t30Qxj4), [project](https://www.openu.ac.il/home/hassner/projects/scalemaps/), [code and paper](https://www.openu.ac.il/home/hassner/projects/scalemaps/))
+**Invited speaker** at the [IDC Israel Vision Day](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html). Talk title: "Towards Dense Correspondences Between Any Two Images." ([Talk video](https://www.youtube.com/watch?v=I_u9t30Qxj4), [Project, Code and Paper](../publication/2016_TPAMI))
 
 - November 17th, 2014:
 **Co-organizer** of the [OpenU Symposium on Surveillance and Tracking](https://www.openu.ac.il/events/cs/171114.html). Videos lectures are [available online](https://www.youtube.com/playlist?list=PLEMOEwdRMCan4DjyKYYARFdVqjAIXkT1H). (Hebrew)
@@ -79,7 +79,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 **Co-organizer** of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on ["Digital Palaeography: New Machines and Old Texts"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=14302)
 
 - June 23rd, 2014: 
-**Invited talk** at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio (talk slides: [PPTX](https://osnathassner.github.io/talhassner/files/Hassner_DenseCorrespondences_CVPR2014_Upload.pptx))
+**Invited talk** at the CVPR'14 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/CVPR2014-Tutorial/), Columbus, Ohio
 
 - June 23rd, 2014: 
 **Invited speaker** at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision](http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio
@@ -88,7 +88,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 **Invited speaker** at [THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes](http://crcv.ucf.edu/ICCV13-Action-Workshop/), ICCV'13, Sydney, Australia ([Talk video](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269))
 
 - December 2nd, 2013: 
-**Invited talk** at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pdf), [PPTX](https://osnathassner.github.io/talhassner/files/DenseCorrespondences_web.pptx))
+**Invited talk** at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](../files/DenseCorrespondences_web.pdf), [PPTX](../files/DenseCorrespondences_web.pptx))
 
 - June 23rd, 2013: 
 **Co-organizer** of the [International Workshop on Action Similarity in Unconstrained Videos](https://www.openu.ac.il/home/hassner/Events/ACTS13/ACTS.html) (ACTS'13), held in conjunction with [CVPR'13](http://www.pamitc.org/cvpr13/), Portland, Oregon
