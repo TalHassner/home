@@ -29,7 +29,7 @@ computational costs beyond those required by existing methods
 
 [Download paper here (Full PAMI version)](../projects/scalemaps/TauHassner_TPAMI.pdf)
 
-[Dowload paper here (hort ArXiv preprint)](http://arxiv.org/pdf/1406.6323v1.pdf)
+[Dowload paper here (Short arXiv preprint)](http://arxiv.org/pdf/1406.6323v1.pdf)
 
 Video talk from the Dec. 21st, 2014, [IDC Israel Vision Day](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html)
 
