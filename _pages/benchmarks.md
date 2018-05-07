@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> [<font color='SkyBlue'>**LFW3D**</font>](../publication/2015_CVPR_1)<br/>
+* <img src='../images/New - Icon.jpg' width='60' height='30'> [<font color='SkyBlue'>**LFW3D**</font>](../publication/2015_CVPR_1)<br/>
 Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images generated using our frontalization method.
 
 * **[<font color='SkyBlue'>Unfiltered Faces for Gender and Age Classification</font>](https://www.openu.ac.il/home/hassner/Adience/data.html)**<br/>
@@ -20,7 +20,7 @@ Dataset of face images, labeled for age, gender and identity, acquired by smart-
 * **[<font color='SkyBlue'>Dynamic Point-Cloud Data</font>](../publication/2013_PG)**<br/>
 Real scans and synthetic data For foreground / background motion segmentation.
 
-* **[<font color='SkyBlue'>Violent Flows Benchmark</font>](./projects/violentflows/index.html)**<br/>
+* **[<font color='SkyBlue'>Violent Flows Benchmark</font>](../projects/violentflows/index.html)**<br/>
 Video benchmark for classification and detection of outbursts of violence in crowded scenes.
 
 * **[<font color='SkyBlue'>Action Similarity Labeling Benchmark (ASLAN)</font>](https://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)**<br/>
