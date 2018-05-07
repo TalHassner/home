@@ -29,5 +29,5 @@ Video benchmark for same/not-same classification of pairs of videos presenting h
 * **[<font color='SkyBlue'>YouTube Faces Benchmark</font>](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
 Video benchmark for same/not-same classification of pairs of videos presenting human faces. Modeled after the LFW benchmark.
 
-* **[<font color='SkyBlue'>LFW-a Data Set</font>](https://www.openu.ac.il/home/hassner/data/lfwa/)**<br/>
+* **[<font color='SkyBlue'>LFW-a Data Set</font>](../projects/lfwa/index.html)**<br/>
 Our own version of the LFW data set, aligned using commercial software.
