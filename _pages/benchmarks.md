@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='../images/New - Icon.jpg' width='60' height='30'> [<font color='SkyBlue'>**LFW3D**</font>](../publication/2015_CVPR_1)<br/>
+* <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color='SkyBlue'>LFW3D</font>](../publication/2015_CVPR_1)**<br/>
 Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images generated using our frontalization method.
 
 * **[<font color='SkyBlue'>Unfiltered Faces for Gender and Age Classification</font>](https://www.openu.ac.il/home/hassner/Adience/data.html)**<br/>
