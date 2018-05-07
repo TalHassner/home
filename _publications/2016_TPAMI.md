@@ -10,7 +10,7 @@ citation: 'Moria Tau and Tal Hassner. <i>Dense Correspondences across Scenes and
 ---
 
 <img src='../projects/scalemaps/teaser_a.jpg'><br/>
-**Figure 1. Dense correspondences between the same semantic content ("smiley") in different scenes and different scales.** Top: Input images. Bottom: Results visualized by warping the colors of the "Target" photo onto the "Source" using the estimated correspondences from Source to Target. A good result has the colors of the Target photo, located in the same position as their matching semantic regions in the Source. Results show the output of the original SIFT-Flow method, using DSIFT without local scale selections (bottom left), and our method (bottom right).
+**Dense correspondences between the same semantic content ("smiley") in different scenes and different scales.** Top: Input images. Bottom: Results visualized by warping the colors of the "Target" photo onto the "Source" using the estimated correspondences from Source to Target. A good result has the colors of the Target photo, located in the same position as their matching semantic regions in the Source. Results show the output of the original SIFT-Flow method, using DSIFT without local scale selections (bottom left), and our method (bottom right).
 
 ### Abstract
 We seek a practical method for establishing dense correspondences between two images with similar content, but possibly
