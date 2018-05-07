@@ -20,7 +20,7 @@ Dataset of face images, labeled for age, gender and identity, acquired by smart-
 * **[<font color='SkyBlue'>Dynamic Point-Cloud Data</font>](../publication/2013_PG)**<br/>
 Real scans and synthetic data For foreground / background motion segmentation.
 
-* **[<font color='SkyBlue'>Violent Flows Benchmark</font>](../projects/violentflows/index.html)**<br/>
+* **[<font color='SkyBlue'>Violent Flows Benchmark</font>](https://osnathassner.github.io/projects/violentflows/index.html)**<br/>
 Video benchmark for classification and detection of outbursts of violence in crowded scenes.
 
 * **[<font color='SkyBlue'>Action Similarity Labeling Benchmark (ASLAN)</font>](https://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)**<br/>
