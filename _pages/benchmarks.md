@@ -16,7 +16,7 @@ Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images 
 
 <br/><br/><a href="{{ base_path }}/projects/Adience/Adience-data.html">CHECK THIS</a>
 
-* **[<font color='SkyBlue'>AAAAAAAA Unfiltered Faces for Gender and Age Classification</font>](/projects/Adience/Adience-data.html)**<br/>
+* **[<font color='SkyBlue'>Unfiltered Faces for Gender and Age Classification</font>]({{ base_path }}/projects/Adience/Adience-data.html)**<br/>
 Dataset of face images, labeled for age, gender and identity, acquired by smart-phones and other mobile devices, and uploaded without manual filtering to online image repositories.
 
 * **[<font color='SkyBlue'>Dynamic Point-Cloud Data</font>](../publication/2013_PG)**<br/>
