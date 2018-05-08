@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">Extreme 3D face reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
-Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](https://www.openu.ac.il/home/hassner/projects/CNN3DMM/) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083).
+* <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">Extreme 3D face reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
+Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](../publication/2017_CVPR) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083).
 
-* <img src='https://osnathassner.github.io/talhassner/images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">FaceExpressionNet (ExpNet)</font>](https://github.com/fengju514/Expression-Net)**<br/>
+* <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">FaceExpressionNet (ExpNet)</font>](https://github.com/fengju514/Expression-Net)**<br/>
 Deep models and code for estimating the expression bases for a 3D face shape directly from image intensities and without the use of facial landmark detectors.
 
 * [<font color="SkyBlue"><b>FacePoseNet</b></font>](https://github.com/fengju514/Face-Pose-Net)<br/>
@@ -50,12 +50,12 @@ The Learned Arrangements of Three Patch Codes (LATCH) Local binary descriptor, i
 MATLAB code for synthesizing aggressively aligned, forward facing new views of faces in unconstrained images.
 
 * **[<font color="SkyBlue">Convolutional neural networks for age and gender classification</font>](../publication/2015_CVPR)**<br/>
-Used with the [<font color="SkyBlue">Adience</font>](https://www.openu.ac.il/home/hassner/Adience/data.html#agegender) benchmark of unfiltered face images.
+Used with the [<font color="SkyBlue">Adience</font>]({{ base_path }}/projects/Adience/Adience-data.html#agegender) benchmark of unfiltered face images.
 
 * **[<font color="SkyBlue">Scale propagation</font>](../publication/2016_TPAMI)**<br/>
 For scale-invariant dense correspondence estimation across images of different scenes (used with, e.g., SIFT-Flow).
 
-* **[<font color="SkyBlue">In-plane alignment of faces</font>](https://www.openu.ac.il/home/hassner/Adience/code.html#inplanealign)**<br/>
+* **[<font color="SkyBlue">In-plane alignment of faces</font>]({{ base_path }}/projects/Adience/Adience-code.html#inplanealign)**<br/>
 A robust face alignment technique which explicitly considers the uncertainties of facial feature detectors.
 
 * **[<font color="SkyBlue">Identification of Larval feeding strikes</font>](https://github.com/EyalShamur/Identification-of-Larval-feeding-strikes)**<br/>
@@ -67,7 +67,7 @@ MATLAB functions for rendering textured 3D models and using them to calibrate (e
 * **[<font color="SkyBlue">Motion Interchange Patterns (MIP)</font>](../publication/2012_ECCV)**<br/>
 Code for computing the MIP video representation for action recognition.
 
-* **[<font color="SkyBlue">Violent Vlows (ViF) descriptor</font>](https://www.openu.ac.il/home/hassner/data/violentflows/)**<br/>
+* **[<font color="SkyBlue">Violent Vlows (ViF) descriptor</font>]({{ base_path }}/projects/violentflows/index.html)**<br/>
 Code for extracting the ViF video representation for violent action detection in videos of crowded scenes.
 
 * **[<font color="SkyBlue">Scale-Less SIFT (SLS) descriptor</font>](../publication/2017_TPAMI)**<br/>
