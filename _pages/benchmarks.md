@@ -23,7 +23,7 @@ Real scans and synthetic data For foreground / background motion segmentation.
 * **[<font color='SkyBlue'>Violent Flows Benchmark</font>](https://osnathassner.github.io/talhassner/projects/violentflows/index.html)**<br/>
 Video benchmark for classification and detection of outbursts of violence in crowded scenes.
 
-* **[<font color='SkyBlue'>Action Similarity Labeling Benchmark (ASLAN)</font>](https://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)**<br/>
+* **[<font color='SkyBlue'>Action Similarity Labeling Benchmark (ASLAN)</font>](https://osnathassner.github.io/talhassner/projects/ASLAN/ASLAN-main.html)**<br/>
 Video benchmark for same/not-same classification of pairs of videos presenting human action in captured in the wild (YouTube).
 
 * **[<font color='SkyBlue'>YouTube Faces Benchmark</font>](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
