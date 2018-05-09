@@ -24,12 +24,12 @@ E-Mail: talhassner@gmail.com
 ### Research interests
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
 
-### Events and news
+### Events and news DODODO
 - December 6th, 2017: 
 **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
 - December 1st, 2017: 
-Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
 
 - October 27th, 2017:
 Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! 
