@@ -1,5 +1,5 @@
 ---
-title: "SIFTing through Scales"
+title: "SIFTing Through Scales"
 collection: publications
 permalink: /publication/2017_TPAMI
 excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](../projects/siftscales/HassneretalTPAMI16.pdf)'
@@ -21,4 +21,4 @@ Scale invariant feature detectors often find stable scales in only a few image p
 
 [Project and Code](./2012_CVPR_1)
 
-[Download paper here](./projects/siftscales/HassneretalTPAMI16.pdf)
+[Download paper here](../projects/siftscales/HassneretalTPAMI16.pdf)
