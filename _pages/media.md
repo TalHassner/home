@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Towards Dense Correspondences Between Any Two Images
-21-December-2014: Invited speaker at the IDC Israel Vision Day. [Project, Code and Paper]({{ base_path }}/publication/2016_TPAMI)<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I_u9t30Qxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### [<font color="SkyBlue">Towards Dense Correspondences Between Any Two Images</font>](https://www.youtube.com/watch?v=I_u9t30Qxj4)
+Invited speaker at the [<font color="SkyBlue">IDC Israel Vision Day</font>](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html), December 2014 [<font color="SkyBlue">Project, Code and Paper</font>]({{ base_path }}/publication/2016_TPAMI)<br/>
+
