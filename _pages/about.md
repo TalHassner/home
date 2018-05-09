@@ -24,7 +24,7 @@ E-Mail: talhassner@gmail.com
 ### Research interests
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
 
-### Events and news DODODO
+### Events and news ppppppppppppppppppppp
 - December 6th, 2017: 
 **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
@@ -58,7 +58,7 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 [**Area chair**](http://www.pamitc.org/cvpr16/people.php) for [CVPR'16](http://cvpr2016.thecvf.com/), Las Vegas, Nevada
 
 - June 11th, 2015: 
-Our [LATCH descriptor](/publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
+Our [LATCH descriptor](./publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
 
 - May 11th, 2015: 
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
