@@ -27,6 +27,10 @@ Invited speaker at [<font color="BlueSky">THUMOS: The First International Worksh
 * **[<font color="BlueSky">The OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society</font>](https://www.youtube.com/playlist?list=PLEMOEwdRMCam73cqlLrin97B0nQE5vode)**<br/>
 Co-organizer of the [<font color="BlueSky">OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society</font>](http://www.openu.ac.il/events/130513.html), May 13th, 2013, Israel. 
 
+* **[<font color="BlueSky">The Science Symposium on Human and Machine Vision</font>](https://www.youtube.com/course?list=EC45E7A9494A711DE3)**
+Co-organizer of the popular [<font color="BlueSky">science Symposium on Human and Machine Vision.</font>](http://www.openu.ac.il/events/chais-shoam/090112.html), January 9th, 2012, Israel. 
+
 
  
+
 
