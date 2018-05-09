@@ -104,3 +104,5 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 
 - January 9th, 2012: 
 **Co-organizer** of the popular science [Symposium on Human and Machine Vision](https://www.openu.ac.il/events/chais-shoam/090112.html). Videos lectures are [available online](https://www.youtube.com/course?list=EC45E7A9494A711DE3). (Hebrew)
+
+DDDDDDDDDDDDDD
