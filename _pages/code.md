@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">Extreme 3D face reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
+* <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">Extreme 3D Face Reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
 Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](../publication/2017_CVPR) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083).
 
 * <img src='../images/New - Icon.jpg' width='60' height='30'> **[<font color="SkyBlue">FaceExpressionNet (ExpNet)</font>](https://github.com/fengju514/Expression-Net)**<br/>
@@ -23,19 +23,19 @@ Deep, direct estimation of 6 degrees of freedom head pose for 2D and 3D face ali
 * **[<font color="SkyBlue">Temporal Tessellation</font>](https://github.com/dot27/temporal-tessellation)**<br/>
 A Unified Approach for Video Analysis [<font color="SkyBlue">shown</font>](https://arxiv.org/abs/1612.06950) obtain state of the art results in video captioning (LSMDC’16 benchmark), video summarization (SumMe and TVSum benchmarks), and Temporal Action Detection (Thumos2014 benchmark).
 
-* **[<font color="SkyBlue">Face segmentation and face swapping</font>](../publication/2018_FG_1)**<br/>
+* **[<font color="SkyBlue">Face Segmentation and Face Swapping</font>](../publication/2018_FG_1)**<br/>
 Code and deep models for face segmentation and swapping of unconstrained images and arbitrarily selected image pairs.
 
-* **[<font color="SkyBlue">Very deep network for regressing 3D morphable face models (3DMM)</font>](../publication/2017_CVPR)**<br/>
+* **[<font color="SkyBlue">Very Deep Network for Regressing 3D Morphable Face Models (3DMM)</font>](../publication/2017_CVPR)**<br/>
 A fast, robust and discriminative method for estimating 3DMM parameters.
 
-* **[<font color="SkyBlue">CLATCH: A CUDA port for the LATCH binary descriptor</font>](../publication/2016_WACV_2)**<br/>
+* **[<font color="SkyBlue">CLATCH: A CUDA Port for the LATCH Binary Descriptor</font>](../publication/2016_WACV_2)**<br/>
 LATCH Local binary descriptors at breakneck extraction speeds.
 
-* **[<font color="SkyBlue">Face recognition with augmented data</font>](../publication/2016_ECCV_1)**<br/>
+* **[<font color="SkyBlue">Face Recognition With Augmented Data</font>](../publication/2016_ECCV_1)**<br/>
 Code, trained models and data are in preparation. Please see project page for updates.
 
-* **[<font color="SkyBlue">Convolutional neural network for facial landmark detection</font>](../publication/2017_TPAMI_2)**<br/>
+* **[<font color="SkyBlue">Convolutional Neural Network for Facial Landmark Detection</font>](../publication/2017_TPAMI_2)**<br/>
 Caffe models, code and example usage.
 
 * **[<font color="SkyBlue">Code and trained Convolutional Neural Networks for emotion recognition</font>](../publication/2015_ICMI)** from single face images.
@@ -43,22 +43,22 @@ Caffe models, code and example usage.
 * **[<font color="SkyBlue">GPU-Based Computation of 2D Least Median of Squares</font>](https://github.com/ligaripash/CudaLMS2D)**<br/>
 Fast Least Median of Squares as a more robust substitute for 2D Least Squares, implemented on the GPU
 
-* **[<font color="SkyBlue">The LATCH binary descriptor</font>](../publication/2016_WACV_2)**<br/>
+* **[<font color="SkyBlue">The LATCH Binary Descriptor</font>](../publication/2016_WACV_2)**<br/>
 The Learned Arrangements of Three Patch Codes (LATCH) Local binary descriptor, implemented as part of OpenCV 3.0.
 
-* **[<font color="SkyBlue">Face frontalization for recognition</font>](../publication/2015_CVPR_1)**<br/>
+* **[<font color="SkyBlue">Face Frontalization for Recognition</font>](../publication/2015_CVPR_1)**<br/>
 MATLAB code for synthesizing aggressively aligned, forward facing new views of faces in unconstrained images.
 
-* **[<font color="SkyBlue">Convolutional neural networks for age and gender classification</font>](../publication/2015_CVPR)**<br/>
+* **[<font color="SkyBlue">Convolutional Neural Networks for Age and Gender Classification</font>](../publication/2015_CVPR)**<br/>
 Used with the [<font color="SkyBlue">Adience</font>]({{ base_path }}/projects/Adience/Adience-data.html#agegender) benchmark of unfiltered face images.
 
-* **[<font color="SkyBlue">Scale propagation</font>](../publication/2016_TPAMI)**<br/>
+* **[<font color="SkyBlue">Scale Propagation</font>](../publication/2016_TPAMI)**<br/>
 For scale-invariant dense correspondence estimation across images of different scenes (used with, e.g., SIFT-Flow).
 
-* **[<font color="SkyBlue">In-plane alignment of faces</font>]({{ base_path }}/projects/Adience/Adience-code.html#inplanealign)**<br/>
+* **[<font color="SkyBlue">In-Plane Alignment of Faces</font>]({{ base_path }}/projects/Adience/Adience-code.html#inplanealign)**<br/>
 A robust face alignment technique which explicitly considers the uncertainties of facial feature detectors.
 
-* **[<font color="SkyBlue">Identification of Larval feeding strikes</font>](https://github.com/EyalShamur/Identification-of-Larval-feeding-strikes)**<br/>
+* **[<font color="SkyBlue">Identification of Larval Feeding Strikes</font>](https://github.com/EyalShamur/Identification-of-Larval-feeding-strikes)**<br/>
 A framework for automated detection of prey acquisition strikes from a long video of foraging larvae.
 
 * **[<font color="SkyBlue">MATLAB 3D Model Renderer</font>](../publication/2014_MVAP)**<br/>
@@ -67,10 +67,10 @@ MATLAB functions for rendering textured 3D models and using them to calibrate (e
 * **[<font color="SkyBlue">Motion Interchange Patterns (MIP)</font>](../publication/2012_ECCV)**<br/>
 Code for computing the MIP video representation for action recognition.
 
-* **[<font color="SkyBlue">Violent Vlows (ViF) descriptor</font>]({{ base_path }}/projects/violentflows/index.html)**<br/>
+* **[<font color="SkyBlue">Violent Vlows (ViF) Descriptor</font>]({{ base_path }}/projects/violentflows/index.html)**<br/>
 Code for extracting the ViF video representation for violent action detection in videos of crowded scenes.
 
-* **[<font color="SkyBlue">Scale-Less SIFT (SLS) descriptor</font>](../publication/2017_TPAMI)**<br/>
+* **[<font color="SkyBlue">Scale-Less SIFT (SLS) Descriptor</font>](../publication/2017_TPAMI)**<br/>
 Extracts the SLS descriptor on a dense grid, in order to allow for dense correspondences between images with varying scales.
 
 * **[<font color="SkyBlue">Matched Background Similarity (MBGS) and baseline methods</font>](http://www.cs.tau.ac.il/~wolf/ytfaces/)**<br/>
@@ -79,5 +79,5 @@ Sources for computing the similarities of faces appearing in videos for face vid
 * **[<font color="SkyBlue">The One-Shot Similarity (OSS) Kernel</font>](../publication/2009_ICCV)**<br/>
 MATLAB code for efficiently computing the OSS similarity kernel.
 
-* **[<font color="SkyBlue">Patch LBP code</font>](../publication/2008_ECCV)**<br/>
+* **[<font color="SkyBlue">Patch LBP Code</font>](../publication/2008_ECCV)**<br/>
 MATLAB code for computing the Three-Patch LBP (TPLBP) and the Four-Patch LBP (FPLBP) descriptors for face and texture images.
