@@ -23,6 +23,10 @@ Co-organizer of the [<font color="SkyBlue">OpenU Symposium on Surveillance and T
 
 * **[<font color="BlueSky">What Do Action Recognition Benchmarks Tell Us About Action Recognition Capabilities?</font>](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269)**<br/>
 Invited speaker at [<font color="BlueSky">THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes</font>](http://crcv.ucf.edu/ICCV13-Action-Workshop/), December 7th, 2013, ICCV'13, Sydney, Australia.
-  
+
+* **[<font color="BlueSky">The OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society</font>](https://www.youtube.com/playlist?list=PLEMOEwdRMCam73cqlLrin97B0nQE5vode)**<br/>
+Co-organizer of the [<font color="BlueSky">OpenU Symposium on Biometrics for Recognition: Science, Technology, and Society</font>](http://www.openu.ac.il/events/130513.html), May 13th, 2013, Israel. 
+
+
  
 
