@@ -29,7 +29,7 @@ I am an Associate Professor at the Open University of Israel, Department of Math
 **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
 - December 1st, 2017: 
-Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces](../projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
 
 - October 27th, 2017:
 Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! 
@@ -64,7 +64,7 @@ Our [LATCH descriptor](../publication/2016_WACV_2) has won the CVPR 2015, OpenCV
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
 
 - March 24th, 2015: 
-Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF](../projects/LATCH/LATCH.pdf), [Project and Code](../publication/2016_WACV_2))
+Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF]({{ base_path }}/projects/LATCH/LATCH.pdf), [Project and Code](../publication/2016_WACV_2))
 
 - March 24th, 2015: 
 **Invited speaker** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC), one hour tutorial on "A Short Intro to Deep Learning for Face Recognition"
@@ -91,7 +91,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 **Invited talk** at the ICCV'13 tutorial on [Dense Image Correspondences for Computer Vision](http://people.csail.mit.edu/celiu/ICCV2013-Tutorial/), Sydney Australia (talk slides: [PDF](../files/DenseCorrespondences_web.pdf), [PPTX](../files/DenseCorrespondences_web.pptx))
 
 - June 23rd, 2013: 
-**Co-organizer** of the [International Workshop on Action Similarity in Unconstrained Videos](https://www.openu.ac.il/home/hassner/Events/ACTS13/ACTS.html) (ACTS'13), held in conjunction with [CVPR'13](http://www.pamitc.org/cvpr13/), Portland, Oregon
+**Co-organizer** of the [International Workshop on Action Similarity in Unconstrained Videos]({{ base_path }}/projects/ACTS13/ACTS13-main.html) (ACTS'13), held in conjunction with [CVPR'13](http://www.pamitc.org/cvpr13/), Portland, Oregon
 
 - May 21st, 2013: 
 [**Area chair**](http://www.pamitc.org/cvpr14/people.php) for [CVPR'14](http://www.pamitc.org/cvpr14/), Columbus, Ohio
