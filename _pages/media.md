@@ -16,11 +16,13 @@ author_profile: true
 {% endfor %}
 
 * **[<font color="SkyBlue">Towards Dense Correspondences Between Any Two Images</font>](https://www.youtube.com/watch?v=I_u9t30Qxj4)**<br/>
-Invited speaker at the [<font color="SkyBlue">IDC Israel Vision Day</font>](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html), December 21st, 2014. <br/>[<font color="SkyBlue">Project, Code and Paper</font>]({{ base_path }}/publication/2016_TPAMI)<br/>
+Invited speaker at the [<font color="SkyBlue">IDC Israel Vision Day</font>](http://cs.haifa.ac.il/~hagit/VisionDay/visionDay_2014.html), December 21st, 2014, Israel. <br/>[<font color="SkyBlue">Project, Code and Paper</font>]({{ base_path }}/publication/2016_TPAMI)<br/>
 
-* **[font color="SkyBlue">The OpenU Symposium on Surveillance and Tracking</font>](https://www.youtube.com/playlist?list=PLEMOEwdRMCan4DjyKYYARFdVqjAIXkT1H)**<br/>
-Co-organizer of the [<font color="SkyBlue">OpenU Symposium on Surveillance and Tracking Day</font](http://www.openu.ac.il/events/cs/171114.html), November 17th, 2014. 
-  
+* **[<font color="SkyBlue">The OpenU Symposium on Surveillance and Tracking</font>](https://www.youtube.com/playlist?list=PLEMOEwdRMCan4DjyKYYARFdVqjAIXkT1H)** <br/>
+Co-organizer of the [<font color="SkyBlue">OpenU Symposium on Surveillance and Tracking Day</font>](http://www.openu.ac.il/events/cs/171114.html), November 17th, 2014, Israel.
+
+* **[<font color="BlueSky">What Do Action Recognition Benchmarks Tell Us About Action Recognition Capabilities?</font>](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269)**<br/>
+Invited speaker at [<font color="BlueSky">THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes</font>](http://crcv.ucf.edu/ICCV13-Action-Workshop/), December 7th, 2013, ICCV'13, Sydney, Australia.
   
  
 
