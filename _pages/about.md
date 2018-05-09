@@ -58,7 +58,7 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 [**Area chair**](http://www.pamitc.org/cvpr16/people.php) for [CVPR'16](http://cvpr2016.thecvf.com/), Las Vegas, Nevada
 
 - June 11th, 2015: 
-Our [LATCH descriptor](../publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
+Our [LATCH descriptor](/publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
 
 - May 11th, 2015: 
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
@@ -104,5 +104,3 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 
 - January 9th, 2012: 
 **Co-organizer** of the popular science [Symposium on Human and Machine Vision](https://www.openu.ac.il/events/chais-shoam/090112.html). Videos lectures are [available online](https://www.youtube.com/course?list=EC45E7A9494A711DE3). (Hebrew)
-
-DDDDDDDDDDDDDD
