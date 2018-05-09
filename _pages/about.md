@@ -8,36 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Starting August 2015 I will be on sabbatical and taking up a position of Senior Computer Scientist  at the University of Southern California (USC), Viterbi School of Engineering, Information Sciences Institute (ISI).
 
-### Contact info
+### Contact Info
 Office address: 
 Department of Mathematics and Computer Science, The Open University of Israel 
 1 University Road, P.O.B. 808, Raanana 43107, Israel
 
-Office phone:  +972-9-778-1261
+Office phone: +972-9-778-1261
+Office Fax:   +972-9-778-0605
+E-Mail:       talhassner@gmail.com
 
-Office Fax:  +972-9-778-0605
-
-E-Mail: talhassner@gmail.com
-
-### Research interests
+### Research Interests
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly Statistical Pattern Recognition, Computer Vision and Computer Graphics. 
 
-### Events and news ppppppppppppppppppppp
-- December 6th, 2017: 
-**Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
+### Events and News
+- 6-December-2017: **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
-- December 1st, 2017: 
-Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+- 1-December-2017: Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [Age and Gender Estimation of Unfiltered Faces]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
 
-- October 27th, 2017:
-Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! 
+- 27-October-2017: Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! <br/>
 A HUGE thank you to everyone at ICCV'17 who participated and voted for our team.
 And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE/CVF International Conference on Computer Vision (ICCV'21), Montreal, CA.
 
-- April 5th, 2017: 
-**Program Co-Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
+- 5-April-2017: **Program Co-Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 - April 2nd, 2017: 
 **Co-organizer** of the [International Workshop on Cross-domain Human Identification](https://chi-workshop.github.io/) (CHI), held in conjunction with [ICCV'17](http://iccv2017.thecvf.com/program/workshops), Venice, Italy.
