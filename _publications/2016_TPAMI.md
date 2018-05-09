@@ -1,5 +1,5 @@
 ---
-title: "Dense Correspondences across Scenes and Scales"
+title: "Dense Correspondences Across Scenes and Scales"
 collection: publications
 permalink: /publication/2016_TPAMI
 excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](../projects/scalemaps/TauHassner_TPAMI.pdf)'
