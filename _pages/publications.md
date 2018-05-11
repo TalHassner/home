@@ -26,7 +26,7 @@ author_profile: true
 * Tal Hassner and Ronen Basri, <i>Single View Depth Estimation from Examples</i>, arXiv preprint arXiv:1304.3915, 14 Apr 2013  ([<font color="SkyBlue">arXiv</font>](http://arxiv.org/abs/1304.3915))
 
 * Ronen Basri, Tal Hassner and Lihi Zelnik-Manor, <i>A General Framework for Approximate Nearest Subspace Search</i>, Technical Report CCIT #699, Department of Electrical Engineering, Technion, June 2008. ([<font color="SkyBlue">PDF</font>]({{ base_path }}/projects/GANS/BHZM_TechReport_2008.pdf)) <br/>
-\ * Author names in alphabetical order due to equal contribution.
+\* Author names in alphabetical order due to equal contribution.
 
 * Tal Hassner, <i>Building 3D Shapes from Parts</i>, Ph.D. Thesis, Faculty of Mathematics and Computer Science, The Weizmann Institute of Science, December, 2006.
 
