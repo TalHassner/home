@@ -37,7 +37,7 @@ I am constantly seeking high quality, motivated graduate students interested in 
 **M.Sc. in Computer Science**, "<i>Sparse and Local Coding Methods for Classification of Visual Information</i>," <br/>Completed September 2014
 
 * **Viki Mayzels**<br/>
-**M.Sc. in Electrical Engineering**, "<i>On SIFTs and their Scales</i>," At the Technion, supervised jointly with [<font color'"SkyBlue">Lihi Zelnik-Manor</font>](http://lihi.eew.technion.ac.il/ "Lihi Zelnik-Manor").
+**M.Sc. in Electrical Engineering**, "<i>On SIFTs and their Scales</i>," At the Technion, supervised jointly with [<font color="SkyBlue">Lihi Zelnik-Manor</font>](http://lihi.eew.technion.ac.il/ "Lihi Zelnik-Manor").
 <br/>Completed December 2013
 
 * **Yerry Sofer**<br/>
