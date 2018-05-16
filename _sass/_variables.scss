@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 12;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -110,9 +110,9 @@ $large                      : 1200px;
 $x-large                    : 1800px;
 */
 
-$small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
+$small                      : 400px !default;
+$medium                     : 500px !default;
+$medium-wide                : 550px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
