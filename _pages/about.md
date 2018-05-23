@@ -33,7 +33,7 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 - 20-September-2016 <br/>
 **Biometrics Research Award**, awarded by the [The Biometric Applications Commissioner](http://bioapp.gov.il/Pages/Home.aspx), Israeli Prime Minister's Office
 
-- 30-August-2016</br>
+- 30-August-2016 <br/>
 [**Workshop Co-Chair**](http://www.avss2017.org/?page_id=16) for [AVSS'17](http://www.avss2017.org/), Lecce, Italy. Call for workshops is [now available](http://www.avss2017.org/?page_id=119).
 
 - 20-August-2016 <br/>
