@@ -11,12 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## Books
 * Tal Hassner and Ce Liu (Eds.), <i>Dense Image Correspondences for Computer Vision</i>, Springer International Publishing, 2016 ([<font color="SkyBlue">Book at Springer</font>](http://www.springer.com/us/book/9783319230474))
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Reports
 * Gil Shapira and Tal Hassner, GPU-Based Computation of 2D Least Median of Squares with Applications to Fast and Robust Line Detection, arXiv preprint arXiv:1510.01041, 5 Oct. 2015 ([<font color="SkyBlue">Code on GitHub</font>](https://github.com/ligaripash/CudaLMS2D), [<font color="SkyBlue">arXiv</font>](http://arxiv.org/pdf/1510.01041.pdf))
