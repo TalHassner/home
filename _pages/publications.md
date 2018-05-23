@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications in Journals, Conferences and Workshops"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Books
 * Tal Hassner and Ce Liu (Eds.), <i>Dense Image Correspondences for Computer Vision</i>, Springer International Publishing, 2016 ([<font color="SkyBlue">Book at Springer</font>](http://www.springer.com/us/book/9783319230474))
 
+## Publications in Journals, Conferences and Workshops
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
