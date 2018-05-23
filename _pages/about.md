@@ -13,7 +13,7 @@ redirect_from:
 I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS. 
 
 ### Research Interests
-Broadly speaking, my research interests are mainly <b>Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more. 
+My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more. 
 
 ### Contact Info
 Open University address (Note, I am currently on extended leave and not there to receive your calls, but the e-mail is fine): 
