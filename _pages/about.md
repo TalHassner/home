@@ -14,19 +14,6 @@ I am an Associate Professor at the Open University of Israel, Department of Math
 
 My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more. 
 
-### Contact Info
-Open University address (Note, I am currently on extended leave and not there to receive your calls, but the e-mail is fine): 
-
-Department of Mathematics and Computer Science, <br/>
-The Open University of Israel <br/>
-1 University Road, P.O.B. 808, <br/>
-Raanana 43107, Israel
-
-Office phone: +972-9-778-1261<br/>
-Office Fax:   +972-9-778-0605<br/>
-E-Mail:       talhassner@gmail.com
-
-
 ### Events and News
 - 6-December-2017: <br/>**Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
