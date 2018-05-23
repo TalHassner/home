@@ -14,7 +14,7 @@ description              : &description "Tal Hassner at the Open University of I
 url                      : https://talhassner.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://talhassner.github.io/home"
-teaser                   : "tal.jpg"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "tal2.jpg"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -73,7 +73,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "tal.jpg"
+  avatar           : "tal2.jpg"
   bio              : "At the Open University of Israel:</br>Dept. of Math. and Comp. Science,</br>The Open University of Israel</br>1 University Road, P.O.B. 808,</br>
 Raanana 43107, Israel</br></br>Office phone: +972-9-778-1261</br>Office Fax: +972-9-778-0605"
   employer         : 
