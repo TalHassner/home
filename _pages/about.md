@@ -18,8 +18,10 @@ My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pa
 ### Contact Info
 Open University address (Note, I am currently on extended leave and not there to receive your calls, but the e-mail is fine): 
 
-Department of Mathematics and Computer Science, The Open University of Israel 
-1 University Road, P.O.B. 808, Raanana 43107, Israel
+Department of Mathematics and Computer Science, <br/>
+The Open University of Israel <br/>
+1 University Road, P.O.B. 808, <br/>
+Raanana 43107, Israel
 
 Office phone: +972-9-778-1261<br/>
 Office Fax:   +972-9-778-0605<br/>
