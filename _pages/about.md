@@ -10,10 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Starting August 2015 I will be on sabbatical and taking up a position of [<font color="SkyBlue">Senior Computer Scientist</font>](https://www.isi.edu/people/hassner/about) at the University of Southern California (USC), Viterbi School of Engineering, [<font color="SkyBlue">Information Sciences Institute</font>](http://www.isi.edu/home) (ISI).
+I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS. 
+
+### Research Interests
+Broadly speaking, my research interests are mainly <b>Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more. 
 
 ### Contact Info
-Office address: 
+Open University address (Note, I am currently on extended leave and not there to receive your calls, but the e-mail is fine): 
 Department of Mathematics and Computer Science, The Open University of Israel 
 1 University Road, P.O.B. 808, Raanana 43107, Israel
 
@@ -21,8 +24,6 @@ Office phone: +972-9-778-1261<br/>
 Office Fax:   +972-9-778-0605<br/>
 E-Mail:       talhassner@gmail.com
 
-### Research Interests
-I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science. My research interests are mainly <b>Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. 
 
 ### Events and News
 - 6-December-2017: <br/>**Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
