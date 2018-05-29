@@ -22,7 +22,7 @@ I am constantly seeking high quality, motivated graduate students interested in 
 **M.Sc. in Computer Science - Research Track**, "<i>SIFTing Through Scales</i>," <br/>Completed August 2016
 
 * **Shai Harel**<br/>
-**M.Sc. in Computer Science - Research Trac**, "<i>Effective Face Frontalization</i>," <br/>Completed January 2016
+**M.Sc. in Computer Science - Research Track**, "<i>Effective Face Frontalization</i>," <br/>Completed January 2016
 
 * **Eyal Shamur**<br/>
 **M.Sc. in Computer Science - Research Track**, "<i>Identification of feeding strikes by larval fish from continuous high-speed digital video</i>," <br/>Completed January 2016
@@ -31,7 +31,7 @@ I am constantly seeking high quality, motivated graduate students interested in 
 **M.Sc. in Computer Science - Research Track**, "<i>LATCH: Learned Arrangements of Three Patch Codes</i>," <br/>Completed June 2015
 
 * **Moria Tau**<br/>
-**M.Sc. in Computer Science - Research Trac**, "<i>Scale propagation for Accurate and Practical Dense Correspondence Estimation Across Scenes and Scales</i>," <br/>Completed February 2015
+**M.Sc. in Computer Science - Research Track**, "<i>Scale propagation for Accurate and Practical Dense Correspondence Estimation Across Scenes and Scales</i>," <br/>Completed February 2015
 
 * **Eyal Dahari**<br/>
 **M.Sc. in Computer Science**, "<i>Sparse and Local Coding Methods for Classification of Visual Information</i>," <br/>Completed September 2014
