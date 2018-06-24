@@ -81,3 +81,10 @@ MATLAB code for efficiently computing the OSS similarity kernel.
 
 * **[<font color="SkyBlue">Patch LBP Code</font>](../publication/2008_ECCV)**<br/>
 MATLAB code for computing the Three-Patch LBP (TPLBP) and the Four-Patch LBP (FPLBP) descriptors for face and texture images.
+
+
+
+
+
+---
+The SOFTWARE provided in this website is provided "as is", without any guarantee made as to its suitability or fitness for any particular use. It may contain bugs, so use of this tool is at your own risk. We take no responsibility for any damage of any sort that may unintentionally be caused through its use.
