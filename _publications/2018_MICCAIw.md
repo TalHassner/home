@@ -18,4 +18,5 @@ New T2w and gadolineum-enhancing lesions in Magnetic Resonance Images (MRI) are 
 
 
 [PDF coming soon](/publication/2018_MICCAIw)
+
 [BibTex](../projects/PredictMS/BibTeX.txt)
