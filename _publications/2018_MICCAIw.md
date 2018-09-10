@@ -2,7 +2,7 @@
 title: "CNN Prediction of Future Disease Activity for Multiple Sclerosis Patients from Baseline MRI and Lesion Labels"
 collection: publications
 permalink: /publication/2018_MICCAIw
-excerpt: '[<font color="SkyBlue"><i>PDF coming soon</i></font>](/publication/2018_MICCAIw)'
+excerpt: '[<font color="SkyBlue"><i>PDF coming soon</i></font>](/home/publication/2018_MICCAIw)'
 date: 2018-09-16
 venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) workshops, Grenada, Spain"
 paperurl: ''
