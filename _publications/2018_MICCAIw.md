@@ -1,5 +1,5 @@
 ---
-title: "CNN Prediction of Future Disease Activity for Multiple Sclerosis Patients from Baseline MRI and Lesion Labels"
+title: "<img src='../images/New - Icon.jpg' width='50'> CNN Prediction of Future Disease Activity for Multiple Sclerosis Patients from Baseline MRI and Lesion Labels"
 collection: publications
 permalink: /publication/2018_MICCAIw
 excerpt: '[<font color="SkyBlue"><i>PDF coming soon</i></font>](/home/publication/2018_MICCAIw)'
