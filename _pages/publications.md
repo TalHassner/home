@@ -20,8 +20,6 @@ author_profile: true
 {% endfor %}
 
 ## Reports
-* Gil Shapira and Tal Hassner, GPU-Based Computation of 2D Least Median of Squares with Applications to Fast and Robust Line Detection, arXiv preprint arXiv:1510.01041, 5 Oct. 2015 ([<font color="SkyBlue">Code on GitHub</font>](https://github.com/ligaripash/CudaLMS2D), [<font color="SkyBlue">arXiv</font>](http://arxiv.org/pdf/1510.01041.pdf))
-
 * Tal Hassner, Malte Rehbein, Peter A. Stokes, and Lior Wolf, <i>Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)</i>. Dagstuhl Reports 2(9): 184-199 (2012) ([<font color="SkyBlue">info</font>](http://drops.dagstuhl.de/opus/volltexte/2013/3890/), [<font color="SkyBlue">PDF</font>](http://drops.dagstuhl.de/opus/volltexte/2013/3890/pdf/dagrep_v002_i009_p184_s12382.pdf))
 
 * Tal Hassner and Ronen Basri, <i>Single View Depth Estimation from Examples</i>, arXiv preprint arXiv:1304.3915, 14 Apr 2013  ([<font color="SkyBlue">arXiv</font>](http://arxiv.org/abs/1304.3915))
@@ -36,6 +34,4 @@ author_profile: true
 
 
 ---
-This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-
-
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
