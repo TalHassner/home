@@ -21,4 +21,4 @@ The survey is broken down into multiple parts that follow a standard face recogn
 
 [PDF](../projects/DeepFaceSurvey/Masietal2018deepfacesurvey.pdf)
 
-[BibTex](../projects/PredictMS/BibTeX.txt)
+[BibTex](../projects/DeepFaceSurvey/BibTeX.txt)
