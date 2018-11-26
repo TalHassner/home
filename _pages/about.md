@@ -3,21 +3,23 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 {% include base_path %}
 
-I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS. 
+I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.
 
-My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more. 
+My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more.
 
 ### Events and News
+- 17-November-2018: <br/>**Area Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/) (CVPR), Long Beach, CA, USA, 2019.
+
 - 6-December-2017: <br/>**Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
 
-- 1-December-2017 <br/>Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [<i>Age and Gender Estimation of Unfiltered Faces</i>]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor! 
+- 1-December-2017 <br/>Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [<i>Age and Gender Estimation of Unfiltered Faces</i>]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor!
 
 - 27-October-2017 <br/>Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! <br/>
 A HUGE thank you to everyone at ICCV'17 who participated and voted for our team.
@@ -45,13 +47,13 @@ And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE
 - 11-June-2015 <br/>
 Our [LATCH descriptor](./publication/2016_WACV_2) has won the CVPR 2015, OpenCV State of the Art Vision Challenge, in the Image Registration category. LATCH is now integrated into OpenCV 3.0
 
-- 11-May-2015<br/> 
+- 11-May-2015<br/>
 [Outstanding Reviewer Award](http://www.pamitc.org/cvpr15/awards.php) at the IEEE Conf. on [Computer Vision and Pattern Recognition](http://www.pamitc.org/cvpr15/) (CVPR), Boston, June 2015
 
 - 24-March-2015 <br/>
 Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at the OpenU computer vision lab, for being awarded the **best student project award** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC) for our project LATCH: Learned Arrangements of Three Patch Codes ([PDF]({{ base_path }}/projects/LATCH/LATCH.pdf), [Project and Code]({{ base_path }}/publication/2016_WACV_2))
 
-- 24-March-2015<br/> 
+- 24-March-2015<br/>
 **Invited speaker** at the [Israel Machine Vision Conference](http://www.imvc.co.il/) (IMVC), one hour tutorial on "A Short Intro to Deep Learning for Face Recognition"
 
 - 21-December-2014 <br/>
@@ -60,7 +62,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 - 17-November-2014<br/>
 **Co-organizer** of the [OpenU Symposium on Surveillance and Tracking](https://www.openu.ac.il/events/cs/171114.html). Videos lectures are [available online](https://www.youtube.com/playlist?list=PLEMOEwdRMCan4DjyKYYARFdVqjAIXkT1H). (Hebrew)
 
-- July 20th - 24th, 2014<br/> 
+- July 20th - 24th, 2014<br/>
 **Co-organizer** of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Seminar](https://www.dagstuhl.de/en/program/dagstuhl-seminars/) on ["Digital Palaeography: New Machines and Old Texts"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=14302)
 
 - 23-June-2014 <br/>
@@ -69,7 +71,7 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 - 23-June-2014 <br/>
 **Invited speaker** at [POCV 2014: The Ninth IEEE Computer Society Workshop on Perceptual Organization in Computer Vision](http://www.vision.caltech.edu/pocv2014/index.html), CVPR'14, Columbus, Ohio
 
-- 7-December-2013<br/> 
+- 7-December-2013<br/>
 **Invited speaker** at [THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes](http://crcv.ucf.edu/ICCV13-Action-Workshop/), ICCV'13, Sydney, Australia ([Talk video](https://www.youtube.com/watch?v=Wwv31_ESyUs#t=269))
 
 - 2-December-2013 <br/>
@@ -87,5 +89,5 @@ Congratulations to [Gil Levi](https://gilscvblog.com/), a graduate student at th
 - September 19th - 21st, 2012 <br/>
 **Co-organize**r of the [Schloss Dagstuhl - Leibniz Center for Informatics](https://www.dagstuhl.de/), [Perspective Workshop](https://www.dagstuhl.de/programm/dagstuhl-perspektiven/) on ["Computation and Palaeography: Potentials and Limits"](https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=12382)
 
-- 9-January-2012<br/> 
+- 9-January-2012<br/>
 **Co-organizer** of the popular science [Symposium on Human and Machine Vision](https://www.openu.ac.il/events/chais-shoam/090112.html). Videos lectures are [available online](https://www.youtube.com/course?list=EC45E7A9494A711DE3). (Hebrew)
