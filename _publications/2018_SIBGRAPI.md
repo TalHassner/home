@@ -22,3 +22,5 @@ The survey is broken down into multiple parts that follow a standard face recogn
 [PDF](../projects/DeepFaceSurvey/Masietal2018deepfacesurvey.pdf)
 
 [BibTex](../projects/DeepFaceSurvey/BibTeX.txt)
+
+[Slides and more information](https://isi-vista.github.io/deep-face-recognition-tutorial/)
