@@ -17,6 +17,7 @@ My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pa
 
 Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI), Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ), and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM).
 
+Program co-Chair for the IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
 - 17-November-2018: <br/>**Area Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/) (CVPR), Long Beach, CA, USA, 2019.
