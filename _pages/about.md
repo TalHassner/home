@@ -13,7 +13,7 @@ redirect_from:
 [comment]: <> (I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.)
 I am a Principle Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
 
-My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years much of my work has been on problems related to face images, including, in particular, face recognition, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, text image processing, and more.
+My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Much of my work relates to face images and videos, including, in particular, face recognition, attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to human action recognition in videos, dense correspondence estimation, feature representation and matching, text image processing, and more.
 
 Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI), Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ), and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM).
 
