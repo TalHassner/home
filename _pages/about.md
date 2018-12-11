@@ -10,9 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.
+[comment]: <> (I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.)
+I am a Principle Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
 
-My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years I worked quite a bit on problems related to face images (face recognition, 3D face reconstruction, facial attributes, and more). I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, and many more.
+My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Over the years much of my work has been on problems related to face images, including, in particular, face recognition, face alignment and 3D reconstruction of face shapes. I also worked on problems related to human action recognition in videos, dense correspondence estimation, local feature design and matching, text image processing, and more.
+
+Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI), Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ), and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM).
+
 
 ### Events and News
 - 17-November-2018: <br/>**Area Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/) (CVPR), Long Beach, CA, USA, 2019.
