@@ -26,7 +26,7 @@ Program co-Chair for the IEEE/CVF International Conference on Computer Vision (I
 
 - 1-December-2017 <br/>Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [<i>Age and Gender Estimation of Unfiltered Faces</i>]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor!
 
-- 27-October-2017 <br/>Our [bid for holding the 2021 IEEE/CVF ICCV in Montreal](https://indd.adobe.com/view/5c8b6b5f-9bce-4d45-aac7-f2cd0a6d9b5b) was approved! <br/>
+- 27-October-2017 <br/>Our bid for holding the 2021 IEEE/CVF ICCV in Montreal was approved! <br/>
 A HUGE thank you to everyone at ICCV'17 who participated and voted for our team.
 And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE/CVF International Conference on Computer Vision (ICCV'21), Montreal, CA.
 
