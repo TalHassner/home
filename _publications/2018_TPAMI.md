@@ -7,7 +7,7 @@ excerpt: '\* Denotes first / lead senior author.<br/><br/>
 date: 2019-02-31
 venue: 'IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: ''
-citation: 'Iacopo Masi, Feng-ju Chang, Jongmoo Choi, Shai Harel, Jungyeon Kim, KangGeon Kim, Jatuporn Leksut, Stephen Rawls, Yue Wu, Tal Hassner*, Wael AbdAlmageed, Gerard Medioni, Louis-Philippe Morency, Prem Natarajan, Ram Nevatia. <i>Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild.</i> IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 41(2):379--393, Feb. 2019.<br/>* Denotes lead senior author'
+citation: 'Iacopo Masi, Feng-ju Chang, Jongmoo Choi, Shai Harel, Jungyeon Kim, KangGeon Kim, Jatuporn Leksut, Stephen Rawls, Yue Wu, Tal Hassner*, Wael AbdAlmageed, Gerard Medioni, Louis-Philippe Morency, Prem Natarajan, Ram Nevatia. <i>Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild.</i> IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 41(2):379--393, Feb. 2019.<br/>'
 ---
 
 Abstract
