@@ -5,7 +5,7 @@ permalink: /publication/2018_MICCAIw
 excerpt: '[<font color="SkyBlue"><i>PDF coming soon</i></font>](/home/publication/2018_MICCAIw)'
 date: 2018-09-16
 venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) workshops, Grenada, Spain"
-paperurl: 'https://www.springerprofessional.de/en/cnn-prediction-of-future-disease-activity-for-multiple-sclerosis/16457564'
+paperurl: ''
 citation: "N. Mohammadi-Sepahvand, T. Hassner, D.L. Arnold and T. Arbel, <i>CNN Prediction of Future Disease Activity for Multiple Sclerosis Patients from Baseline MRI and Lesion Labels</i>, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshops, Grenada, Spain, September 2018"
 ---
 [comment]: <> (<img src='../images/New - Icon.jpg' width='60'>)
