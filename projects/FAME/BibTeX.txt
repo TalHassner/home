@@ -1,0 +1,12 @@
+@article{Chang:2019:FAME,
+  title={Facial Landmark Detection with Tweaked Convolutional Neural Networks},
+  author={Feng-Ju Chang and Anh Tuan Tran and Tal Hassner and Iacopo Masi and Ram Nevatia and
+ G\'{e}rard Medioni},
+  journal={International Journal of Computer Vision (IJCV)},
+  volume = {-1},
+  number = {-1},
+  month = {Dec.},
+  year={2019},
+  URL 	= {\url{https://talhassner.github.io/home/publication/2018_IJCV_1},
+  note = {Accepted for publication}
+}
