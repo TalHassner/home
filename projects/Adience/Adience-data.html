@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="stylesheet" type="text/css" href="./style.css">    
-    <title>Face Image Project - Data</title>    
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <title>Face Image Project - Data</title>
 </head>
 <body>
     <div class="container">
@@ -103,12 +103,12 @@
             <img alt="Examples from the Adience data set" class="style51" longdesc="Examples from the Adience data set" width="466" height="281" src="./adience_ageandgender.png">
             </center>
             <div style="text-align: justify;" class="style2">
-            <h3>Description</h3>            
-                In order to facilitate the study of age and gender recognition, we provide a data set and benchmark of face photos. The data included in this collection is intended to be as true as possible to the challenges of real-world imaging conditions. In particular, it attempts to capture all the variations in appearance, noise, pose, lighting and more, that can be expected of images taken without careful preparation or posing. 
+            <h3>Description</h3>
+                In order to facilitate the study of age and gender recognition, we provide a data set and benchmark of face photos. The data included in this collection is intended to be as true as possible to the challenges of real-world imaging conditions. In particular, it attempts to capture all the variations in appearance, noise, pose, lighting and more, that can be expected of images taken without careful preparation or posing.
                 <br>
                 The sources of the images included in our set are <a href="https://www.openu.ac.il/home/hassner/Adience/www.flickr.com">Flickr</a> albums, assembled by automatic upload from iPhone5 (or later) smart-phone devices, and released by their authors to the general public under the Creative Commons (CC) license.<br>
                 <br>
-                This data set was used in the paper <em>Age and Gender Estimation of Unfiltered Faces</em> (See our 
+                This data set was used in the paper <em>Age and Gender Estimation of Unfiltered Faces</em> (See our
                 <a href="./Adience-publications.html">publications page</a> for more information). The paper describes the process of collecting the data set and provides additional information on the test protocols used with it.
 
                 <br>
@@ -116,7 +116,7 @@
                 <h3>Statistics and info</h3>
                 <strong>Total number of photos:</strong> 26,580<br>
                 <strong>Total number of subjects:</strong> 2,284<br>
-                <strong>Number of age groups / labels:</strong> 8 (0-2, 4-6, 8-13, 15-20, 25-32, 38-43, 48-53, 
+                <strong>Number of age groups / labels:</strong> 8 (0-2, 4-6, 8-13, 15-20, 25-32, 38-43, 48-53,
                 60-)<br>
                 <strong>Gender labels:</strong> Yes<br>
                 <strong>In the wild:</strong> Yes<br>
@@ -124,21 +124,21 @@
                 <br>
                 <br>
                 <h3>Files</h3>
-                Files for this 
+                Files for this
                 benchmark are available under the subdirectory named: <br>
                 <em>AdienceBenchmarkOfUnfilteredFacesForGenderAndAgeClassification<br>
                 </em><br>
                 The directory contains the following files:
                 <ul>
                 <li>faces.tar.gz (936M) - Face images, cropped</li>
-                <li>aligned.tar.gz (1.9G) - Face images, cropped and aligned using our 
+                <li>aligned.tar.gz (1.9G) - Face images, cropped and aligned using our
                     <a href="./Adience-code.html#inplanealign">2D, in-plain alignment tool</a></li>
                 <li>fold_0_data.txt - fold_4_data.txt - text files with indices to the five-fold cross validation tests using all faces</li>
                 <li>fold_frontal_0_data.txt - fold_frontal_4_data.txt - same as above, but using only faces in approximately frontal pose</li>
                 </ul>
                 These files contain also the label information for each of the photos<br><br>
                 <ul>
-                <li>README.txt provides details on these text files</li>
+                <li><a href="readme.txt">README.txt</a> provides details on these text files</li>
                 <li>LICENSE.txt provides license information for the face images in this collection.</li>
                 </ul>
                 <h3>Download</h3>
@@ -149,11 +149,11 @@
                 <a href="http://www.cslab.openu.ac.il/download/">http://www.cslab.openu.ac.il/download/</a>
                 <br>
                 <br>
-                To get access to the data, please provide the details below. 
+                To get access to the data, please provide the details below.
 
-We ask for your details so we can keep in touch in case we find any need for a critical update or 
-in case we would organize a dedicated workshop, etc. 
-When done, you will immediately be able to see the FTP user name and password. 
+We ask for your details so we can keep in touch in case we find any need for a critical update or
+in case we would organize a dedicated workshop, etc.
+When done, you will immediately be able to see the FTP user name and password.
 <br>
             <!--https://docs.google.com/spreadsheets/d/1fSVLZkVvqSYQu_CRC4mIntLEeQN3tQppaPt74KG4Fco/edit?usp=sharing -->
             <form action="https://docs.google.com/forms/d/1enMRzs2eHaC9CljvMX5WhDkJOMSOyPzYmOLXqoHMjgQ/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
@@ -217,21 +217,21 @@ When done, you will immediately be able to see the FTP user name and password.
             <br>
 
                 <h3>Errata</h3>
-                <span class="style3">Dec. 15th, 2014:</span> We have corrected a number of wrong gender labels. The new split (text) files have been uploaded to the FTP. The previous split files are still available for reference and backwards comparability. We are most grateful for 
+                <span class="style3">Dec. 15th, 2014:</span> We have corrected a number of wrong gender labels. The new split (text) files have been uploaded to the FTP. The previous split files are still available for reference and backwards comparability. We are most grateful for
                 <strong>Jordi Mansanet Sandin</strong> for noticing and reporting these label errors. <br><br>
 
-                <span class="style3">Nov. 17th, 2014:</span> Thanks to reports from some of our 
-                benchmark users, we have located and corrected a few errors in the split files. 
-                These errors were introduced when compiling the data for download; they do not 
-                affect the scores reported in the paper. We have replaced the old split files 
-                with the new, corrected versions on the FTP server. If you have downloaded the 
-                split files before the 17th of Nov. 2014, we ask that you please download the 
+                <span class="style3">Nov. 17th, 2014:</span> Thanks to reports from some of our
+                benchmark users, we have located and corrected a few errors in the split files.
+                These errors were introduced when compiling the data for download; they do not
+                affect the scores reported in the paper. We have replaced the old split files
+                with the new, corrected versions on the FTP server. If you have downloaded the
+                split files before the 17th of Nov. 2014, we ask that you please download the
                 corrected files.&nbsp;
 
                 <br>
                 <br>
                 <h3>Citation</h3>
-                If you use this data, please cite the paper Eran Eidinger, Roee Enbar, and Tal Hassner, <em>Age and Gender Estimation of Unfiltered Faces</em>, (See our 
+                If you use this data, please cite the paper Eran Eidinger, Roee Enbar, and Tal Hassner, <em>Age and Gender Estimation of Unfiltered Faces</em>, (See our
                 <a href="./Adience-publications.html">publications page</a> for more information).
                 </div>
                 <br>
@@ -239,10 +239,10 @@ When done, you will immediately be able to see the FTP user name and password.
                 <br>
                 <a name="frontalized">
             <h2>Frontalized image sets</h2></a>
-                Our own Adience image set, as well as the 
-            <a href="http://vis-www.cs.umass.edu/lfw/">Labeled Faces in the Wild</a> collection are both available in frontalized versions (synthesized, front-facing views) from the 
-            <a href="../../publication/2015_CVPR_1">frontalization project page</a>. Please see that page for download and citation instructions. 
-            <br>           
+                Our own Adience image set, as well as the
+            <a href="http://vis-www.cs.umass.edu/lfw/">Labeled Faces in the Wild</a> collection are both available in frontalized versions (synthesized, front-facing views) from the
+            <a href="../../publication/2015_CVPR_1">frontalization project page</a>. Please see that page for download and citation instructions.
+            <br>
 
             <!-- end .content -->
         </div>
@@ -257,10 +257,10 @@ When done, you will immediately be able to see the FTP user name and password.
         </div>
         <!-- end .container -->
     </div>
-    
+
 <script type="text/javascript">
 	<!--
-	try 
+	try
 	{
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -270,13 +270,13 @@ When done, you will immediately be able to see the FTP user name and password.
 </script><script src="./ga.js.download" type="text/javascript"></script>
 <script type="text/javascript">
 	<!--
-	try 
+	try
 	{
 		var pageTracker = _gat._getTracker("UA-4552874-1");
 		pageTracker._setDomainName("www.openu.ac.il");
 		pageTracker._setAllowHash(false);
 		pageTracker._trackPageview();
-	} 
+	}
 	catch (e) {}
 	-->
 </script>
