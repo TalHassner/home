@@ -1,0 +1,7 @@
+@InProceedings{GHEGH:2019:Precise,
+author = {Eran Goldman and Roei Herzig and Aviv Eisenschtat and Jacob Goldberger and Tal Hassner},
+title = {Precise Detection in Densely Packed Scenes},
+booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
