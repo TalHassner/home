@@ -15,6 +15,9 @@ author_profile: true
 I am constantly seeking high quality, motivated graduate students interested in computer vision thesis projects. Please be aware that I require all my students to successfully complete the Introduction to Computer Vision graduate course ([<font color="SkyBlue">22928</font>](https://www.openu.ac.il/courses/22928.htm "Computer Vision graduate course")), as well as an advanced seminar -- either as part of the group seminar ([<font color="SkyBlue">22955</font>](https://www.openu.ac.il/courses/22955.htm "Advanced group seminar")) or as a written seminar ([<font color="SkyBlue">22949</font>](https://www.openu.ac.il/courses/22949.htm "Advanced written seminar")). This, before beginning to work on their thesis.
 
 ### Graduated students
+* **Matan Goldman**<br/>
+**M.Sc. in Engineering**, "<i></Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation</i>,"<br/>Completed January 2019
+
 * **Yuval Nirkin**<br/>
 **M.Sc. in Computer Science - Research Track**, "<i>On Face Segmentation, Face Swapping, and Face Perception</i>,"<br/>Completed August 2017
 
@@ -47,9 +50,9 @@ I am constantly seeking high quality, motivated graduate students interested in 
 **M.Sc. in Computer Science - Research Track**, "<i>Real-Time Detection of Violent Crowd Behavior</i>," <br/>Completed July 2013
 
 * **Orit Kliper-Gross**<br/>
-**Ph.D. in Applied Mathematics and Computer Science**, "<i>Action Recognition in Challenging Real-World Videos</i>," 
+**Ph.D. in Applied Mathematics and Computer Science**, "<i>Action Recognition in Challenging Real-World Videos</i>,"
 At the Weizmann Institute of Science, supervised jointly with [<font color="SkyBlue">Ronen Basri</font>](http://www.weizmann.ac.il/math/ronen/ "Ronen Basri").
-<br/>Completed December 2012 
+<br/>Completed December 2012
 
 * **Liav Assif**<br/>
 **M.Sc. in Computer Science - Research Track**, "<i>View Relevancy for Model based Pose Estimation in Single Photos</i>," <br/>Completed November 2011
