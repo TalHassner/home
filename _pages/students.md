@@ -16,7 +16,7 @@ I am constantly seeking high quality, motivated graduate students interested in 
 
 ### Graduated students
 * **Matan Goldman**<br/>
-**M.Sc. in Engineering**, "<i>Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation</i>,"<br/>Completed January 2019
+**M.Sc. in Engineering**, "<i>Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation</i>," At Tel-Aviv University, supervised jointly with [<font color="SkyBlue">Shai Avidan</font>](http://www.eng.tau.ac.il/~avidan).<br/>Completed January 2019
 
 * **Gil Shapira**<br/>
 **M.Sc. in Computer Science - Research Track**, "<i>Fast and Accurate Line Detection with GPU-Based Least Median of Squares</i>,"<br/>Completed January 2019
