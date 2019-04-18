@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * **[<font color='SkyBlue'>SKU-110K data set and benchmark</font>](https://github.com/eg4000/SKU110K_CVPR19)**<br/>
-Dataset for our [CVPR2019 paper](https://talhassner.github.io/home/publication/2019_CVPR), <i>Precise Detection in Densely Packed Scenes</i>. The benchmark measures object detection in densely packed scenes, where images contain many objects, often appearing similar or even identical, positioned in close proximity. The 11,762 images in SKU-110k represent retail environments and average 147.4 bounding box-labeled objects (store shelf items) per image. 
+Dataset for our [<font color='SkyBlue'>CVPR2019 paper</font>](https://talhassner.github.io/home/publication/2019_CVPR), <i>Precise Detection in Densely Packed Scenes</i>. The benchmark measures object detection in densely packed scenes, where images contain many objects, often appearing similar or even identical, positioned in close proximity. The 11,762 images in SKU-110k represent retail environments and average 147.4 bounding box-labeled objects (store shelf items) per image. 
 
 * **[<font color='SkyBlue'>LFW3D</font>](../publication/2015_CVPR_1)**<br/>
 Frontal facing, strongly aligned [LFW](http://vis-www.cs.umass.edu/lfw/) images generated using our frontalization method.
