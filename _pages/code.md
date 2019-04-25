@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Network layer for 3D face view generation</font>](https://github.com/iacopomasi/face_specific_augm/tree/master/cow_data_layer)**<br/>
-Used for face specific data augmentation: This layer renders novel face views during training, on-line, with minimal additional compute costs and no storage costs required for the augmented face images. The method is described in [this paper](../publication/2019_IJCV_2).
+Used for face specific data augmentation: This layer renders novel face views during training, on-line, with minimal additional compute costs and no storage costs required for the augmented face images. The method is described in [<font color="SkyBlue">this paper</font>](../publication/2019_IJCV_2).
 
 
 * **[<font color="SkyBlue">Extreme 3D Face Reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
