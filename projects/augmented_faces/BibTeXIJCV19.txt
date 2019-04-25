@@ -1,0 +1,11 @@
+@article{Masi:2019:Face,
+  title={Face-Specific Data Augmentation for Unconstrained Face Recognition},
+  author={Iacopo Masi, Anh Tuan Tran, Tal Hassner, Gozde Sahin, G\'{e}rard Medioni},
+  journal={International Journal of Computer Vision (IJCV)},
+  volume = {-1},
+  number = {-1},
+  month = {Dec.},
+  year={2019},
+  URL 	= {\url{https://talhassner.github.io/home/publication/2018_IJCV_2},
+  note = {Accepted for publication}
+}

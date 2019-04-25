@@ -11,8 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Network layer for 3D face view generation</font>](https://github.com/iacopomasi/face_specific_augm/tree/master/cow_data_layer)**<br/>
+Used for face specific data augmentation: This layer renders novel face views during training, on-line, with minimal additional compute costs and no storage costs required for the augmented face images. The method is described in [this paper](../publication/2019_IJCV_2).
+
+
 * **[<font color="SkyBlue">Extreme 3D Face Reconstruction</font>](https://github.com/anhttran/extreme_3d_faces)**<br/>
-Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](../publication/2017_CVPR) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083). <img src='../images/New - Icon.jpg' width='50'> Docker now available for easy install of model and code. 
+Deep models and code for estimating detailed 3D face shapes, including facial expressions and viewpoint. This project extends the code used for our [<font color="SkyBlue">CNN3DMM project</font>](../publication/2017_CVPR) from our CVPR'17 paper. The method is described in [this preprint](https://arxiv.org/abs/1712.05083). <img src='../images/New - Icon.jpg' width='50'> Docker now available for easy install of model and code.
 
 * **[<font color="SkyBlue">FaceExpressionNet (ExpNet)</font>](https://github.com/fengju514/Expression-Net)**<br/>
 Deep models and code for estimating the expression bases for a 3D face shape directly from image intensities and without the use of facial landmark detectors.
