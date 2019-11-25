@@ -11,7 +11,8 @@ redirect_from:
 {% include base_path %}
 
 [comment]: <> (I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.)
-I am an Applied Research Lead at Facebook AML. Before that I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
+
+I am an Applied Research Lead at Facebook AI. Before that I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
 
 My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Much of my work relates to face images and videos, including, in particular, face recognition, attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to human action recognition in videos, dense correspondence estimation, feature representation and matching, text image processing, and more.
 
@@ -20,19 +21,29 @@ Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intellig
 Program co-Chair for the IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
-- 17-November-2018: <br/>**Area Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/) (CVPR), Long Beach, CA, USA, 2019.
+- 22-October-2019: **Area Chair** for the [ European Conference on Computer Vision ](https://eccv2020.eu/) (ECCV), Glasgow, 2020.
 
-- 6-December-2017: <br/>**Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
+- 13-September-2019: **Area Chair** of Multiview Geometry and 3D Computer Vision, for the International Conference on Image Analysis and Processing (ICIAP), Lecce, Italy, 2021
 
-- 1-December-2017 <br/>Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [<i>Age and Gender Estimation of Unfiltered Faces</i>]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor!
+- 2-September-2019: **Tutorial co-Chair** for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022.
 
-- 27-October-2017 <br/>Our bid for holding the 2021 IEEE/CVF ICCV in Montreal was approved! <br/>
+- 18-August-2019: **Senior Program Committee** for the [ AAAI Conference on Artificial Intelligence ](http://cvpr2019.thecvf.com/) (AAAI), NYC, NY, USA, 2020.
+
+- 2-April-2019: **Workshop co-Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com/) (CVPR), Seattle, WA, USA, 2020.
+
+- 17-November-2018: **Area Chair** for the [ IEEE/CVF Conference on Computer Vision and Pattern Recognition](http://cvpr2019.thecvf.com/) (CVPR), Long Beach, CA, USA, 2019.
+
+- 6-December-2017: **Workshop Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv19.wacv.net/) (WACV), Hilton Waikoloa Village, Hawaii, USA, 2019.
+
+- 1-December-2017 Excited to announce that Roee Enbar was selected for the 2017 **SPS Young Author Best Paper Award** by the [IEEE Signal Processing Society](https://signalprocessingsociety.org/get-involved/awards-submit-award-nomination), for our paper [<i>Age and Gender Estimation of Unfiltered Faces</i>]({{ base_path }}/projects/Adience/EidingerEnbarHassner_tifs.pdf). Congratulations Roee on the well-deserved honor!
+
+- 27-October-2017 Our bid for holding the 2021 IEEE/CVF ICCV in Montreal was approved! <br/>
 A HUGE thank you to everyone at ICCV'17 who participated and voted for our team.
 And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE/CVF International Conference on Computer Vision (ICCV'21), Montreal, CA.
 
-- 5-April-2017 <br/>**Program Co-Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
+- 5-April-2017 **Program Co-Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
-- 2-April-2017 <br/>**Co-organizer** of the [International Workshop on Cross-domain Human Identification](https://chi-workshop.github.io/) (CHI), held in conjunction with [ICCV'17](http://iccv2017.thecvf.com/program/workshops), Venice, Italy.
+- 2-April-2017 **Co-organizer** of the [International Workshop on Cross-domain Human Identification](https://chi-workshop.github.io/) (CHI), held in conjunction with [ICCV'17](http://iccv2017.thecvf.com/program/workshops), Venice, Italy.
 
 - 15-November-2016 <br/>
 [**Tutorial co-chair**](http://iccv2017.thecvf.com/organizers#tutorialsshort_courses_chairs) for [ICCV'17](http://iccv2017.thecvf.com), Venice, Italy.
