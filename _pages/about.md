@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 [comment]: <> (I am an Associate Professor at the Open University of Israel, Department of Mathematics and Computer Science (on extended leave of absence). Since April, 2018 I am also at Amazon AWS.)
-I am an Applied Research Lead at Facebook AML. Before that I was a Principle Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
+I am an Applied Research Lead at Facebook AML. Before that I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science.
 
 My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Much of my work relates to face images and videos, including, in particular, face recognition, attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to human action recognition in videos, dense correspondence estimation, feature representation and matching, text image processing, and more.
 

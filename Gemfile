@@ -18,8 +18,10 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# added by Tal to remove security warning
-gem 'nokogiri', '~> 1.8.1'
+# added by Tal to remove security warning:
+# gem 'nokogiri', '~> 1.8.1'
+# updated by Tal on 25.11.19:
+gem nokogiri ~> 1.10.4
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
