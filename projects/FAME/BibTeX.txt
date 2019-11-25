@@ -1,12 +1,11 @@
-@article{Chang:2019:FAME,
-  title={Deep, Landmark-Free {FAME}: Face Alignment, Modeling, and Expression Estimation},
-  author={Feng-Ju Chang and Anh Tuan Tran and Tal Hassner and Iacopo Masi and Ram Nevatia and
- G\'{e}rard Medioni},
-  journal={International Journal of Computer Vision (IJCV)},
-  volume = {-1},
-  number = {-1},
-  month = {Dec.},
+@article{chang2019deep,
+  title={Deep, landmark-free {FAME}: Face alignment, modeling, and expression estimation},
+  author={Chang, Feng-Ju and Tran, Anh Tuan and Hassner, Tal and Masi, Iacopo and Nevatia, Ram and Medioni, G{\'e}rard},
+  journal={International Journal of Computer Vision},
+  volume={127},
+  number={6-7},
+  pages={930--956},
   year={2019},
-  URL 	= {\url{https://talhassner.github.io/home/publication/2018_IJCV_1},
-  note = {Accepted for publication}
+  URL 	= {\url{https://talhassner.github.io/home/publication/2019_IJCV_1}
+  publisher={Springer}
 }

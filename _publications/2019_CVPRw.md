@@ -1,5 +1,5 @@
 ---
-title: "<img src='../images/New - Icon.jpg' width='50'> Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation"
+title: "Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation"
 collection: publications
 permalink: /publication/2019_CVPRw
 excerpt: '[<font color="SkyBlue"><i>arXiv preprint</i></font>](https://arxiv.org/abs/1905.00401)'
