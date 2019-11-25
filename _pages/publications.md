@@ -20,6 +20,8 @@ author_profile: true
 {% endfor %}
 
 ## Reports
+* Cuong V. Nguyen, Alessandro Achille, Michael Lam, Tal Hassner, Vijay, Mahadevan, Stefano Soatto, <i>Toward Understanding Catastrophic Forgetting in Continual Learning</i>, arXiv preprint arXiv:1908.01091, 2 Aug 2019, ([<font color="SkyBlue">arXiv</font>](https://arxiv.org/abs/1908.01091))
+
 * Tal Hassner, Malte Rehbein, Peter A. Stokes, and Lior Wolf, <i>Computation and Palaeography: Potentials and Limits (Dagstuhl Perspectives Workshop 12382)</i>. Dagstuhl Reports 2(9): 184-199 (2012) ([<font color="SkyBlue">info</font>](http://drops.dagstuhl.de/opus/volltexte/2013/3890/), [<font color="SkyBlue">PDF</font>](http://drops.dagstuhl.de/opus/volltexte/2013/3890/pdf/dagrep_v002_i009_p184_s12382.pdf))
 
 * Tal Hassner and Ronen Basri, <i>Single View Depth Estimation from Examples</i>, arXiv preprint arXiv:1304.3915, 14 Apr 2013  ([<font color="SkyBlue">arXiv</font>](http://arxiv.org/abs/1304.3915))
