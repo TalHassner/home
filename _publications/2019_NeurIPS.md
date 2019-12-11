@@ -20,4 +20,5 @@ directions for improving continual learning benchmarks and methods.
 
 
 [Paper](../projects/ContinualLearning/metalearn2019-nguyen.pdf)
+
 [Extended version on arXiv](https://arxiv.org/abs/1908.01091)
