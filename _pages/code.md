@@ -98,4 +98,4 @@ MATLAB code for computing the Three-Patch LBP (TPLBP) and the Four-Patch LBP (FP
 
 
 ---
-The SOFTWARE provided in this website is provided "as is", without any guarantee made as to its suitability or fitness for any particular use. It may contain bugs, so use of this tool is at your own risk. We take no responsibility for any damage of any sort that may unintentionally be caused through its use.
+CODE and DATA provided in this website are provided "as is", without any guarantee made as to their suitability or fitness for any particular use. CODE may contain bugs, so use of this tool is at your own risk. We take no responsibility for any damage of any sort that may unintentionally be caused through the use of any of these resources.
