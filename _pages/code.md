@@ -11,7 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">FSGAN - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/fsgan)**<br/>
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">img2pose implementation and data</font>](https://github.com/vitoralbiero/img2pose)**<br/>
+State of the art, real-time face detection and 3D alignment by direct 6DoF face pose estimation. No more face detection or facial landmark localization models! For more information [<font color="SkyBlue">plesse see this arXiv post</font>](https://arxiv.org/abs/2012.07791).
+
+
+***[<font color="SkyBlue">FSGAN - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/fsgan)**<br/>
 Code and models for our subject agnostic face swapping and reenactment method. Please see [<font color="SkyBlue">FSGAN project page</font>](https://talhassner.github.io/home/publication/2019_ICCV_2) for the paper and more details.
 
 * **[<font color="SkyBlue">Network layer for 3D face view generation</font>](https://github.com/iacopomasi/face_specific_augm/tree/master/cow_data_layer)**<br/>
