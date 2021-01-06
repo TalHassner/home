@@ -29,7 +29,7 @@ Deep models and code for estimating detailed 3D face shapes, including facial ex
 Deep models and code for estimating the expression bases for a 3D face shape directly from image intensities and without the use of facial landmark detectors.
 
 * [<font color="SkyBlue"><b>FacePoseNet</b></font>](https://github.com/fengju514/Face-Pose-Net)<br/>
-Deep, direct estimation of 6 degrees of freedom head pose for 2D and 3D face alignment. The Python code also includes fast rendering for new view synthesis of face photos to three poses, including frontalization. <img src='../images/New - Icon.jpg' width='50'> Network updated to ResNet-101 with considerable improvement to accuracy.
+Deep, direct estimation of 6 degrees of freedom head pose for 2D and 3D face alignment. The Python code also includes fast rendering for new view synthesis of face photos to three poses, including frontalization. Network updated to ResNet-101 with considerable improvement to accuracy.
 
 * **[<font color="SkyBlue">Temporal Tessellation</font>](https://github.com/dot27/temporal-tessellation)**<br/>
 A Unified Approach for Video Analysis [<font color="SkyBlue">shown</font>](https://arxiv.org/abs/1612.06950) obtain state of the art results in video captioning (LSMDC’16 benchmark), video summarization (SumMe and TVSum benchmarks), and Temporal Action Detection (Thumos2014 benchmark).
