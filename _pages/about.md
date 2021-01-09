@@ -16,7 +16,7 @@ My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pa
 
 Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI), Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ), and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM).
 
-Program co-Chair for the IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
+Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
 - 15-December-2020: **Guest editor** for the IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html), Special Issue on Trustworthy Biometrics. See our [call for papers here](http://tbiom.ieee-biometrics.org/images/201211a_Special_Issue_on_Trustworthy_Biometrics.pdf). Submision deadline is May 1st, 2021.
@@ -43,7 +43,7 @@ Program co-Chair for the IEEE/CVF International Conference on Computer Vision (I
 
 - 27-October-2017 Our bid for holding the 2021 IEEE/CVF ICCV in Montreal was approved! <br/>
 A HUGE thank you to everyone at ICCV'17 who participated and voted for our team.
-And so I am happy to announce that I will be a **Program Co-Chair** for the IEEE/CVF International Conference on Computer Vision (ICCV'21), Montreal, CA.
+And so I am happy to announce that I will be a **Program Co-Chair** for the [2021 IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV'21), Montreal, CA.
 
 - 5-April-2017 **Program Co-Chair** for the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
