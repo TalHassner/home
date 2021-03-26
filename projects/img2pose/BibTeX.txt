@@ -1,0 +1,7 @@
+@inproceedings{albiero2021img2pose,
+  title={img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation},
+  author={Albiero, Vítor and Chen, Xingyu and Yin, Xi and Pang, Guan and Hassner, Tal},
+  booktitle={CVPR},
+  year={2021},
+  url={https://arxiv.org/abs/2012.07791},
+}

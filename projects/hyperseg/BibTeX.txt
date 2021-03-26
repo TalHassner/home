@@ -1,0 +1,7 @@
+@inproceedings{nirkin2021hyperseg,
+  title={HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation},
+  author={Yuval Nirkin, Lior Wolf, Tal Hassner},
+  booktitle={CVPR},
+  year={2021},
+  url={https://arxiv.org/abs/2012.11582},
+}
