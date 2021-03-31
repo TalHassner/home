@@ -1,0 +1,7 @@
+@inproceedings{huang2021multiplexed,
+  title={A Multiplexed Network for End-to-End, Multilingual {OCR}},
+  author={Jing Huang and Guan Pang and Rama Kovvuri and Mandy Toh and Kevin J. Liang and Praveen Krishnan and Xi Yin and Tal Hassner},
+  booktitle={CVPR},
+  year={2021},
+  url={https://arxiv.org/abs/2103.15992},
+}
