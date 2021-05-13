@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>The TextOCR data set</font>](https://textvqa.org/textocr)**<br/>
-We offer ~1M high quality word annotations on TextVQA images allowing application of end-to-end reasoning on downstream tasks such as visual question answering or image captioning. Please see [<font color="SkyBlue">our CVPR'21 preprint</font>](https://arxiv.org/abs/2012.07791) for more information.
+We offer ~1M high quality word annotations on TextVQA images allowing application of end-to-end reasoning on downstream tasks such as visual question answering or image captioning. Please see [<font color="SkyBlue">our CVPR'21 preprint</font>](https://arxiv.org/abs/2105.05486) for more information.
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>6DoF Pose annotations for our img2pose project</font>](https://github.com/vitoralbiero/img2pose)**<br/>
 We provide 6DoF face pose annotations for faces in the WIDER FACE data set. These were used for training and evaluating our img2pose: direct 6DoF pose estimation without face detection or landmark localization. For more information [<font color="SkyBlue">please see this arXiv post</font>](https://arxiv.org/abs/2012.07791).
