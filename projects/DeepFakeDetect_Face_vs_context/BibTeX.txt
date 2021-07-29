@@ -1,0 +1,10 @@
+@ARTICLE{Nirkin:2021:DeepFakeDetection,
+  author={Nirkin, Yuval and Wolf, Lior and Keller, Yosi and Hassner, Tal},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={DeepFake Detection Based on Discrepancies Between Faces and their Context},
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  URL = {\url{https://talhassner.github.io/home/publication/2021_TPAMI}}
+}
