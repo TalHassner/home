@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Yuval Nirkin, Lior Wolf, Yosi Keller and Tal Hassner, <i>DeepFake Detection Based on Discrepancies Between Faces and their Context.</i> IEEE Transactions on Pattern Analysis and Machine Intelligence'
 ---
 
-<img src='../projects/DeepFakeDetect_Face_vs_context/teaser.png'><br/>
+<img src='../projects/DeepFakeDetect_Face_vs_context/teaser.jpg'><br/>
 <b>Detecting swapped faces by comparing faces and their context.</b>  Two example fake (swapped) faces from the DFD data set. Left: The arm of the eyeglasses does not extend from face to context. Right: An apparent identity mismatch between face and context. We show how these and similar discrepancies can be used as powerful signals for automatic detection of swapped faces.
 
 
