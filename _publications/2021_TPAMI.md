@@ -6,7 +6,7 @@ excerpt: '[<font color="SkyBlue"><i>arXiv preprint</i></font>](https://arxiv.org
 date: 2021-06-29
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: ''
-citation: 'Yuval Nirkin, Lior Wolf, Yosi Keller and Tal Hassner, <i>DeepFake Detection Based on Discrepancies Between Faces and their Context.</i> IEEE Transactions on Pattern Analysis and Machine Intelligence'
+citation: 'Yuval Nirkin, Lior Wolf, Yosi Keller and Tal Hassner, <i>DeepFake Detection Based on Discrepancies Between Faces and their Context.</i> IEEE Transactions on Pattern Analysis and Machine Intelligence. Accepted, June 2021'
 ---
 
 <img src='../projects/DeepFakeDetect_Face_vs_context/teaser.jpg'><br/>
