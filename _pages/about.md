@@ -10,18 +10,26 @@ redirect_from:
 
 {% include base_path %}
 
-I am an Applied Research Lead at Facebook AI. Before that I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018.
+I am an Applied Research Lead at Facebook AI. Before that, I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018.
 
-My work is mostly related to <b>Machine Learning (Deep Learning), Statistical Pattern Recognition, Computer Vision</b> and <b>Computer Graphics</b>. Much of my work relates to face images and videos, including, in particular, face recognition, attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to text image processing, human action recognition in videos, dense correspondence estimation, feature representation and matching, and more.
+My work is mostly related to <b>Computer Vision, Machine Learning, Statistical Pattern Recognition,</b> and to a lesser extent, also <b>Computer Graphics</b>. Much of my work relates to digital face processing, including face recognition, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching, and more.
 
-Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI), Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ), and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM).
+I am currently an Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also an Associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
 Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
+- 20-October-2021: **Panelist** at the [Biometrics Institute Congress 2021](https://www.biometricsinstitute.org/event/biometrics-institute-congress-2021/), Session 6.
+
+- 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
+
+- 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence (AAAI'22)](https://aaai.org/Conferences/AAAI-22/) 
+
+- 28-April-2021: **Area chair** for the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr2022.thecvf.com/) (CVPR), New Orleans, Louisiana, USA, 2022.
+
 - 15-December-2020: **Guest editor** for the IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html), Special Issue on Trustworthy Biometrics. See our [call for papers here](http://tbiom.ieee-biometrics.org/images/201211a_Special_Issue_on_Trustworthy_Biometrics.pdf). Submision deadline is May 1st, 2021.
 
-- 29-October-2020: **Keynote talk** at the [Israel Machine Vision Converence (IMVC'20)](https://www.imvc.co.il/).
+- 29-October-2020: **Keynote talk** at the [Israel Machine Vision Converence (IMVC'20)](https://www.imvc.co.il/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
 - 29-September-2020: **Keynote talk** at the [International Joint Conference on Biometrics (IJCB'20)](https://ieee-biometrics.org/ijcb2020/).
 
