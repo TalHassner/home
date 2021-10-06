@@ -21,6 +21,10 @@ Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](
 ### Events and News
 - 20-October-2021: **Panelist** at the [Biometrics Institute Congress 2021](https://www.biometricsinstitute.org/event/biometrics-institute-congress-2021/), Session 6.
 
+
+- 14-October-2021: **Panel moderator** at the [2021 IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home), [Panel on Deepfakes and Data Security](https://iccv2021.thecvf.com/overview).
+
+
 - 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
 - 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence (AAAI'22)](https://aaai.org/Conferences/AAAI-22/) 
