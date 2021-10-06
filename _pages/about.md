@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an Applied Research Lead at Facebook AI. Before that, I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018.
+I am an Applied Research Lead at Facebook AI. Before that, I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
 
 My work is mostly related to <b>Computer Vision, Machine Learning, Statistical Pattern Recognition,</b> and to a lesser extent, also <b>Computer Graphics</b>. Much of my work relates to digital face processing, including face recognition, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching, and more.
 
