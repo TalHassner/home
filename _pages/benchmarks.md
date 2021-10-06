@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>IMGUR5K Handwriting Dataset</font>](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset)**<br/>
+We provide a unique new data set for handwritten OCR and text image manipulation. Imgur5K offers around 135K annotated, handwritten English words from 5K images originally hosted publicly on Imgur.com. Please see [<font color="SkyBlue">our preprint</font>](https://arxiv.org/abs/2106.08385) for more information.
+
+
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>The TextOCR data set</font>](https://textvqa.org/textocr)**<br/>
 We offer ~1M high quality word annotations on TextVQA images allowing application of end-to-end reasoning on downstream tasks such as visual question answering or image captioning. Please see [<font color="SkyBlue">our CVPR'21 preprint</font>](https://arxiv.org/abs/2105.05486) for more information.
