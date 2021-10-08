@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Applied Research Lead at Facebook AI. Before that, I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
 
-My work is mostly related to <b>Computer Vision, Machine Learning, Statistical Pattern Recognition,</b> and to a lesser extent, also <b>Computer Graphics</b>. Much of my work relates to digital face processing, including face recognition, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching, and more.
+My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>. Much of my work relates to digital face processing, including <b>face recognition</b>, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to <b>text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching</b>, and more.
 
 I am currently an Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also an Associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
@@ -27,7 +27,7 @@ Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](
 
 - 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
-- 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence (AAAI'22)](https://aaai.org/Conferences/AAAI-22/) 
+- 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence (AAAI'22)](https://aaai.org/Conferences/AAAI-22/)
 
 - 28-April-2021: **Area chair** for the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr2022.thecvf.com/) (CVPR), New Orleans, Louisiana, USA, 2022.
 
