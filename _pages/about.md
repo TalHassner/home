@@ -27,7 +27,7 @@ Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](
 
 - 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
-- 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence (AAAI'22)](https://aaai.org/Conferences/AAAI-22/)
+- 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-22/) (AAAI), Vancouver, BC, Canada, 2022.
 
 - 28-April-2021: **Area chair** for the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr2022.thecvf.com/) (CVPR), New Orleans, Louisiana, USA, 2022.
 
@@ -39,7 +39,7 @@ Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](
 
 - 22-October-2019: **Area Chair** for the [ European Conference on Computer Vision ](https://eccv2020.eu/) (ECCV), Glasgow, 2020.
 
-- 13-September-2019: **Area Chair** of Multiview Geometry and 3D Computer Vision, for the International Conference on Image Analysis and Processing (ICIAP), Lecce, Italy, 2021
+- 13-September-2019: **Area Chair** of Multiview Geometry and 3D Computer Vision, for the [International Conference on Image Analysis and Processing](https://www.iciap2021.org/) (ICIAP), Lecce, Italy, 2021
 
 - 2-September-2019: **Tutorial co-Chair** for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022.
 
