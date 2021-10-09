@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Applied Research Lead at Facebook AI. Before that, I was a Principal Scientist at Amazon AWS. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
 
-My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>. Much of my work relates to digital face processing, including <b>face recognition</b>, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to <b>text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching</b>, and more.
+My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>. Much of my work relates to <b>digital face processing</b>, including <b>face recognition</b>, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to <b>text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching</b>, and more.
 
 I am currently an Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also an Associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
@@ -22,7 +22,7 @@ Program co-Chair for the [IEEE/CVF International Conference on Computer Vision](
 - 20-October-2021: **Panelist** at the [Biometrics Institute Congress 2021](https://www.biometricsinstitute.org/event/biometrics-institute-congress-2021/), Session 6.
 
 
-- 14-October-2021: **Panel moderator** at the [2021 IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home), [Panel on Deepfakes and Data Security](https://iccv2021.thecvf.com/overview).
+- 14-October-2021: **Panel moderator** at the 2021 IEEE/CVF International Conference on Computer Vision, [Panel on DeepFakes and Data Security](https://iccv2021.thecvf.com/overview).
 
 
 - 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
