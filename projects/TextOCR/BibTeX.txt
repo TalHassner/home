@@ -1,7 +1,7 @@
 @inproceedings{singh2021textocr,
     title={{TextOCR}: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text},
     author={Singh, Amanpreet and Pang, Guan and Toh, Mandy and Huang, Jing and Galuba, Wojciech and Hassner, Tal},
-    journal={The Conference on Computer Vision and Pattern Recognition},
+    journal={Conf. on Computer Vision and Pattern Recognition (CVPR)},
     year={2021}
     url={https://textvqa.org/textocr},
 }
