@@ -16,7 +16,7 @@ My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>.
 
 I am currently an Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also an Associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
-Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
+Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
 - 28-October-2021: **Program Co-Chair** for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 (changed from co-Tutorial Chair)
