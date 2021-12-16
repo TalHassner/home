@@ -15,7 +15,7 @@ author_profile: true
 At this time, while on long leave of absence and working in the industry, I will not be accepting new students.
 
 ### Alumni
-* **yuval Nirkin**<br/>
+* **Yuval Nirkin**<br/>
 **Ph.D. in Engineering**, "<i>DeepFake Generation and Detection Guided by Semantic Segmentation</i>," At Bar-Ilan University, supervised jointly with [<font color="SkyBlue">Yosi Keller</font>](https://yosikeller.github.io/).<br/>Completed Sept. 2021
 
 
