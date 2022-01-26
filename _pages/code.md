@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">HyperSeg - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/hyperseg)**<br/>
-Code for our state-of-the-art, real-time, semantic segmentation method which uses a novel hyper-network approach. For more information [<font color="SkyBlue">please see our paper</font>](https://arxiv.org/abs/2012.11582).
+Code for our state-of-the-art, real-time, semantic segmentation method which uses a novel hyper-network approach. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.11582).
 
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">img2pose implementation and data</font>](https://github.com/vitoralbiero/img2pose)**<br/>
-State of the art, real-time face detection and 3D alignment by direct 6DoF face pose estimation. No more face detection or facial landmark localization models! For more information [<font color="SkyBlue">please see this arXiv post</font>](https://arxiv.org/abs/2012.07791). We provide code, models, sample notebooks, pose annotations, and benchmark evaluation scripts.
+State of the art, real-time face detection and 3D alignment by direct 6DoF face pose estimation. No more face detection or facial landmark localization models! For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.07791). We provide code, models, sample notebooks, pose annotations, and benchmark evaluation scripts.
 
 
 * **[<font color="SkyBlue">FSGAN - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/fsgan)**<br/>
