@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Multiplexer: end-to-end, multilingual OCR</font>](https://github.com/facebookresearch/MultiplexedOCR)**<br/>
+Multilingual OCR pipeline, including detection, segmentation, language identification, and character recognition. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2103.15992).
+
+
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">HyperSeg - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/hyperseg)**<br/>
 Code for our state-of-the-art, real-time, semantic segmentation method which uses a novel hyper-network approach. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.11582).
 
