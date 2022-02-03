@@ -19,7 +19,7 @@ I am currently an Associate editor for IEEE [Transactions on Pattern Analysis an
 Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
-- 28-October-2021: **Program Co-Chair** for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022 (changed from co-Tutorial Chair)
+- 28-October-2021: **Program Co-Chair** for the [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/), Tel-Aviv, Israel, 2022 (changed from co-Tutorial Chair)
 
 
 - 20-October-2021: **Panelist** at the [Biometrics Institute Congress 2021](https://www.biometricsinstitute.org/event/biometrics-institute-congress-2021/), Session 6.
@@ -34,15 +34,15 @@ Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv
 
 - 28-April-2021: **Area chair** for the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr2022.thecvf.com/) (CVPR), New Orleans, Louisiana, USA, 2022.
 
-- 15-December-2020: **Guest editor** for the IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html), Special Issue on Trustworthy Biometrics. See our [call for papers here](http://tbiom.ieee-biometrics.org/images/201211a_Special_Issue_on_Trustworthy_Biometrics.pdf). Submision deadline is May 1st, 2021.
+- 15-December-2020: **Guest editor** for the IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html), Special Issue on Trustworthy Biometrics. See our [call for papers here](http://tbiom.ieee-biometrics.org/images/201211a_Special_Issue_on_Trustworthy_Biometrics.pdf). Submission deadline is May 1st, 2021.
 
-- 29-October-2020: **Keynote talk** at the [Israel Machine Vision Converence (IMVC'20)](https://www.imvc.co.il/). See talk video in [media page](https://talhassner.github.io/home/media/)
+- 29-October-2020: **Keynote talk** at the [Israel Machine Vision Conference (IMVC'20)](https://www.imvc.co.il/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
 - 29-September-2020: **Keynote talk** at the [International Joint Conference on Biometrics (IJCB'20)](https://ieee-biometrics.org/ijcb2020/).
 
 - 22-October-2019: **Area Chair** for the [ European Conference on Computer Vision ](https://eccv2020.eu/) (ECCV), Glasgow, 2020.
 
-- 13-September-2019: **Area Chair** of Multiview Geometry and 3D Computer Vision, for the [International Conference on Image Analysis and Processing](https://www.iciap2021.org/) (ICIAP), Lecce, Italy, 2021
+- 13-September-2019: **Area Chair** of Multi-view Geometry and 3D Computer Vision, for the [International Conference on Image Analysis and Processing](https://www.iciap2021.org/) (ICIAP), Lecce, Italy, 2021
 
 - 2-September-2019: **Tutorial co-Chair** for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022.
 
