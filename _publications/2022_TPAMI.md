@@ -6,7 +6,7 @@ excerpt: '[<font color="SkyBlue"><i>arXiv preprint</i></font>](https://arxiv.org
 date: 2022-03-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: ''
-citation: 'Yuval Nirkin, Yosi Keller, Tal Hassner, <i>FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment.</i> IEEE Transactions on Pattern Analysis and Machine Intelligence. Accepted, March 2022'
+citation: 'Yuval Nirkin, Yosi Keller, Tal Hassner, <i>FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment.</i> IEEE Transactions on Pattern Analysis and Machine Intelligence. Accepted, March 2022.'
 ---
 
 <img src='../projects/FSGAN/fsgan_v2_teaser.jpeg'><br/>
