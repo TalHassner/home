@@ -1,5 +1,5 @@
 ---
-title: "DeepFake Detection Based on Discrepancies Between Faces and their Context"
+title: "FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment"
 collection: publications
 permalink: /publication/2022_TPAMI
 excerpt: '[<font color="SkyBlue"><i>arXiv preprint</i></font>](https://arxiv.org/abs/2202.12972)'
