@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data and Benchmarks"
+title: "Data and Benchmarks from My Projects"
 permalink: /benchmarks/
 author_profile: true
 ---
@@ -10,15 +10,19 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>IMGUR5K Handwriting Dataset</font>](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset)**<br/>
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>Data and models</font>](https://github.com/vishal3477/proactive_IMD)**<br/> used for the Proactive Image Manipulation Detection. For more information, [<font color="SkyBlue">please see our CVPR'22 paper</font>](https://arxiv.org/abs/2203.15880).
+
+
+* **[<font color='SkyBlue'>IMGUR5K Handwriting Dataset</font>](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset)**<br/>
 We provide a unique new data set for handwritten OCR and text image manipulation. Imgur5K offers around 135K annotated, handwritten English words from 5K images originally hosted publicly on Imgur.com. Please see [<font color="SkyBlue">our preprint</font>](https://arxiv.org/abs/2106.08385) for more information.
 
 
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>The TextOCR data set</font>](https://textvqa.org/textocr)**<br/>
-We offer ~1M high quality word annotations on TextVQA images allowing application of end-to-end reasoning on downstream tasks such as visual question answering or image captioning. Please see [<font color="SkyBlue">our CVPR'21 preprint</font>](https://arxiv.org/abs/2105.05486) for more information.
+* **[<font color='SkyBlue'>The TextOCR data set</font>](https://textvqa.org/textocr)**<br/>
+We offer ~ 1M high quality word annotations on TextVQA images allowing application of end-to-end reasoning on downstream tasks such as visual question answering or image captioning. Please see [<font color="SkyBlue">our CVPR'21 preprint</font>](https://arxiv.org/abs/2105.05486) for more information.
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color='SkyBlue'>6DoF Pose annotations for our img2pose project</font>](https://github.com/vitoralbiero/img2pose)**<br/>
+
+* **[<font color='SkyBlue'>6DoF Pose annotations for our img2pose project</font>](https://github.com/vitoralbiero/img2pose)**<br/>
 We provide 6DoF face pose annotations for faces in the WIDER FACE data set. These were used for training and evaluating our img2pose: direct 6DoF pose estimation without face detection or landmark localization. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.07791).
 
 * **[<font color='SkyBlue'>SKU-110K data set and benchmark</font>](https://github.com/eg4000/SKU110K_CVPR19)**<br/>
