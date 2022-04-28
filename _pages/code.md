@@ -10,16 +10,25 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Multiplexer: end-to-end, multilingual OCR</font>](https://github.com/facebookresearch/MultiplexedOCR)**<br/>
-Multilingual OCR pipeline, including detection, segmentation, language identification, and character recognition. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2103.15992).
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</font>](https://github.com/vishal3477/Reverse_Engineering_GMs)**<br/> Estimating the hyperparameters of a generative model from a photo it generated. Official Pytorch implementation, data, and models used in our experiments. [<font color="SkyBlue">For more details, see </font>](https://arxiv.org/abs/2106.07873).
 
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">HyperSeg - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/hyperseg)**<br/>
-Code for our state-of-the-art, real-time, semantic segmentation method which uses a novel hyper-network approach. For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.11582).
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Proactive Image Manipulation Detection</font>](https://github.com/vishal3477/proactive_IMD)**<br/> Protect your media from manipulations. Official Pytorch implementation and data release. [<font color="SkyBlue">please see our CVPR'22 paper </font>](https://arxiv.org/abs/2203.15880).
 
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">img2pose implementation and data</font>](https://github.com/vitoralbiero/img2pose)**<br/>
-State of the art, real-time face detection and 3D alignment by direct 6DoF face pose estimation. No more face detection or facial landmark localization models! For more information [<font color="SkyBlue">please see our CVPR'21 paper</font>](https://arxiv.org/abs/2012.07791). We provide code, models, sample notebooks, pose annotations, and benchmark evaluation scripts.
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Out-of-Distribution (OOD) Detection</font>](https://github.com/kobybibas/pnml_ood_detection)**<br/> Single layer network add-on which adds OOD detection capabilities [<font color="SkyBlue">please see our NuriPS'21 paper </font>](https://arxiv.org/abs/2110.09246).
+
+
+* **[<font color="SkyBlue">Multiplexer: end-to-end, multilingual OCR</font>](https://github.com/facebookresearch/MultiplexedOCR)**<br/>
+Multilingual OCR pipeline, including detection, segmentation, language identification, and character recognition. For more information [<font color="SkyBlue">please see our CVPR'21 paper </font>](https://arxiv.org/abs/2103.15992).
+
+
+* **[<font color="SkyBlue">HyperSeg - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/hyperseg)**<br/>
+Code for our state-of-the-art, real-time, semantic segmentation method which uses a novel hyper-network approach. For more information [<font color="SkyBlue">please see our CVPR'21 paper </font>](https://arxiv.org/abs/2012.11582).
+
+
+* **[<font color="SkyBlue">img2pose implementation and data</font>](https://github.com/vitoralbiero/img2pose)**<br/>
+State of the art, real-time face detection and 3D alignment by direct 6DoF face pose estimation. No more face detection or facial landmark localization models! For more information [<font color="SkyBlue">please see our CVPR'21 paper </font>](https://arxiv.org/abs/2012.07791). We provide code, models, sample notebooks, pose annotations, and benchmark evaluation scripts.
 
 
 * **[<font color="SkyBlue">FSGAN - Official PyTorch Implementation</font>](https://github.com/YuvalNirkin/fsgan)**<br/>
