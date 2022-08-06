@@ -19,6 +19,12 @@ I am currently an Associate editor for IEEE [Transactions on Pattern Analysis an
 Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
+
+- 24-Oct-2022: **Invited Speaker** at the [TiE: Workshop on Text in Everything](https://sites.google.com/view/tie-eccv2022) at ECCV'22, Tel-Aviv, Israel, 2022.
+
+
+- 7-June-2022: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/) (AAAI), Washington DC, USA, 2023.
+
 - 28-October-2021: **Program Co-Chair** for the [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/), Tel-Aviv, Israel, 2022 (changed from co-Tutorial Chair)
 
 
