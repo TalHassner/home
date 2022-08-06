@@ -6,7 +6,7 @@ GEM
       json (>= 2.3.0)
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
+      tzinfo (~> 1.2.10)
     addressable (>= 2.8)
     coffee-script (2.4.1)
       coffee-script-source
