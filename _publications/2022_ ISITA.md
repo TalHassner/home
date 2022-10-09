@@ -1,7 +1,7 @@
 ---
 title: "Generalization Bounds for Deep Transfer Learning Using Majority Predictor Accuracy"
 collection: publications
-permalink: /publication/2022_ ISITA
+permalink: /publication/2022_ISITA
 excerpt: '[<font color="SkyBlue"><i>arXiv preprint</i></font>](https://arxiv.org/abs/2209.05709)'
 date: 2022-10-17
 venue: 'International Symposium on Information Theory and Its Applications (ISITA), Tsukuba, Japan'
