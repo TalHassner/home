@@ -1,4 +1,4 @@
-@inproceedings{asnani2022proactive
+@inproceedings{asnani2022proactive,
       title={Proactive Image Manipulation Detection}, 
       author={Asnani, Vishal and Yin, Xi and Hassner, Tal and Liu, Sijia and Liu, Xiaoming},
       booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
