@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## Books
+* Shai Avidan, Gabriel Brostow, Moustapha Cissé, Giovanni Maria Farinella, and Tal Hassner (Eds.), <i>Computer Vision – ECCV 2022</i>, Lecture Notes in Computer Science (LNCS, volume 13664), Springer Nature, 2022. ISBN: 978-3-031-19771-0 ([<font color="SkyBlue">Book at SpringerLink</font>](https://link.springer.com/book/10.1007/978-3-031-19772-7))
+
 * Tal Hassner and Ce Liu (Eds.), <i>Dense Image Correspondences for Computer Vision</i>, Springer International Publishing, 2016 ([<font color="SkyBlue">Book at Springer</font>](http://www.springer.com/us/book/9783319230474))
 
 ## Publications in Journals, Conferences and Workshops
