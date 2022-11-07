@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tal Hassner"
 title_separator          : "-"
 name                     : &name "Tal Hassner"
-description              : &description "Tal Hassner at the Open University of Israel"
+description              : &description "Tal Hassner"
 url                      : https://talhassner.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://talhassner.github.io/home"
@@ -46,6 +46,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  future                 : true
 
 # SEO Related
 google_site_verification :
