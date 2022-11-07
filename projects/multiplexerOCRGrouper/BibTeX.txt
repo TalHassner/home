@@ -3,5 +3,5 @@
   author={Jing Huang and Kevin J Liang and Rama Kovvuri and Tal Hassner},
   booktitle={European Conference on Computer Vision Workshops (ECCVw)},
   year={2022},
-  url={https://talhassner.github.io/home/publication/2022_ECCVw},
+  url={https://talhassner.github.io/home/publication/2022_ECCVw}
 }
