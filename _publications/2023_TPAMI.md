@@ -27,13 +27,16 @@ We present a novel approach for disentangling the content of a text image from a
 [Meta AI research blog post](https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/) 
 
 
-[![IMAGE ALT TEXT](https://en.wikipedia.org/wiki/Engadget#/media/File:Engadget-logo.svg)](https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html "engadget")
+### Public media coverage:
+[![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/6/69/Gizmodo_Media_Group_Logo.png)](https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327 "Gizmodo")
 
+[![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Engadget-logo.svg/640px-Engadget-logo.svg.png)](https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html "Engadget")
+
+
+### Videos:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/hhAri5fl-XI/0.jpg)](http://www.youtube.com/watch?v=hhAri5fl-XI "What's AI by Louis Bouchard")
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OC0oe1EzQxo/0.jpg)](http://www.youtube.com/watch?v=OC0oe1EzQxo "Aleksa Gordić - The AI Epiphany - Paper Explained")
-
-
 
 
 
