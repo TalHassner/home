@@ -28,9 +28,14 @@ We present a novel approach for disentangling the content of a text image from a
 
 
 ### Public media coverage:
-[![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/6/69/Gizmodo_Media_Group_Logo.png)](https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327 "Gizmodo")
+<!-- [![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/6/69/Gizmodo_Media_Group_Logo.png)](https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327 "Gizmodo") -->
 
-[![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Engadget-logo.svg/640px-Engadget-logo.svg.png)](https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html "Engadget")
+<!-- [![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Engadget-logo.svg/640px-Engadget-logo.svg.png)](https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html "Engadget") -->
+ 
+
+<a href="https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Gizmodo_Media_Group_Logo.png" height=150px></a>
+
+<a href="https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Engadget-logo.svg/640px-Engadget-logo.svg.png" height=150px>
 
 
 ### Videos:
