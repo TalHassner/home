@@ -10,7 +10,7 @@ citation: 'Praveen Krishnan, Rama Kovvuri, Guan Pang, Boris Vassilev, Tal Hassne
 ---
 
 <img src='../projects/TextStyleBrush/teaser.png'><br/>
-<b>Text generation/editing using TextStyleBrush.</b>b> (Top) Detected words highlighted in blue boxes edited by changing their content and shown in the target image. (Bottom) Given the source handwritten word image (left), we generate a target sentence image mimicking the same handwritten style (right).
+<b>Text generation/editing using TextStyleBrush.</b> (Top) Detected words highlighted in blue boxes edited by changing their content and shown in the target image. (Bottom) Given the source handwritten word image (left), we generate a target sentence image mimicking the same handwritten style (right).
 
 
 ### Abstract
@@ -20,13 +20,20 @@ We present a novel approach for disentangling the content of a text image from a
 
 
 
-[IEEE](https://www.computer.org/csdl/journal/tp/5555/01/10027471/1Kl01UZBtQc)
+[Paper from IEEE](https://www.computer.org/csdl/journal/tp/5555/01/10027471/1Kl01UZBtQc)
 
 [arXiv preprint](https://arxiv.org/abs/2106.08385)
 
-[Meta AI research blog post](https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/), with lots of examples! 
+[Meta AI research blog post](https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word/) 
+
+
+[![IMAGE ALT TEXT](https://en.wikipedia.org/wiki/Engadget#/media/File:Engadget-logo.svg)](https://www.engadget.com/facebook-ai-copies-photo-text-style-152032158.html "engadget")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/hhAri5fl-XI/0.jpg)](http://www.youtube.com/watch?v=hhAri5fl-XI "What's AI by Louis Bouchard")
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OC0oe1EzQxo/0.jpg)](http://www.youtube.com/watch?v=OC0oe1EzQxo "Aleksa Gordić - The AI Epiphany - Paper Explained")
+
+
 
 
 
