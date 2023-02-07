@@ -53,7 +53,7 @@ We present a novel approach for disentangling the content of a text image from a
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   title={{TextStyleBrush}: Transfer of Text Aesthetics from a Single Example},
   year={2023},
-  URL = {\url{https://talhassner.github.io/home/publication/2023_TPAMI}}
+  URL = {\url{https://talhassner.github.io/home/publication/2023_TPAMI}},
   note = {Accepted}
 }
 {% endraw %}
