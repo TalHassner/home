@@ -2,13 +2,15 @@
 title: "Task Grouping for Multilingual Text Recognition"
 collection: publications
 permalink: /publication/2022_ECCVw
-excerpt: '[<font color="SkyBlue"><i>Download paper</i></font>](https://arxiv.org/pdf/2210.07423.pdf)'
+excerpt: '**Best Paper Award at the Text In Everything (TIE) workshop, ECCV 2022** <br/><br/>[<font color="SkyBlue"><i>Download paper</i></font>](https://arxiv.org/pdf/2210.07423.pdf)'
 date: 2022-10-23
 venue: 'European Conference on Computer Vision Workshops (ECCVw), Tel-Aviv, Israel'
 paperurl: ''
 citation: 'Jing Huang, Kevin J Liang, Rama Kovvuri, Tal Hassner. <i>Task Grouping for Multilingual Text Recognition.</i> European Conference on Computer Vision Workshops (ECCVw), Tel-Aviv, Israel, 2022'
 ---
 
+**Best Paper Award at the <a href="https://sites.google.com/view/tie-eccv2022/home?pli=1">Text In Everything (TIE) workshop</a>, at ECCV 2022**
+<br/><br/>
 <img src='../projects/multiplexerOCRGrouper/teaser.png'><br/>
 <b>Our proposed task grouping framework.</b> Here we show a batch of 4 inputs potentially belonging to 3 tasks, with 2 recognition heads. See Sec. 3 in the paper for more details.
 
