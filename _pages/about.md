@@ -16,14 +16,18 @@ My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>.
 
 I am currently an Associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also an Associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
-Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
+General co-Chair for the [CVF/IEEE Winter Conf. on Applications of Computer Vision](https://wacv2024.thecvf.com/) (WACV), Waikoloa Village, Hawaii, USA, 2024, Program co-Chair for the [European Conference on Computer Vision](https://eccv2022.ecva.net/) (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
+
+- 8-May-2023: **General co-chair** for the [CVF/IEEE Winter Conf. on Applications of Computer Vision](https://wacv2024.thecvf.com/) (WACV'24), Waikoloa Village, Hawaii, USA, 2024.
+
 
 - 24-Oct-2022: **Invited Speaker** at the [TiE: Workshop on Text in Everything](https://sites.google.com/view/tie-eccv2022) at ECCV'22, Tel-Aviv, Israel, 2022.
 
 
 - 7-June-2022: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-23/) (AAAI), Washington DC, USA, 2023.
+
 
 - 28-October-2021: **Program Co-Chair** for the [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/), Tel-Aviv, Israel, 2022 (changed from co-Tutorial Chair)
 
@@ -36,7 +40,9 @@ Program co-Chair for the European Conference on Computer Vision (ECCV), Tel-Aviv
 
 - 26-August-2021: **Keynote talk** at the [VinAI: AI Day 2021](https://www.vinai.io/aiday2021/). See talk video in [media page](https://talhassner.github.io/home/media/)
 
+
 - 21-July-2021: **Area chair (Senior Meta Reviewer)** for the [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-22/) (AAAI), Vancouver, BC, Canada, 2022.
+
 
 - 28-April-2021: **Area chair** for the [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr2022.thecvf.com/) (CVPR), New Orleans, Louisiana, USA, 2022.
 
