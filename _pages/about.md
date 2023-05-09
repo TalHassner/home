@@ -23,6 +23,9 @@ General co-Chair for the [CVF/IEEE Winter Conf. on Applications of Computer Visi
 - 8-May-2023: **General co-chair** for the [CVF/IEEE Winter Conf. on Applications of Computer Vision](https://wacv2024.thecvf.com/) (WACV'24), Waikoloa Village, Hawaii, USA, 2024.
 
 
+- 7-Feb-2023: **Invited Speaker** at the [ELLIS Summer School on Large-Scale AI for Research and Industry](https://www.ellis.unimore.it/summer-school/), Modena, Italy, Sept. 2022
+
+
 - 24-Oct-2022: **Invited Speaker** at the [TiE: Workshop on Text in Everything](https://sites.google.com/view/tie-eccv2022) at ECCV'22, Tel-Aviv, Israel, 2022.
 
 
