@@ -10,14 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">A collection of 100, trained Genenerative models</font>](https://github.com/vishal3477/Reverse_Engineering_GMs)**<br/> used in the project [<font color="SkyBlue">Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</font>](https://arxiv.org/abs/2106.07873).
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">A collection of 100, trained Genenerative models</font>](https://github.com/vishal3477/Reverse_Engineering_GMs)**<br/> used in the project [<font color="SkyBlue">Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</font>](https://talhassner.github.io/home/publication/2023_TPAMI_2).
 
 
-* <img src='../images/New - Icon.jpg' width='50'> Proactive Image Manipulation Detection **[<font color='SkyBlue'>Data and models</font>](https://github.com/vishal3477/proactive_IMD)**<br/>. For more information, [<font color="SkyBlue">please see our CVPR'22 paper</font>](https://arxiv.org/abs/2203.15880).
+* <img src='../images/New - Icon.jpg' width='50'> Proactive Image Manipulation Detection **[<font color='SkyBlue'>Data and models</font>](https://github.com/vishal3477/proactive_IMD)**<br/>. For more information, [<font color="SkyBlue">please see our CVPR'22 paper</font>](https://talhassner.github.io/home/publication/2022_CVPR_1).
 
 
 * **[<font color='SkyBlue'>IMGUR5K Handwriting Dataset</font>](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset)**<br/>
-We provide a unique new data set for handwritten OCR and text image manipulation. Imgur5K offers around 135K annotated, handwritten English words from 5K images originally hosted publicly on Imgur.com. Please see [<font color="SkyBlue">our preprint</font>](https://arxiv.org/abs/2106.08385) for more information.
+We provide a unique new data set for handwritten OCR and text image manipulation. Imgur5K offers around 135K annotated, handwritten English words from 5K images originally hosted publicly on Imgur.com. Please see [<font color="SkyBlue">our TPAMI'23 paper</font>](https://talhassner.github.io/home/publication/2023_TPAMI) for more information.
 
 
 

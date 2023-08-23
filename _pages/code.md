@@ -10,10 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</font>](https://github.com/vishal3477/Reverse_Engineering_GMs)**<br/> Estimating the hyperparameters of a generative model from a photo it generated. Official Pytorch implementation, data, and models used in our experiments. For more details, [<font color="SkyBlue">see the paper</font>](https://arxiv.org/abs/2106.07873).
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</font>](https://github.com/vishal3477/Reverse_Engineering_GMs)**<br/> Estimating the hyperparameters of a generative model from a photo it generated. Official Pytorch implementation, data, and models used in our experiments. For more details, [<font color="SkyBlue">see project page</font>](https://talhassner.github.io/home/publication/2023_TPAMI_2).
 
 
-* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Proactive Image Manipulation Detection</font>](https://github.com/vishal3477/proactive_IMD)**<br/> Protect your media from manipulations. Official Pytorch implementation and data release. For more information, [<font color="SkyBlue">please see our CVPR'22 paper</font>](https://arxiv.org/abs/2203.15880).
+* <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Proactive Image Manipulation Detection</font>](https://github.com/vishal3477/proactive_IMD)**<br/> Protect your media from manipulations. Official Pytorch implementation and data release. For more information, [<font color="SkyBlue">please see our CVPR'22 paper</font>](https://talhassner.github.io/home/publication/2022_CVPR_1).
 
 
 * <img src='../images/New - Icon.jpg' width='50'> **[<font color="SkyBlue">Out-of-Distribution (OOD) Detection</font>](https://github.com/kobybibas/pnml_ood_detection)**<br/> Single layer network add-on which adds OOD detection capabilities. For more information, [<font color="SkyBlue">please see our NuriPS'21 paper</font>](https://arxiv.org/abs/2110.09246).
