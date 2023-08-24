@@ -20,6 +20,8 @@ General co-Chair for the [CVF/IEEE Winter Conf. on Applications of Computer Visi
 
 ### Events and News
 
+- 2-Oct-2023: **Invited Speaker** at the [Workshop and Challenge on DeepFake Analysis and Detection (DFAD2023)](https://ailb-web.ing.unimore.it/dfad2023/) at ICCV'23, Paris, France, 2023.
+
 
 - 8-May-2023: **General co-chair** for the [CVF/IEEE Winter Conf. on Applications of Computer Vision](https://wacv2024.thecvf.com/) (WACV'24), Waikoloa Village, Hawaii, USA, 2024.
 
