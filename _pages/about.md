@@ -20,6 +20,10 @@ General co-Chair for the [CVF/IEEE Winter Conf. on Applications of Computer Visi
 
 ### Events and News
 
+- 12-Apr-2024: **Co-organizer** at the [Unlearning and Model Editing (U&ME'24)](https://sites.google.com/view/u-and-me-workshop/) at ECCV'24, Milano, Italy, Oct 2024.
+
+- 1-Jan-2024: **Co-organizer** at the [2nd Workshop and Challenge on DeepFake Analysis and Detection (DFDA2024)](https://www.dfad.unimore.it/) at CVPR'24, Seattle WA, USA, June 2024.
+
 - 2-Oct-2023: **Invited Speaker** at the [Workshop and Challenge on DeepFake Analysis and Detection (DFAD2023)](https://ailb-web.ing.unimore.it/dfad2023/) at ICCV'23, Paris, France, 2023.
 
 
