@@ -1,0 +1,7 @@
+@inproceedings{tran2019transferability,
+  title={Transferability and Hardness of Supervised Classification Tasks},
+  author={Tran, Anh T and Nguyen, Cuong V and Hassner, Tal},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1395--1405},
+  year={2019}
+}

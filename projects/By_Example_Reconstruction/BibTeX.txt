@@ -1,0 +1,11 @@
+@inproceedings{hassnerbasri:BPCVPR06,
+ author    = {T.Hassner and R. Basri},
+ title     = {Example Based 3D Reconstruction from Single 2D Images},
+ booktitle = {Beyond Patches Workshop at IEEE Conference on Computer Vision and Pattern Recognition},
+ pages     = {15},
+ month  =  {June},
+ year = {2006},
+ isbn = {0-7695-2646-2},
+ publisher = {IEEE Computer Society},
+ URL = {http://osnathassner.github.io/talhassner/projects/By_Example_Reconstruction/}
+}

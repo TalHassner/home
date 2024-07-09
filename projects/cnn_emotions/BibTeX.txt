@@ -1,0 +1,7 @@
+@inproceedings{LH:ICMI15:age,
+ author    = {Gil Levi and Tal Hassner},
+ title     = {Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns},
+ booktitle = {Proc. ACM International Conference on Multimodal Interaction (ICMI)},
+ month	=  {November},
+ year 	= {2015},
+ URL 	= {\url{https://osnathassner.github.io/talhassner/projects/cnn_emotions/project.html}}

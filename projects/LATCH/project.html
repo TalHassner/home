@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>The Learned Arrangements of Three Patch Codes (LATCH) project</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="LATCH: Learned Arrangements of Three Patch Codes" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style49
+        {
+            text-align: center;
+        }
+        .style23
+        {
+            text-align: justify;
+        }
+        .style52
+        {
+            direction: ltr;
+        }
+        .style53
+        {
+            color: #CC9900;
+        }
+        .style54
+        {
+            color: #009933;
+        }
+        </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h2 style="text-align: center; font-weight: normal;">
+                        <strong>The Learned Arrangements of <br>
+                        Three Patch Codes (LATCH) project</strong></h2>
+                    <br>
+                    <img alt="Visualization of the LATCH descriptor" longdesc="Visualization of the LATCH descriptor" src="./teaser_a.png"><br>
+                    <center>
+                        <blockquote style="text-align: justify; width: 721px;">
+                            <strong>Figure 1.</strong> <strong>Visualization of the LATCH descriptor</strong>.
+                            Given an image patch centered around a keypoint, LATCH compares the intensity of
+                            three pixel patches in order to produce a single bit in the final binary string
+                            representing the patch. Example triplets are drawn over the patch in green and blue.</blockquote>
+                    </center>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;" class="style52">
+                        <br>
+                        <h3>What is LATCH?</h3>
+                        LATCH is a fast and compact binary descriptor 
+                        used to represent local image regions. LATCH was shown to obtain better 
+                        performance on standard benchmarks than other pure binary descriptors, sometimes matching the accuracy of far larger floating point representations 
+                        such as SIFT. Its extraction time is only slightly longer than other binary descriptors and far faster than 
+                        floating point representations. 
+                            See the LATCH paper below for further details.<br>
+                            <br>
+                            LATCH is 
+                            now part of the OpenCV <a href="https://github.com/Itseez/opencv_contrib/tree/master/modules/xfeatures2d">xfeatures2d</a> library, since version 3.0. 
+                            <br>
+                            <br>
+                            LATCH won the CVPR 2015,
+                            <a href="http://code.opencv.org/projects/opencv/wiki/VisionChallenge">OpenCV State of the Art Vision Challenge</a>, in the Image Registration category.
+                            <br>
+                            <br>
+                            A video of the talk given by <a href="https://gilscvblog.wordpress.com/">Gil</a> at WACV'16, describing LATCH:<br><br>
+                            <center>
+                            <iframe width="560" height="315" src="./fvyd9aUJO9g.html" frameborder="0" allowfullscreen=""></iframe>
+                            </center>
+                        <br>
+                        <h3>What is CLATCH?</h3> 
+                        Pronounced <em>clutch</em>, it is a CUDA port of the LATCH descriptor to the GPU. It is an ongoing project maintained by <a href="mailto:csparker.work@gmail.com">Christopher Parker</a>, Matthew Daiter and Kareem Omar. CLATCH 
+                            is an extremely fast local descriptor. In fact, to our knowledge, <em>it is 
+                            presently the fastest available local binary descriptor</em>. See the CLATCH paper for 
+                            runtime comparisons.<br>
+                        <h3>What are LATCH/CLATCH used for?</h3> They can be used as alternatives to 
+                            other local image descriptors, such as SIFT, SURF and ORB. In particular, CLATCH was <a href="https://github.com/mdaiter/openMVG">integrated into the OpenMVG</a> Structure from Motion (SfM) library and used to 
+                        produce extremely fast, detailed 3D reconstructions from high resolution photos.
+                        <br>
+                        <h3>Relevant references:</h3>
+                        <ul>
+                        <li>Christopher Parker, Matthew Daiter, Kareem Omar, Gil Levi and Tal  Hassner, <em>The CUDA LATCH Binary Descriptor: Because Sometimes Faster Means Better,</em> Workshop on Local Features: State of the art, open problems and performance evaluation, at the European Conference on Computer Vision (ECCV), Amsterdam, The Netherlands, Oct. 2016 (<a href="https://osnathassner.github.io/talhassner/files/CLATCH_ECCV2016.pdf">PDF</a>, 
+                            <a href="https://osnathassner.github.io/talhassner/projects/LATCH/BibTeXCLATCH.txt">BibTeX</a>)<br><br></li>
+                        <li>Gil Levi and Tal Hassner, <em>LATCH: Learned Arrangements of Three Patch Codes,</em> IEEE Winter Conference on Applications of Computer Vision (WACV), Lake Placid, NY, USA, March, 2016 (<a href="https://osnathassner.github.io/talhassner/files/LATCH.pdf">PDF</a>, <a href="https://osnathassner.github.io/talhassner/projects/LATCH/BibTeXLATCH.txt">BibTex</a>)</li>
+                        </ul>
+                        <h3>Code and resources</h3>
+                            <ul>
+                            <li><span class="style53">(CPU)</span> <strong>OpenCV LATCH:</strong> The original <a href="https://github.com/Itseez/opencv_contrib/blob/master/modules/xfeatures2d/src/latch.cpp">LATCH OpenCV implementation</a>. 
+                                It is part of the
+                                <a href="https://github.com/Itseez/opencv_contrib/tree/master/modules/xfeatures2d">xfeatures2d</a> library. The full, merged pull request is <a href="https://github.com/Itseez/opencv_contrib/pull/231">also available</a>. Example usage of this version is available in 
+                                <a href="https://github.com/Itseez/opencv/blob/master/samples/cpp/tutorial_code/xfeatures2D/LATCH_match.cpp">LATCH_match.cpp.</a><br><br></li>
+                            <li><span class="style53">(CPU)</span> <strong>LATCH:</strong> A new more <a href="https://github.com/komrad36/LATCH">efficient reimplementation of LATCH</a>. Our tests show it to run ~29 times faster than the original OpenCV implementation.<br><br></li>
+                            <li><span class="style53">(CPU)</span> <strong>ULATCH:</strong> A <em>restricted</em>, <a href="https://github.com/komrad36/ULATCH">upright only version of LATCH</a>, (non rotationally invariant) descriptors. It is the fastest CPU implementation of LATCH making it well suited for feature tracking applications on the CPU. 
+                                <br><br></li>
+                            <li><span class="style54">(CUDA-GPU)</span> <strong>CLATCH:</strong> Code for <a href="https://github.com/komrad36/CLATCH">CLATCH</a>, the CUDA LATCH GPU port.<br><br></li>
+                            <li><span class="style54">(CUDA-GPU)</span> <strong>UCLATCH:</strong> A<em> restricted</em>, <a href="https://github.com/komrad36/UCLATCH">Upright CLATCH</a>, which reaches even faster speeds 
+                                than CLATCH on the GPU by restricting descriptors to upright only.<br><br></li>
+                            <li>A <a href="https://github.com/mdaiter/openMVG">branch of the OpenMVG</a>, Structure from Motion library, 
+                                which includes CLATCH to provide high speed 3D multi-view reconstructions. Also 
+                                new to this branch is a GPU based, brute force Hamming distance matcher for 
+                                binary descriptors. </li>
+                            </ul>
+                            If you find any of these 
+                            resources useful, please be sure to cite the relevant papers above.
+                            <h3>The people involved in this project</h3>
+                            In alphabetical order:<ul>
+                            <li>Matthew Daiter</li>
+                            <li><a href="https://osnathassner.github.io/talhassner/">Tal Hassner</a></li>
+                            <li><a href="https://gilscvblog.com/">Gil Levi</a></li>
+                            <li>Kareem Omar</li>
+                            <li><a href="mailto:csparker.work@gmail.com">Christopher Parker</a></li>
+                            </ul>
+                            <hr style="width: 45%; height: 1px;">
+                            <br>
+                            LATCH Copyright 2015, Gil Levi and Tal Hassner<br>
+                            <br>
+                            CLATCH copyright 2016, Christopher Parker, Matthew Daiter, Kareem Omar, Gil Levi and Tal  Hassner
+                            <br>
+                            <br>
+                            The SOFTWARE provided in this page is provided "as is", without any guarantee made
+                            as to its suitability or fitness for any particular use. It may contain bugs, so
+                            use of this tool is at your own risk. We take no responsibility for any damage of
+                            any sort that may unintentionally be caused through its use.
+                            <br>
+                            <br>
+                            <hr style="width: 90%; height: 2px;">
+                            <p class="style49">
+                                Last update 
+                                14th of Sept, 2016</p>
+                            <p>
+                                &nbsp;</p>
+                </div></blockquote></td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>

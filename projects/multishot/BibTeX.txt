@@ -1,0 +1,8 @@
+@inproceedings{WHT:BMVC09:MOS,
+ author    = {Y.~Taigman and L.~Wolf and T.~Hassner},
+ title     = {Multiple One-Shots for Utilizing Class Label Information},
+ booktitle = {The British Machine Vision Conference (BMVC)},
+ month	=  {Sept.},
+ year 	= {2009},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/multishot}
+}

@@ -1,0 +1,8 @@
+@inproceedings{Hassner:ICCV13:ViewFace3D,
+ author    = {Tal Hassner},
+ title     = {Viewing Real-World Faces in {3D}},
+ booktitle = {International Conference on Computer Vision (ICCV)},
+ month	=  {Dec.},
+ year 	= {2013},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/ViewFaces3D}
+}

@@ -1,0 +1,10 @@
+@article{KGHW:TPAMI:ASLAN
+  author    = {O.~Kliper-Gross and T.~Hassner and L.~Wolf},
+  title     = {The Action Similarity Labeling Challenge},
+  journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence {TPAMI}},
+  volume    = {34},
+  number    = {3},
+  pages     = {615--621},
+  year      = {2012}
+  URL 	    = {https://www.openu.ac.il/home/hassner/data/ASLAN}
+}

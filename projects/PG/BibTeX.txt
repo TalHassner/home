@@ -1,0 +1,11 @@
+@inproceedings{sofer2013interactive,
+  title={Interactive Learning for Point-Cloud Motion Segmentation},
+  author={Sofer, Yerry and Hassner, Tal and Sharf, Andrei},
+  booktitle={Computer Graphics Forum},
+  volume={32},
+  number={7},
+  pages={51--60},
+  year={2013},
+  organization={Wiley Online Library} 
+  URL = {https://osnathassner.github.io/talhassner/projects/PG13}
+}

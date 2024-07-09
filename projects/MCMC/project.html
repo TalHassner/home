@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+  
+  <meta name="ProgId" content="Word.Document">
+  <meta name="Generator" content="Microsoft Word 9">
+  <meta name="Originator" content="Microsoft Word 9">
+  <link rel="File-List" href="http://osnathassner.github.io/talhassner/projects/MCMC/filelist.xml">
+  <link rel="Edit-Time-Data" href="http:/osnathassner.github.io/talhassner/projects/MCMC/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+  <title>Minimal-Cut Model Composition</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Tal Hassner</o:Author>
+  <o:LastAuthor>hassner</o:LastAuthor>
+  <o:Revision>82</o:Revision>
+  <o:TotalTime>176</o:TotalTime>
+  <o:Created>2002-04-02T11:06:00Z</o:Created>
+  <o:LastSaved>2002-07-08T17:17:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>384</o:Words>
+  <o:Characters>2190</o:Characters>
+  <o:Company>Weizmann Institute of Science</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2689</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml>
+  <style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0pt;
+	margin-bottom:.0001pt;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	direction:rtl;
+	unicode-bidi:embed;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-update:auto;
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0pt;
+	margin-bottom:3.0pt;
+	margin-left:0pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;}
+h2
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0pt;
+	margin-bottom:3.0pt;
+	margin-left:0pt;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	direction:rtl;
+	unicode-bidi:embed;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0pt;
+	margin-bottom:3.0pt;
+	margin-left:0pt;
+	text-align:right;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	direction:rtl;
+	unicode-bidi:embed;
+	font-size:13.0pt;
+	font-family:Arial;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+address
+	{margin:0pt;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;
+	mso-gutter-direction:rtl;}
+div.Section1
+	{page:Section1;}
+--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1038">
+  <o:colormru v:ext="edit" colors="#ffc"/>
+  <o:colormenu v:ext="edit" fillcolor="#ffc"/>
+ </o:shapedefaults></xml><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+  <title>Minimal-Cut Model Composition</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204); background-image: url(image001.jpg);" alink="#000099" lang="EN-US" link="blue" vlink="purple">
+<div class="Section1">
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<h1 style="text-align: center;">Minimal-Cut Model Composition<span style="font-weight: normal;"><o:p></o:p></span></h1>
+<h2 style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center"><a href="http://osnathassner.github.io/talhassner/">T.Hassner</a>,
+<a href="http://www.vision.caltech.edu/lihi/">L.Zelnik-Manor</a>, <a href="http://www.technion.ac.il/~gleifman/">G.Leifman</a>, and <a href="http://www.wisdom.weizmann.ac.il/~ronen">R.Basri</a></h2>
+<div style="text-align: center;">
+<h2><a href="http://www.shapemodeling.org/">SMI'05</a></h2>
+<p style="font-weight: bold;"><big><big style="color: rgb(255, 0, 0);">Best
+Student Paper Award</big></big></p>
+</div>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+<h1 style="text-align: center;">Abstract</h1>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;">Constructing new, complex models is often
+done by re-using parts of existing models, typically by applying a
+sequence of segmentation, alignment and&nbsp;&nbsp; composition
+operations. Segmentation, either manual or automatic, is rarely
+adequate for this task, since it is applied to each model
+independently, leaving it to the user to trim the models and determine
+where to connect them. In this paper we propose a new composition tool.
+Our tool obtains as input two models, aligned either manually or
+automatically, and a small set of
+constraints indicating which portions of the two models should be
+preserved in the final output. It then automatically negotiates the
+best location to connect the models, trimming and stitching them as
+required to produce a seamless result. We offer a method based on the
+graph theoretic minimal cut as a means of implementing this new tool.
+We describe a system intended for both expert and novice users,
+allowing easy and flexible control over the composition result. In
+addition, we show our
+method to be well suited for a variety of model processing applications
+such as model&nbsp; repair, hole filling, and piecewise rigid
+deformations. <br>
+<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;">Full paper :&nbsp;<a href="osnathassner.github.io/talhassner/projects/MCMC/SMI05_MinCutModelComposition.pdf">SMI05_MinCutModelComposition.pdf</a>
+(2,503kb). </span><span style="font-size: 14pt;"><a href="http://osnathassner.github.io/talhassner/projects/MCMC/BibTeX.txt">BibTeX</a>.</span></p>
+<p class="MsoNormal" style="margin-left: 36pt; text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-size: 14pt;"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;">
+</p>
+<div class="MsoNormal" style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center">
+<hr align="center" size="2" width="82%"></div>
+<h1 style="text-align: center;">Some Results</h1>
+<div style="text-align: center;">More results can be found in the paper.<br>
+</div>
+<br>
+<h2 style="text-align: center;">The Centaur</h2>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed; margin-left: 40px;"><o:p></o:p></p>
+<div style="text-align: center;"><span style=""><img alt="" src="./Session.jpg" style="width: 387px; height: 741px;"><br>
+<br>
+</span>
+<div style="text-align: left; margin-left: 80px;">
+<div style="text-align: center;"><big><span style=""><span style="font-weight: bold;">A typical composition session</span>. The </span><span style="">stages involved in creating the centaur model from those of a
+man </span><span style="">and horse. (I) Input. (II) Placement
+(semi-automatic, using our novel part-in-whole alignment method, or
+manual). </span><span style="">(III) Constraint selection (manual).
+(IV)&nbsp; transition volume </span><span style="">selection (manual
+or taking the bounding box of the union as a default selection). (V)
+The recovered <span style="font-style: italic;">transition
+</span></span><span style=""><span style="font-style: italic;">surface</span>
+(automatic). (VI) Clipped models (automatic). <br>
+<small><small>The man model, courtesy of <a href="http://www.cyberware.com/">Cyberware</a>
+and <a href="http://www.headus.com/au/">Headus</a>.</small></small></span></big><br>
+<big><span style=""></span></big></div>
+<big><span style=""><br>
+</span></big>
+<div style="text-align: center;"><big><span style=""><img alt="Centaur model" src="./centaur.jpg" style="width: 387px; height: 422px;"><br>
+<br>
+</span></big>
+<div style="text-align: left;">
+<div style="text-align: center;"><big>The final, stitched, centaur
+result.<br>
+<br>
+</big>
+<h2>Composing Heads</h2>
+<big><span style=""></span></big><img alt="Composing heads" src="./heads.jpg" style="width: 449px; height: 257px;"><br>
+<br>
+<big><span style="font-weight: bold;">Reversing constraints.</span>
+From left to right: The two busts; The models overlayed; First example,
+taking the blue face and red head; Second example, reversing
+constraints, now choosing the red face and blue head. In both, top is
+the cut result (clipped models) bottom is the final result.<br>
+</big><big><span style=""><small><small>Both bust models, courtesy of <a href="http://www.cyberware.com/">Cyberware</a><br>
+<big><big><big><br>
+</big></big></big></small></small></span></big>
+<h2><small><span style=""><small><small><big><big><big>Cerberus</big></big></big></small></small></span></small></h2>
+<h2><big><span style=""></span></big></h2>
+<big><span style=""><small><small><big><big><big><img alt="Cerberus" src="./Cerberus.jpg" style="width: 990px; height: 309px;"><br>
+<br>
+<small><span style="font-weight: bold;">Multi-step composition.</span>
+Cerberus, the mythical guardian of the gates of hell, is created here
+in four steps. The top row shows overlays of the models used to create
+the result in each step (shown in the bottom row). In step 1 we deform
+the dog's head, turning it to make room for the other heads. Additional
+heads were created by cloning and rotating
+the whole dog. In each step we constrained the new dog's head and the
+existing dog's torso and nose(s). The tail was added by composing the
+existing tail
+with a serpent model (in blue).<br>
+</small><br>
+</big></big></big></small></small></span></big>
+<h2><small><span style=""><small><small><big><big><big>Model Restoration<br>
+</big></big></big></small></small></span></small></h2>
+<img alt="Restoring the scars on the Igea artifact" src="./restore.jpg" style="width: 471px; height: 825px;"><br>
+<br style="font-weight: bold;">
+<big><span style="font-weight: bold;">Model restoration.</span> Fixing
+the scars and broken nose on the Igea artifact model, in three steps.
+(a) Input model and the user drawn boxes around the flaws. (b) Overlay
+of the input model and the aligned database bust model chosen to fix
+each flaw. (c) Clipped models. (d) Input (left) and result (right).<br>
+</big><big><span style=""><small><small>The Igea artifact&nbsp; model,
+courtesy of <a href="http://www.cyberware.com/">Cyberware</a>.</small></small></span></big><br>
+<br>
+<h2>Model Hole Filling</h2>
+<img alt="Model Hole Filling" src="./holefill.jpg" style="width: 445px; height: 449px;"><br>
+<br>
+<big><span style="font-weight: bold;">Hole filling. </span>Artificial
+holes opened in a bust model by removing both the nose and the top of
+the head. These were automatically repaired in two steps. In each row
+on the left is the input model&nbsp; (with the user drawn box around
+the hole) and on the right is the final result (the little lump on the
+man's head is <span style="font-style: italic;">not</span> an
+artifact. It is the tip of the cap worn by the scanned subjects in the
+database).<br>
+<small><small>Bust models used for model restoration and holefilling
+are free samples from the <a href="http://www.hec.afrl.af.mil/HECP/Card1b.shtml">CAESAR</a>
+database.</small></small><br>
+<br>
+</big>
+<h2>Chair</h2>
+<img alt="Composing a chair" src="./chair_process.jpg" style="width: 408px; height: 459px;"><br>
+<br style="font-weight: bold;">
+<big><span style="font-weight: bold;">Composing a chair.</span> From
+top to bottom, the three composition steps in creating a chair. On the
+left are the models overlayed; on the right are the composition
+results. Note that in each step, multiple models (e.g., the four legs,
+the six back rests) were treated as one model and composed in a single
+step with an additional model (e.g., the seat). </big><br>
+<br>
+<img alt="Final chair result" src="./chair_final.jpg" style="width: 350px; height: 471px;"><br>
+<br>
+<big style="font-weight: bold;">The final chair result.</big><br>
+<h2><big><span style=""></span></big></h2>
+</div>
+<big><span style=""></span></big></div>
+<big><span style=""></span></big></div>
+<span style=""></span></div>
+<div style="margin-left: 80px;"><span style=""></span><span style=""></span></div>
+</div>
+<p class="MsoNormal" style="direction: ltr; unicode-bidi: embed; text-align: left; margin-left: 80px;"><span style=""><o:p></o:p></span>
+</p>
+<div class="MsoNormal" style="direction: ltr; unicode-bidi: embed; text-align: center; margin-left: 80px;" align="center">
+<hr align="center" size="2" width="82%"></div>
+<span style="font-style: italic;"><br>
+</span>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><span style="font-style: italic;"></span><i><a href="http://www.weizmann.ac.il/"><span style="">To
+the Weizmann Institute of Science Home Page<br>
+</span></a></i><span style=""></span><span style=""><a href="http://www.wisdom.weizmann.ac.il/">Faculty
+of Mathematics and Computer
+Science<br>
+</a></span><a href="http://www.wisdom.weizmann.ac.il/mathusers/vision/">Computer
+Vision Group</a><br>
+</p>
+<address><span style="">
+<br>
+<o:p></o:p></span></address>
+<div class="MsoNormal" style="text-align: center; direction: ltr; unicode-bidi: embed;" align="center">
+<hr align="center" size="2" width="82%"></div>
+<p class="MsoNormal" style="text-align: left; direction: ltr; unicode-bidi: embed;"><o:p></o:p></p>
+Last update:<span style=""></span><span style="">&nbsp; </span>Dec.
+08,
+2005<br>
+For
+questions and remarks please contact:&nbsp; <a href="http://osnathassner.github.io/talhassner/">Tal Hassner</a>.<a href="mailto:talhassner@gmail.com"><br>
+</a>Confidential - Proprietary <span class="moz-txt-citetags"></span>Information.<br>
+<br>
+<br>
+<br>
+</div>
+<a href="http://t.extreme-dm.com/?login=hassner3" target="_top"><img src="./i.gif" name="EXim" alt="eXTReMe Tracker" border="0" height="38" width="41"></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script>
+<script type="text/javascript"><!--
+var EXlogin='hassner3' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script><img src="./project_files/s9.g" height="1" width="1">
+<noscript><img height="1" width="1" alt=""
+src="http://e0.extreme-dm.com/s9.g?login=hassner3&amp;j=n&amp;jv=n"/>
+</noscript>
+
+
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'GJELPBIJIKIHGHDHJEIFLNENBELFBJOANMIHMCKFLDDGFIIJPIFJJGINGPMCHJJAGMJBNCKDAAJAOMHCCBMAOJKMAAHNEFNELEGMHBFMGHCMPLOJGCAHHPPAFLDMEMEE',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1384992543aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body></html>

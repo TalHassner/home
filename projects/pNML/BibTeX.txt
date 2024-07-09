@@ -1,0 +1,7 @@
+@inproceedings{bibas2021single,
+    title={Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection},
+    author={Koby Bibas and Meir Feder and Tal Hassner},
+    booktitle={Conf. on Neural Information Processing Systems (NeurIPS)},
+    year={2021}
+    url={https://talhassner.github.io/home/publication/2021_NeurIPS},
+}

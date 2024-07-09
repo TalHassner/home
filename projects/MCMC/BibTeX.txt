@@ -1,0 +1,11 @@
+@inproceedings{MinimalCutModelComposition,
+ author    = {T.Hassner and L. Zelnik-Manor and G. Leifman and R. Basri},
+ title     = {Minimal-Cut Model Composition},
+ booktitle = {International Conference on Shape Modeling and Applications ({SMI}' 05)},
+ pages     = {72--81},
+ month  =  {June},
+ year = {2005},
+ isbn = {0-7695-2379-X},
+ publisher = {IEEE Computer Society},
+ URL = {https://osnathassner.github.io/talhassner/projects/MCMC}
+}

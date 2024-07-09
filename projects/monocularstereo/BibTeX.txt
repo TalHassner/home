@@ -1,0 +1,7 @@
+@InProceedings{GHA:2019:Learn,
+author = {Matan Goldman and Tal Hassner and Shai Avidan},
+title = {Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation},
+booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) workshops},
+month = {June},
+year = {2019}
+}

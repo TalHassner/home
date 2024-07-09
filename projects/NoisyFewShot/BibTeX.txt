@@ -1,0 +1,7 @@
+@inproceedings{liang2022few,
+      title={Few-shot Learning with Noisy Labels}, 
+      author={Liang, Kevin J and Rangrej, Samrudhdhi B and Petrovic, Vladan and Hassner, Tal},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2022}
+      
+}

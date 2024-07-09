@@ -1,0 +1,6 @@
+@inproceedings{Cuong2020Leep,
+  title={{LEEP}: A New Measure to Evaluate Transferability of Learned Representations},
+  author={Cuong V. Nguyen, Tal Hassner, Cedric Archambeau, Matthias Seeger},
+  booktitle={International Conference on Machine Learning},
+  year={2020}
+}

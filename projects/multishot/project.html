@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Multiple One-Shots for Utilizing Class Label Information</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="Multiple One-Shots for Utilizing Class Label Information" name="description">
+</head>
+<body style="background-color: rgb(0, 0, 0);">
+    <p>&nbsp;</p>
+    <div align="center">
+        <center>
+            <table id="AutoNumber2" style="border-collapse: collapse; background-color: rgb(238, 238, 238);
+                width: 899px; height: 899px;" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0">
+                <tbody>
+                    <tr>
+                        <td style="width: 100%;">
+                            <h1 style="text-align: center; font-weight: normal; font-family: helvetica,arial,sans-serif;">
+                                <br>
+                            </h1>
+                            <h1 style="text-align: center; font-weight: normal; font-family: helvetica,arial,sans-serif;">
+                                Multiple One-Shots for Utilizing Class Label<br>
+                                Information</h1>
+                            <p align="center">
+                                <font face="Verdana" size="2">Yaniv Taigman</font><font face="Verdana" size="2"><sup>1,3</sup></font><font face="Verdana" size="2"> &nbsp;&nbsp; <a href="http://www.cs.tau.ac.il/~wolf/">Lior
+                                        Wolf</a><sup>1</sup> &nbsp;&nbsp; <a href="../../">Tal
+                                            Hassner</a></font><small><sup><span style="font-family: Verdana;">2</span></sup></small><font face="Verdana" size="2"><sup></sup></font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">1. The School of Computer Science,
+                                    <br>
+                                    Tel-Aviv University, Israel</font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">2. Computer Science Division<br>
+                                    The Open University of Israel</font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">3. face.com,
+                                    <br>
+                                    Tel-Aviv, Israel</font></p>
+                            <blockquote>
+                                <div style="text-align: justify;">
+                                </div>
+                                <div style="text-align: justify;">
+                                    <big><font style="font-size: 9pt;" face="Verdana"><b>Abstract</b>:</font><b><font style="font-size: 9pt;" face="Verdana"> </font></b><font style="font-size: 9pt;" face="Verdana">The One-Shot Similarity measure has recently been introduced as a
+                                            means of boosting the performance of face recognition systems. Given two vectors,
+                                            their One-Shot Similarity score reflects the likelihood of each vector belonging
+                                            to the same class as the other vector and not in a class defined by a fixed set
+                                            of "negative" examples. An appealing aspect of this approach is that it does not
+                                            require class labeled training data. In this paper we explore how the One-Shot Similarity
+                                            may nevertheless benefit from the availability of such labels. We make the following
+                                            contributions: (a) we present a system utilizing subject and pose information to
+                                            improve facial image pair-matching performance using multiple One-Shot scores; (b)
+                                            we show how separating pose and identity may lead to better face recognition rates
+                                            in unconstrained, "wild" facial images; (c) we explore how far we can get using
+                                            a single descriptor with different similarity tests as opposed to the popular multiple
+                                            descriptor approaches; and (d) we demonstrate the benefit of learned metrics for
+                                            improved One-Shot performance. We test the performance of our system on the challenging
+                                            Labeled Faces in the Wild unrestricted benchmark and present results that exceed
+                                            by a large margin results reported on the restricted benchmark. </font></big>
+                                </div>
+                                <p>
+                                    <big><font style="font-size: 9pt;" face="Verdana"><b>Reference</b>:&nbsp; </font></big>
+                                    <small><font face="Tahoma">Yaniv Taigman, </font></small><small><font face="Tahoma">
+                                        Lior Wolf, and Tal Hassner, <span style="font-style: italic;">"Multiple One-Shots for
+                                            Utilizing Class Label Information</span>," <font face="Tahoma">The British Machine Vision
+                                                Conference (BMVC), Sept. 2009</font></font><font style="font-size: 9pt;" face="Verdana">.</font></small></p>
+                                <p style="font-family: Tahoma;">
+                                    <b><font style="font-size: 9pt;"><a href="./TWH_BMVC09_Multishot.pdf">Click here for the
+                                    </a><a href="./TWH_BMVC09_Multishot.pdf">PDF</a><br>
+                                    </font></b>
+                                </p>
+                                <p style="font-family: Tahoma;">
+                                    <a href="./BibTeX.txt"><b><font style="font-size: 9pt;">Click here for the BibTex</font></b></a></p>
+                                <p>
+                                    <b><font style="font-size: 9pt;"><big><a href="../lfwa/index.html">
+                                        Click here for our aligned version of the LFW image set</a> (</big></font></b><b><font style="font-size: 9pt;"><span style="color: red;">New!</span></font></b><b><font style="font-size: 9pt;"><big>)</big></font></b></p>
+                                <hr style="width: 100%; height: 2px;">
+                                <p>
+                                    <b><font style="font-size: 9pt;"><big>Related publications:</big></font></b></p>
+                                <p style="margin-left: 40px;">
+                                    <b><font style="font-size: 9pt;"><big><a href="../Ossk/project.html">
+                                        The One-Shot Similarity Kernal</a></big></font></b></p>
+                                <p style="margin-left: 40px;">
+                                    <b><font style="font-size: 9pt;"><big><a href="../Patchlbp/project.html">
+                                        Descriptor Based Methods in the Wild</a></big></font></b></p>
+                                <hr style="width: 100%; height: 2px;">
+                                <div style="text-align: center;">
+                                    <br>
+                                    <img style="border: 1px solid; width: 816px; height: 346px;" alt="Decoupling pose and identity" title="Decoupling pose and identity" src="./pose_vs_identity.jpg"><br>
+                                    <br>
+                                    <div style="text-align: justify;">
+                                        <span style="font-weight: bold;">Decoupling pose and identity with multiple One-Shot
+                                            Similarity (OSS) scores:</span> Each group contains two images and 10 sample
+                                        multiple&nbsp;OSS scores. Identity based multiple OSS scores are plotted with circle
+                                        markers and pose based are with squares. As can be seen the value of each type of
+                                        OSS score is a good indication of the type of similarity between the images of the
+                                        pair. (a) Same person, same pose. (b) Different persons and pose. (c) Same person,
+                                        different pose. (d) Different persons, same pose. (e) Same person and pose, however,
+                                        a mode of variability not modeled in the system is present.<br>
+                                    </div>
+                                    <br>
+                                    <br>
+                                    <img style="border: 1px solid; width: 480px; height: 360px;" alt="ROC" title="ROC" src="./lfw_roc_bmvc09_single_hy.png"></div>
+                                <p style="text-align: justify;">
+                                    <span style="font-weight: bold;">Results on the LFW benchmark: </span>ROC curves
+                                    averaged over 10 folds of View 2 of the LFW data set. Each point on the curve represents
+                                    the average over the 10 folds of (false positive rate, true positive rate) for a
+                                    fixed threshold. The proposed method (single and multiple descriptors) is compared
+                                    to the best algorithms as reported on the <a href="http://vis-www.cs.umass.edu/lfw/results.html">
+                                        LFW results page</a>. These algorithms include the combined Nowak+MERL [14],&nbsp;the
+                                    Nowak method [20], the hybrid method of [27] and as well using our alignment technique
+                                    (Section 4.1), the V1-like/MKL methodof [24] and the recent LMDL/MkNN methods of
+                                    [11]. (u) indicates ROC curve is for the unrestricted setting.</p>
+                                <hr style="width: 100%; height: 2px;">
+                            </blockquote>
+                            <div style="text-align: center;">
+                                <font style="font-size: 9pt;" face="Verdana">Copyright: no material is allowed to be
+                                    copied or used in any way without written permission of the authors.</font><br>
+                                <br>
+                                <font style="font-size: 9pt;" face="Verdana">Last update 22th of Sept, 2009</font><br>
+                                <br>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </center>
+    </div>
+    <br>
+    
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+
+</body></html>

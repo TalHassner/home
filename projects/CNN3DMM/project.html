@@ -1,0 +1,312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural
+        Network </title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network" name="description">
+    <style type="text/css">
+        .style20
+        {
+            width: 550px;
+            margin-left: 0px;
+        }
+        .style49
+        {
+            text-align: center;
+        }
+        .style23
+        {
+            text-align: justify;
+        }
+        .style52
+        {
+            direction: ltr;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <br>
+                    <br>
+                    <h2 style="text-align: center; font-weight: normal">
+                        <strong>Regressing Robust and Discriminative 3D Morphable Models<br>with a very Deep Neural
+                            Network</strong></h2>
+                    <table align="center" style="width: 812px">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4 style="text-align: center">
+                                    <a href="https://sites.google.com/site/anhttranusc/">Anh Tuan Tran</a><sup>1</sup>
+                                </h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="https:://osnathassner.github.io/talhassner/">Tal Hassner</a><sup>2,3</sup>
+                                </h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="http://www-bcf.usc.edu/~iacopoma">Iacopo Masi</a><sup>1</sup>
+                                </h4>
+                            </td>
+                            <td class="style48">
+                                <h4 align="center">
+                                    <a href="http://iris.usc.edu/people/medioni/index.html">Gerard Medioni</a><sup>1</sup></h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                1. <a href="http://iris.usc.edu/iris.html">Institute for Robotics and Intelligent Systems,
+                                    USC, CA, USA</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                2. <a href="http://www.isi.edu/home">Information Sciences Institute, USC, CA, USA</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="style49">
+                                3. <a href="https://www-e.openu.ac.il/">The Open University of Israel</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <img alt="3D reconstruction results" class="style20" longdesc="3D reconstruction results" src="./teaser4.png"><br>
+                    <center>
+                        <blockquote style="text-align: justify; width: 745px;" class="style52">
+                            <strong>Estimating a 3D Morphable Model (3DMM) with a very deep neural network.</strong>
+                            Each row provides 3D shape and textures estimated for two images of the same subject. From left to right: Input image 1, estimated 3D shape 1, estimated 3D shape and texture 1, estimated 3D shape and texture 2, estimated 3D shape 2, Input image 2. Evidently, 3D shapes and textures estimated for different images of the the same subject are similar. 3D shapes and textures estimated for differtent subjects are different.</blockquote>
+                    </center>
+                    <br> 
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                            <span class="style24"><strong>Abstract:</strong></span> The 3D shapes of faces are
+                            well known to be discriminative. Yet despite this, they are rarely used for face
+                            recognition and always under controlled viewing conditions. We claim that this is
+                            a symptom of a serious but often overlooked problem with existing methods for single
+                            view 3D face reconstruction: when applied "in the wild", their 3D estimates are
+                            either unstable and change for different photos of the same subject or they are
+                            over-regularized and generic. In response, we describe a robust method for regressing
+                            discriminative 3D morphable face models (3DMM). We use a convolutional neural network
+                            (CNN) to regress 3DMM shape and texture parameters directly from an input photo.
+                            We overcome the shortage of training data required for this purpose by offering
+                            a method for generating huge numbers of labeled examples. The 3D estimates produced
+                            by our CNN surpass state of the art accuracy on the MICC data set. Coupled with
+                            a 3D-3D face matching pipeline, we show the first competitive face recognition results
+                            on the LFW, YTF and IJB-A benchmarks using 3D face shapes as representations, rather
+                            than the opaque deep feature vectors used by other modern systems.<br>
+                            <br>
+                            <br class="style24" id="paper">
+                            <br>
+                            <br>
+                            <strong>Reference:</strong> Anh Tuan Tran, Tal Hassner, Iacopo Masi and Gerard Medioni,
+                            <em>Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural
+                                Network,</em> arXiv preprint arXiv:1612.04904, 15 Dec. 2016 (<a href="https://arxiv.org/abs/1612.04904">arXiv</a>, <a href="https://www.openu.ac.il/home/hassner/projects/CNN3DMM/BibTeX.txt">BibTex</a>)<br>
+                            <br>
+                            <br>
+                        </div>
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana; direction: ltr;">
+                            <h3 style="text-align: center">
+                                News</h3>
+                            <br>
+                            <strong>Jan, 2017:</strong>
+                            Demo code in Pyton is now available on our <a href="https://www.openu.ac.il/home/hassner/projects/CNN3DMM/#Downloads">downloads 
+                            section</a> below. The code uses our deep network to estimate 3D shape and 
+                            texture parameters of a face appearing in a single unconstrained photo. It 
+                            produces a standard ply file output. If you've downloaded the network model in 
+                            the past, we recommend that you do so again, as we've uploaded a slightly better 
+                            model along with the code.<br>
+                            <br>
+                            <br>
+                            <hr style="width: 90%; height: 2px;">
+                            <h3 style="text-align: center">
+                                FAQ</h3>
+                                <strong>Q: Will you release your network models and code?</strong><br>
+                                A: Yes, 
+                            and they are already online! Please <a href="https://osnathassner.github.io/talhassner/projects/CNN3DMM/#Downloads">see below</a>. More 
+                            code and results are being prepared.<br><br><br>
+
+                                <strong>Q: How do you convert the network output to a 3D representation?</strong><br>
+                                A: The network output is a standard 3DMM representation. Please see 
+                            <a href="https://osnathassner.github.io/talhassner/projects/CNN3DMM/#paper">our paper</a> or any other 
+                            <a href="https://scholar.google.com/scholar?hl=en&amp;q=3D+morphable+face+models">paper on 3DMMs</a> for instructions. 
+                            <a href="https://osnathassner.github.io/talhassner/projects/CNN3DMM/#Downloads">Our distribution</a> includes the data required to map the 3DMM parameters back to a textured 3D representation. Our 
+                            <a href="https://osnathassner.github.io/talhassner/projects/CNN3DMM/#Downloads">demo code</a> shows how to convert the network output to a 
+                            standard textured mesh file (ply format) which can be viewed using standard 3D 
+                            viewers (e.g., 
+                            <a href="http://www.meshlab.net/">MeshLab</a>). We are preparing a revision of 
+                            our code with pose and expression estimation. This update will be available here 
+                            soon.<br><br><br>
+
+                                <strong>Q: Why doesn't your network also 
+                            model expression / pose / lighting / etc.?</strong><br>
+                                A: This project aims to show that 3DMM parameters can be 
+                            <em>discriminative</em> (different representations for different people) and <em>robust</em> (similar representations for the same person under varied viewing conditions). We therefore focused on parameters which reflect identity: 3D shape and texture. A possible next step is indeed to model more of these appearance variations. Note that pose and expression can be estimated directly from facial landmarks as demonstrated, e.g., in 
+                            <a href="https://osnathassner.github.io/talhassner/projects/poses">this project</a>. 
+                            We are preparing a revision of our code with pose and expression estimation. 
+                            This update will be available here soon.<br><br><br>
+
+
+                                <strong>Q: Why do you say that your estimated 3DMM parameters are more robust and discriminative than those estimated by other methods?</strong><br>
+                                A: We measured how well our 3D shape and texture parameters represent faces 
+                            by estimating 3DMM parameters on an unprecedented number of photos in several 
+                            challenging face recognition benchmarks. These include 
+                            <ul>
+                            <li>13,233 images from <a href="http://vis-www.cs.umass.edu/lfw/">LFW</a></li> 
+                            <li>86,120 video frames from the <a href="https://www.cs.tau.ac.il/~wolf/ytfaces/">YTF</a> 
+                                set</li>
+                            <li>24,472 video frames and images from the <a href="https://www.nist.gov/itl/iad/image-group/ijba-dataset-request-form">IJB-A</a></li>
+                            <li>25,784 images and frames from the
+                                <a href="http://www.micc.unifi.it/masi/research/ffd/">MICC</a> data set used to measure 3D reconstruction accuracy</li>
+                            <li>500,000 images from
+                                <a href="http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html">CASIA</a> used to train our network</li>
+                            </ul> 
+                            To our knowledge, this is the first evaluation of 3D face shape estimation methods performed at this scale and under such challenging conditions. These 
+                            tests show our estimates to be substantially better 
+                            in capturing subject specific shapes than the 3DMM estimates obtained by previous methods.<br><br><br>
+                            
+                            <strong>Q: Why are your face recognition results not as high as those reported by other 
+                            face recognition systems?<br> 
+                            </strong>A: Because this is not a face recognition system.<br>
+                            <br>
+                            Specifically, we aim to show that our 3DMM estimates for different unconstrained photos of the same person are more similar to each other than to those of other subjects. 
+                            We do this by testing our estimates on standard face recognition benchmarks. Our goal is 
+                            therefore not to set new face recognition records, but to evaluate how robust 
+                            and discriminative are our 3DMM estimates compared to those produced by previous 
+                            methods. The results obtained with our estimated 3DMM shape and texture 
+                            parameters are the highest we know of, and not much lower than recognition 
+                            results obtained with state of the art face recognition systems using opaque 
+                            features.
+                            <br>
+                            <br>
+                            But if you are interested in a recent state of the art face recognition method, 
+                            please refer to our 
+                            <a href="https://osnathassner.github.io/talhassner/projects/augmented_faces/">related, face recognition project</a>.<br><br><br>
+
+
+                            <strong>Q: Does the network assume that faces are properly aligned / localized in order to produce a shape estimate?</strong><br>
+                            A: In our tests, we used the bounding boxes provided in each data set as the only form of alignment (equivalent to aligning for spatial translation and scale). In particular, we do not require facial landmark detection 
+                            to align the input face. Future versions of our code may use landmark detection 
+                            only for pose and expression estimation.<br><br><br>
+
+                            <strong>Q: But your output is not aligned to the face in the image! How do you compute the 
+                            3D shape's pose?</strong><br>
+                            A: The 6 degree of freedom pose of a 3D face is easy to compute, even for unconstrained images, using standard, off-the-shelf facial landmark detectors such as the one included in the 
+                            <a href="http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html">DLIB package</a>. This was described in our
+                            <a href="https://osnathassner.github.io/talhassner/projects/ViewFaces3D">ICCV'13 paper</a>, MATLAB pseudo code for doing it is available in 
+                            <a href="https://osnathassner.github.io/talhassner/projects/poses">this project webpage</a> 
+                            and the same method is effectively used in our 
+                            <a href="https://osnathassner.github.io/talhassner/projects/frontalize">face frontalization</a> and
+                            <a href="https://osnathassner.github.io/talhassner/projects/augmented_faces">face recognition</a> projects (code available 
+                            for both). 
+                            <br>
+                            Still, if you don't want to implement it yourself, we 
+                            are planing to add this to our Python demo code soon.<br><br><br>
+                            
+                            <strong>Q: How did you get enough data, in particular many 3D face shapes, to train your network?
+                            </strong> <br>
+                            A: Read <a href="https://osnathassner.github.io/talhassner/projects/CNN3DMM/#paper">our paper</a>!<br><br><br>
+
+
+                        </div>
+                        <hr style="width: 90%; height: 2px;">
+                        <div style="text-align: left; font-size: medium; font-family: Verdana; direction: ltr;">
+                            <h3 style="text-align: center" id="Downloads">
+                                Downloads</h3>
+                            <center>
+                                If you find the resources below useful, please reference our paper in your work.
+                            </center>
+                            <br>
+                            <br>
+                            <center>
+                                <a href="https://goo.gl/8OnQKx">1. ResNet-101 deep network for regressing 3DMM shape and texture parameters</a>
+                            </center>
+                            <br>
+                            <p align="justify">
+                                This is a deep network trained to estimate 3DMM parameters for shape and texture
+                                from faces appearing in extreme poses and viewing conditions. The download contains 
+                                all network
+                                parameters and the parameters required to map the network's output 3DMM features back to 3D and texture
+                                representations. Please see our paper for instructions on this process. 
+                            </p>
+                            <br>
+                            <br>
+                            <center>
+                                <a href="https://github.com/anhttran/3dmm_cnn">2. Python code for estimating a 
+                                textured 3D shape using our deep neural network</a>
+                            </center>
+                            <br>
+                            <p align="justify">
+                            An end-to-end demo code that estimates 3D facial shape and texture directly from an unconstrained 2D face image. For a given input image, it produces a standard 
+                                textured 3D mesh file of the face (in ply format). It accompanies the deep network available above and both are required in order 
+                                to run the demo. 
+                            </p>
+                            <br>
+                            <br>
+
+                            <center>
+                                This is an ongoing project and we are continually adding more features, data and
+                                information. Please check this page again for updates.
+                            </center>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            Copyright 2016, Anh Tuan Tran, Tal Hassner, 
+                            Iacopo Masi, and
+                            Gerard Medioni
+                            <br>
+                            <br>
+                            The SOFTWARE provided in this page is provided "as is", without any guarantee made
+                            as to its suitability or fitness for any particular use. It may contain bugs, so
+                            use of this tool is at your own risk. We take no responsibility for any damage of
+                            any sort that may unintentionally be caused through its use.
+                        </div>
+                    </blockquote>
+                    <br>
+                    &nbsp;<hr style="width: 90%; height: 2px;">
+                    <p class="style49">
+                        Last update Jan. 26th, 2017</p>
+                    <p>
+                        &nbsp;</p>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>

@@ -1,0 +1,8 @@
+@inproceedings{LeviHassner2016LATCH,
+  title={{LATCH:} Learned Arrangements of Three Patch Codes},
+  author={Gil Levi and Tal Hassner},
+  booktitle={Winter Conference on Applications of Computer Vision ({WACV})},
+  year={2016},
+  organization={IEEE},
+  url = {https://osnathassner.github.io/talhassner/projects/LATCH}
+}

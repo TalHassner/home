@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>MATLAB 3D Model Renderer</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="OCR-Free Transcript Alignment" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style6
+        {
+            direction: ltr;
+        }
+        .style9
+        {
+            color: #006600;
+        }
+        .style10
+        {
+            text-decoration: underline;
+            color: #0000FF;
+        }
+        .style11
+        {
+            width: 90%;
+            align: center;
+        }
+        .style12
+        {
+            width: 210px;
+            height: 210px;
+        }
+        .style13
+        {
+            width: 240px;
+        }
+        .style14
+        {
+            width: 228px;
+            height: 424px;
+        }
+        .style15
+        {
+            width: 218px;
+        }
+        .style16
+        {
+            width: 230px;
+            height: 431px;
+        }
+        .style17
+        {
+            width: 82px;
+        }
+        .style18
+        {
+            direction: ltr;
+            text-align: justify;
+        }
+        .style19
+        {
+            text-align: justify;
+        }
+        .style20
+        {
+            width: 700px;
+        }
+        .style21
+        {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h1 style="text-align: center; font-weight: normal;">
+                        <strong>MATLAB 3D Model Renderer</strong></h1>
+
+                        <img alt="Example images and depths, rendered in MATLAB" class="style20" longdesc="Example images and depths, rendered in MATLAB" src="./project_files/renderes_and_depths.png"><br>
+                        <blockquote style="text-align: justify">
+
+                            <strong>Figure 1.</strong> Examples of 3D models from the google 3D warehouse, 
+                            rendered in MATLAB along with their (inverse) depth-maps, using the MATLAB 3D 
+                            renderer.</blockquote>
+                    <h3>
+                        What is this?</h3>
+                    <div style="text-align: justify; font-size: default; font-family: Verdana;">
+                        <blockquote style="text-align: justify">
+                                <center>MATLAB function for rendering textured 3D models and computing object 6dof 
+                                    pose</center> 
+                                <div>
+                                <br>
+                                    MATLAB functions which use <a href="http://www.openscenegraph.org/">OpenSceneGraph</a> and 
+                                    <a href="http://opencv.org/">OpenCV</a> for the following:<br>
+                                </div>
+                            <ul>
+                            <li>
+                                Reading standard 3D CG file formats 
+                                into MATLAB (.wrl, .obj, .3ds, etc.)
+                            </li>
+                            <li>
+                                Rendering with camera control using sphere orientation (elevation , azimuth, and yaw) or camera matrix 
+                            </li>
+                            <li>
+                            Results rendered <span class="style21">off-screen</span> and returned as MATLAB matrices. It is therefore suitable for console versions
+                                of MATLAB, as well as batch processing of many views / models
+                            </li>
+                            <li>
+                            Outputs depth map (inverse depth at each pixel) along with rendered views; can be used with the MATLAB 'surf' function. 
+                            </li>
+                            <li class="style6">
+                                Outputs an 'unproject' matrix, linking each pixel with the coordinates the 3D 
+                                surface point projected onto that pixel; it is therefore ideal for calibration / 
+                                pose estimation using a
+                                <a href="https://osnathassner.github.io/talhassner/files/HasserAssifWolf_MVAP13.pdf">
+                                3D model as reference</a>.
+                            </li>
+                            <li>
+                            Along with the 'calib' function, can be used to compute pose from 2D-3D correspondences, and pose-adjust models to images (see below)
+                            </li>
+                                <li>
+                                    3D model caching - repeated rendering of the same model automatically use cached 
+                                    data and do not involve re-loading / reading the CG file</li>
+                            </ul>
+                                
+                                This code was developed by <a href="mailto:liav.assif@gmail.com">Liav Assif</a> 
+                                and <a href="https://osnathassner.github.io/talhassner/">Tal Hassner</a>
+                                and was used in the following papers:
+                    <ul>
+                        <li style="text-align: justify;" class="style1">Tal Hassner, Shai Harel*, Eran Paz* and Roee Enbar, <em>Effective Face Frontalization in Unconstrained Images,</em> IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015 
+                            (<a href="https://osnathassner.github.io/talhassner/projects/frontalize/project.html">Project and code</a>,
+                            <a href="http://arxiv.org/abs/1411.7964">arXiv</a>,
+                            <a href="http://arxiv.org/pdf/1411.7964v1.pdf">PDF</a>)<br>* These author names are in alphabetical order due to equal contribution.</li>
+                    </ul>
+                            <ul>
+                                <li><a href="https://osnathassner.github.io/talhassner/">T. Hassner</a>, Viewing Real-World
+                                    Faces in 3D, International Conference on Computer Vision (ICCV), Sydney, Austraila,
+                                    Dec. 2013 (<a href="http://osnathassner.github.io/talhassner/projects/ViewFaces3D/">project</a>,
+                                    <a href="https://osnathassner.github.io/talhassner/files/HassnerICCV2013.pdf">
+                                        PDF</a>)</li>
+                            </ul>
+                            <ul>
+                                <li><a href="https://osnathassner.github.io/talhassner/">T. Hassner</a>, <a href="mailto:liav.assif@gmail.com">
+                                    L. Assif</a>, and <a href="http://www.cs.tau.ac.il/~wolf/">L. Wolf</a>, When Standard
+                                    RANSAC is Not Enough: Cross-Media Visual Matching with Hypothesis Relevancy, Machine
+                                    Vision and Applications (MVAP), Volume 25, Issue 4, Page 971-983, 2014 (<a href="https://osnathassner.github.io/talhassner/files/HasserAssifWolf_MVAP13.pdf">PDF</a>)</li>
+                            </ul>
+                            <p>
+                                <strong>If you find this code useful, please add suitable references in your work to 
+                                any (or all) of these papers.&nbsp;</strong>
+                                <br>
+                            </p>
+                        </blockquote>
+                    </div>
+                    <hr style="width: 90%; height: 2px;">
+                    <h3>
+                        Code Download</h3>
+                    <blockquote style="text-align: justify" class="style6">
+                    The following files are available for download:
+                    <ul>
+                        <li><a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.2.tar.gz">renderer-1.0.2.tar.gz</a> Linux version of the renderer function (see <a href="https://www.openu.ac.il/home/hassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more)</li>
+                        <li><a href="https://osnathassner.github.io/talhassner/projects/poses/calib.1.0.1.zip">calib.1.0.1.zip</a>, a MATLAB wrapper for the OpenCV calibration function,
+                        used with renderer to adjust the pose of the model rendered using renderer. (see <a href="https://osnathassner.github.io/talhassner/projects/poses/readme.txt">readme</a> for install details, FAQ and more). 
+                            This is the Linux version, in order to use on Windows, see below for the 
+                            Windows, OpenCV binaries.</li>
+                        <li>To help newcomers, we provide pre-compiled versions of the dependent libraries, OpenSceneGraph and Mesa OpenGL 
+                        in <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-pre-compiled-libs.0.0.2.tar.gz">renderer-pre-compiled-libs.0.0.2.tar.gz</a> 
+                        (~58MB). </li>
+                        <li>OpenCV binaries for calib on Windows are also available, in <a href="https://osnathassner.github.io/talhassner/projects/poses/opencv_lib.zip">opencv_lib.zip</a> and 
+                            <a href="https://osnathassner.github.io/talhassner/projects/poses/opencv_bin.zip">opencv_bin.zip</a>. To use these, unpack to two 
+                            separate folders and add these folders to the system PATH before running MATLAB.</li>
+                        <li>
+                        An unofficial 
+                        (and unsupported) OSX port is at  
+                        <a href="https://bitbucket.org/yhacohen/matlab-renderer/">bitbucket.org</a>, with special thanks to 
+                        <strong>Yoav HaCohen</strong>.</li>
+                        <li><strong>Elad Shtivi's</strong> code and <strong>Windows binaries</strong> for the real-time demo, including facial animation (see videos below) is now available from 
+                            <a href="https://github.com/eshtivi/Poses">github</a>.</li>
+                        <li>An unofficial (and unsupported) <strong>Windows port for renderer, with special 
+                            thanks to Chao Yao</strong>: <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.Windows.1.0.0.zip">renderer.Windows.1.0.0.zip</a>. See 
+                            <a href="https://www.openu.ac.il/osnathassner.github.io/talhassner/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt</a> for further 
+                            details. For questions or concerns regarding this Windows version, please
+                            contact <a href="mailto:leonhartyao@gmail.com">Chao Yao</a>. </li>
+                     </ul>
+                        <br>
+                        <strong>What's new</strong>
+                        <br><br>
+                        14th of Apr. 2015<br>
+
+                        Updated version for the Linux version of <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.1.tar.gz">renderer</a>; 
+                        now supports MATLAB 2014b and includes changes to the documentation (previous 
+                        version available below).<br><br>
+                        8th of Feb. 2015<br>
+
+                        <a href="mailto:leonhartyao@gmail.com">Chao Yao</a> has generously provided 
+                        <strong>pre-compiled Windows binaries for the renderer function</strong>, 
+                        along with source files, modified for easy compilation on different Windows platforms 
+                        / MATLAB versions.&nbsp;Code is available in <a href="https://www.openu.ac.il/home/hassner/projects/poses/renderer.Windows.1.0.0.zip">renderer.Windows.1.0.0.zip</a>. 
+                        Please see <a href="https://osnathassner.github.io/talhassner/projects/poses/readme.windows.1.0.0.txt">readme.windows.1.0.0.txt </a>for 
+                        additional information.&nbsp;
+
+                        <br><br>
+                        1st of Dec. 2014<br>
+                        Face frontalization project is 
+                        <a href="https://osnathassner.github.io/talhassner/projects/frontalize/project.html">now online</a>, 
+                        including MATLAB code for synthesizing front-facing views of faces in 
+                        unconstrained images. This project utilizes the calib function as well as data 
+                        produced by the renderer function (though renderer is not required for 
+                        frontalization).
+                        <br>
+&nbsp;<br>
+                        30th of Nov. 2014<br>
+
+                        Added <strong>Windows
+                        </strong>pre-compiled<strong> calib</strong> mex file, as well as OpenCV Windows binaries.
+                        <br>
+
+                        <br>
+                        15th of Sept. 2014<br>
+                        - <strong>Elad Shtivi's</strong> Windows code and binaries for the real-time demo of renderer and calib, including facial animations, is now online from 
+                        <a href="https://github.com/eshtivi/Poses">github</a>. Videos demonstrating some of its capabilities are available on Youtube:<br><br>
+                        <center>
+                        <iframe src="./8-_kW3XITkQ.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
+                        </center>
+                        <br><br>
+                        28 Aug. 2014<br>
+                        - Some basic capabilities of the calib+renderer 
+                        combo, including the addition of facial animation, are demonstrated by <strong>Elad Shtivi</strong> in the following video.<br><br>
+                        <center>
+                        <iframe src="./OvaCBEHa0LE.html" frameborder="0" allowfullscreen="" style="height: 216px; width: 343px"></iframe>
+                        </center>
+                        <br><br>
+                        17 Aug. 20144<br>
+                        - calib-1.0.0. Added OpenCV 2.4 support. Documentation and example update.<br>
+                        - renderer-1.0.1. Added demo.m, with many examples.<br>
+                        - FAQ update with solutions to additional issues.<br>
+                        - Added compile_renderer.m and compile_calib.m functions to help build functions on additional machines.
+                        <br>
+                        <br>
+                        16 July 2014<br>
+
+                        - Added link to <a href="https://bitbucket.org/yhacohen/matlab-renderer/">OSX 
+                        port</a>.<br>
+                        <br>
+
+                        13 July 2014<br>
+                        - Updated renderer code with some bug fixes. New <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> with more information, 
+                        quick start guide, FAQ and more. Example public domain wrl file now included in 
+                        the package.<br>
+                        <br>
+                        17 March 2014<br>
+                        - Pre-complied dependent libraries file now also contains the 
+                        <a href="http://www.coin3d.org/">Coin3D</a> library, required by OpenSceneGraph 
+                        to support some 3D formats. This addition is quite large; the previous version 
+                        of the pre-compiled libraries file can still be downloaded below, in case Coin3D 
+                        is not required. <br>
+                        <br>
+                        1 March 2014<br>
+                        - calib version 0.0.2 containes a few fixes and missing files<br>
+                        <br>
+                        23 Dec. 2013<br>
+                         -
+                         Renderer code no longer depends on OpenCV<br>
+                         -
+                         Pre-compiled dependent libraries are now available.<br>
+                        <br>
+                        <br>
+                        <strong>Previous versions</strong><br>
+                        <li>14 Apr. 2015 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-1.0.1.tar.gz">renderer-1.0.1.tar.gz</a></li>
+                        <li>30 Nov. 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib-1.0.0.tar.gz">calib-1.0.0.tar.gz</a></li>
+                        <li>17 August 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib.0.0.2.zip">calib.0.0.2.zip</a></li>
+                        <li>17 August 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.1.0.0.zip">renderer.1.0.0.zip</a></li>
+                        <li>13 July 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.0.0.2.zip">renderer.0.0.2.zip</a></li>
+                        <li>17 March 2014 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer-pre-compiled-libs.tar.gz">renderer-pre-compiled-libs.tar.gz</a>
+                        </li>
+                            
+                        <li> 23 Dec. 2013 - <a href="https://osnathassner.github.io/talhassner/projects/poses/calib.0.0.1.zip">calib.0.0.1.zip</a></li>
+                            <li>
+                            18 Nov. 2013 - <a href="https://osnathassner.github.io/talhassner/projects/poses/renderer.0.0.1.zip">renderer.0.0.1.zip</a></li>
+                        
+                    </blockquote>
+                    <hr style="width: 90%; height: 2px;">
+                    <h3>
+                        Example usage</h3>
+                    <blockquote class="style18">
+                        See quickstart section in <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a> for installation instructions.
+                        In case of any problems, please see the FAQ, also in <a href="https://osnathassner.github.io/talhassner/projects/poses/READMErenderer.txt">READMErenderer.txt</a>.
+                        <br>
+                        <br>
+                        Example taken from
+                        <a href="http://osnathassner.github.io/talhassner/projects/ViewFaces3D/project.html">Hassner, ICCV'13</a>: 
+                        Rendering a 3D face model to match the
+                        pose of a face appearing in a query photo. Assuming that the code from <span class="style10">
+                            <a href="http://www.ics.uci.edu/~xzhu/face/">www.ics.uci.edu/~xzhu/face/</a></span>
+                        is used for detecting facial features, and a textured 3D model of a face saved as
+                        file 'ref_model.obj'.
+                        <br>
+                        <br>
+                        <br>
+                        <span class="style9">%% STEP 1 - RENDER 3D REFERENCE MODEL, DETECT SPECIFIC FACIAL FEATURES,
+                            GET THEIR 3D COORDINATES ON THE 3D MODEL</span><br class="style9">
+                        <span class="style9">% render</span>
+                        <br>
+                       [refD, refI, refU, outA, outR, outT] = renderer(render_width, render_height, 'ref_model.obj',
+                        0, 1, 1, 0, 0, 0, 'zxy');
+                        <br>
+                        <span class="style9">% detect facial features on the rendered image, code from  </span>
+                        <a href="http://www.ics.uci.edu/~xzhu/face/">www.ics.uci.edu/~xzhu/face/</a><span class="style9">
+                            with modifications to get center of detection window (detect parameters taken from
+                            their code)</span><br>
+                        ref_bs = detect(refI, model, model.thresh);<br>
+                        ref_bs = clipboxes(refI, ref_bs);<br>
+                        ref_bs = nms_face(ref_bs,0.3);<br>
+                        x1 = ref_bs.xy(:,1);<br>
+                        y1 = ref_bs.xy(:,2);<br>
+                        x2 = ref_bs.xy(:,3);<br>
+                        y2 = ref_bs.xy(:,4);<br>
+                        ref_XY = [(x1+x2)/2,(y1+y2)/2];<br>
+                        <span class="style9">% get 3D coordinates of facial features, using the refU map from
+                            image 2D to model 3D</span><br class="style9">
+                        ind = sub2ind([size(refU,1), size(refU,2)], round(ref_XY(:,2)), round(ref_XY(:,1)));<br>
+                        threedee = zeros(numel(ind),3);<br>
+                        tmp = refU(:,:,1);<br>
+                        threedee(:,1) = tmp(ind);<br>
+                        tmp = refU(:,:,2);<br>
+                        threedee(:,2) = tmp(ind);<br>
+                        tmp = refU(:,:,3);<br>
+                        threedee(:,3) = tmp(ind);<br>
+                        <span class="style9">% a bit of sanity</span><br class="style9">
+                        indbad = find(max(threedee,[],2)==0);<br>
+                        threedee(indbad,:)=[];<br>
+                        <br>
+                        <br>
+                        <span class="style9">%% STEP 2 - LOAD QUERY IMAGE, DETECT ITS FACIAL FEATURES</span><br class="style9">
+                        queryI = imread(filen);<br>
+                        img_bs = detect(queryI, model, model.thresh);<br>
+                        img_bs = clipboxes(queryI, img_bs);<br>
+                        img_bs = nms_face(img_bs,0.3);<br>
+                        x1 = img_bs.xy(:,1);<br>
+                        y1 = img_bs.xy(:,2);<br>
+                        x2 = img_bs.xy(:,3);<br>
+                        y2 = img_bs.xy(:,4);<br>
+                        img_XY = [(x1+x2)/2,(y1+y2)/2];<br>
+                        img_XY(indbad,:)=[];<br>
+                        <br>
+                        <br>
+                        <span class="style9">%% STEP 3 - COMPUTE POSE USING REFERENCE 3D POINTS + QUERY 2D POINTS,
+                            AND RE-RENDER</span><br class="style9">
+                        <span class="style9">% Estimate pose</span><br class="style9">
+                       [est_A,est_R,est_T]=doCalib(size(refU,2),size(refU,1),img_XY,threedee,outA,[],[]);<br>
+                        <span class="style9">% re-render reference to the same pose as query. Note the 
+                        change in input and output parameters vs. the previous call. Also note that the 
+                        model file is not reloaded and a cached version is used instead.</span><br class="style9">
+                        [refD, refI, unproject_est] = renderer(render_width, 
+                        render_height, 'ref_model.obj',
+                        0, 1, est_A, est_R, est_T); 
+                        <br>
+                        <br>
+                        <br>
+                        <center>
+                            <table class="style11">
+                                <tbody><tr>
+                                    <td class="style13">
+                                        <img alt="Query" class="style12" src="./project_files/query_a.png">
+                                    </td>
+                                    <td class="style15">
+                                        <img alt="Detected points" class="style14" src="./project_files/detect_a.png">
+                                    </td>
+                                    <td class="style17">
+                                        <img alt="Pose adjusted output" class="style16" src="./project_files/adjusted_a.png">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="style13" align="left" valign="top">
+                                        (a) A query photo (from the  <a href="http://vis-www.cs.umass.edu/lfw/">LFW</a> collection)
+                                    </td>
+                                    <td class="style13" align="left" valign="top">
+                                        (b) <a href="http://www.ics.uci.edu/~xzhu/face/">Facial feature detection</a> on the query
+                                        and the rendered reference in frontal pose
+                                    </td>
+                                    <td class="style13" align="left" valign="top">
+                                        (c) Output, pose adjusted reference, along with depth-map
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="justify" valign="top" colspan="3">
+                                            <br>
+                                            <strong>Figure 2. Illustrating the example code above.</strong> Using a reference
+                                        3D model from the USF. DARPA Human-ID 3D Face Database. Detected features on the
+                                        query image (red points), are matched to the same detections on the reference image
+                                        (yellow points). The 'unproject' matrix refU is then used to provide each 2D point
+                                        on the reference image, its corresponding 3D point on the 3D reference model, in
+                                        the model coordinate system. From these 2D-3D correspondences, a camera matrix is
+                                        obtained and renderer used again to render a pose adjusted reference image and corresponding
+                                        depth map.
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </center>
+                        <br>
+                        <hr style="width: 90%; height: 2px;">
+                        <center><strong>Copyright and disclaimer</strong></center>
+                        <div class="style19">
+                        <br>
+                        <br>
+                        Copyright 2013, Liav Assif and Tal Hassner 
+                        <br>
+                        <br>
+                        The SOFTWARE
+                        ("renderer" and \ or "calib") is provided "as is", without any guarantee made as
+                        to its suitability or fitness for any particular use. It may contain bugs, so use
+                        of this tool is at your own risk. We take no responsibility for any damage that
+                        may unintentionally be caused through its use. 
+                            The code makes use of the <a href="http://opencv.org/">OpenCV</a> and the
+                            <a href="http://www.openscenegraph.org/">OpenSceneGraph</a> libraries. Any use 
+                            of this code must respect their respective licenses.<br>
+                            <br>
+                        </div>
+                        <hr style="width: 90%; height: 2px;">
+                    </blockquote>
+                        <center class="style6">
+                            Last update 
+                            14th of Apr. 2015</center>
+                        <p>
+                            &nbsp;</p>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>

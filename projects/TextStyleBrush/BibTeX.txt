@@ -1,0 +1,10 @@
+@ARTICLE{Krishnan:2023:TextStyleBrush,
+  author={Krishnan, Praveen and Kovvuri, Rama and Pang, Guan and Vassilev, Boris and Hassner, Tal},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={TextStyleBrush: Transfer of Text Aesthetics from a Single Example},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  URL = {\url{https://talhassner.github.io/home/publication/2023_TPAMI}}
+}

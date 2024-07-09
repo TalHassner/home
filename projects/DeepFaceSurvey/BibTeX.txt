@@ -1,0 +1,8 @@
+@inproceedings{Masietal:2018:deepfacesurvey,
+ author    = {Iacopo Masi and Yue Wu and Tal Hassner and Prem Natarajan},
+ title     = {Deep Face Recognition: A Survey},
+ booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
+ month	=  {October},
+ year 	= {2018},
+ URL 	= {\url{https://talhassner.github.io/home/publication/2018_SIBGRAPI}}
+}

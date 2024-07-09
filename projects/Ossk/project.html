@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>The One-Shot Similarity Kernel</title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="The One-Shot Similarity Kernel" name="description">
+</head>
+<body style="background-color: rgb(0, 0, 0);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <center>
+            <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); border-collapse: collapse;
+                width: 899px; height: 1343px;" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0">
+                <tbody>
+                    <tr>
+                        <td style="width: 100%;">
+                            <p align="center">
+                                <font style="font-size: 9pt;" face="Verdana">&nbsp;</font></p>
+                            <h1 style="text-align: center; font-weight: normal; font-family: helvetica,arial,sans-serif;">
+                                The One-Shot Similarity Kernel</h1>
+                            <p align="center">
+                                <font face="Verdana" size="2"><a href="http://www.cs.tau.ac.il/~wolf/">Lior Wolf</a><sup>1</sup>
+                                    &nbsp;&nbsp; <a href="../../">Tal Hassner</a></font><small><sup><span style="font-family: Verdana;">2</span></sup></small><font face="Verdana" size="2"> &nbsp;&nbsp;
+                                            Yaniv Taigman</font><font face="Verdana" size="2"><sup>1,3</sup></font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">1. The School of Computer Science,
+                                    <br>
+                                    Tel-Aviv University, Israel</font></p>
+                            <p align="center">
+                                <font face="Verdana" size="2">2. Computer Science Division<br>
+                                    The Open University of Israel<br>
+                                </font>
+                            </p>
+                            <p align="center">
+                                <font face="Verdana" size="2">3. face.com,
+                                    <br>
+                                    Tel-Aviv, Israel<br>
+                                </font>
+                            </p>
+                            <p align="center">
+                                &nbsp;</p>
+                            <blockquote>
+                                <div style="text-align: justify;">
+                                </div>
+                                <div style="text-align: justify;">
+                                    <big><font style="font-size: 9pt;" face="Verdana"><b>Abstract</b>:</font><b><font style="font-size: 9pt;" face="Verdana"> </font></b><font style="font-size: 9pt;" face="Verdana">The One-Shot similarity measure has recently been introduced in the
+                                            context of face recognition where it was used to produce state-of-the-art results.
+                                            Given two vectors, their One-Shot similarity score reflects the likelihood of each
+                                            vector belonging in the same class as the other vector and not in a class defined
+                                            by a fixed set of "negative" examples. The potential of this approach has thus far
+                                            been largely unexplored. In this paper we analyze the One-Shot score and show that:
+                                            (1) when using a version of LDA as the underlying classifier, this score is a Conditionally
+                                            Positive Definite kernel and may be used within kernel-methods (e.g., SVM), (2)
+                                            it can be efficiently computed, and (3) that it is effective as an underlying mechanism
+                                            for image representation. We further demonstrate the effectiveness of the One-Shot
+                                            similarity score in a number of applications including multi-class identification
+                                            anddescriptor generation. </font></big>
+                                </div>
+                                <p>
+                                    <big><font style="font-size: 9pt;" face="Verdana"><b>Reference</b>:&nbsp; </font></big>
+                                    <small><font face="Tahoma">Lior Wolf, Tal Hassner, and Yaniv Taigman, <span style="font-style: italic;">
+                                        "The One-Shot Similarity Kernel</span>," IEEE International Conference on Computer
+                                        Vision&nbsp;<font face="Tahoma"> (ICCV), Sept. 2009</font></font><font style="font-size: 9pt;" face="Verdana">.</font></small></p>
+                                <font style="font-size: 9pt; font-weight: bold;" face="Verdana"><a href="./WolfHassnerTaigman_ICCV09.pdf">
+                                    Click here for the </a><a href="./WolfHassnerTaigman_ICCV09.pdf">PDF</a> <span style="color: red;">
+                                        (Note - Extended version!)</span></font><big style="font-weight: bold;"><font style="font-size: 9pt;" face="Verdana"><br>
+                                        </font></big>
+                                <br style="font-weight: bold;">
+                                <a style="font-weight: bold;" href="./BibTeX.txt"><font style="font-size: 9pt;" face="Verdana">
+                                    Click here for the BibTex</font></a>
+                                <hr style="width: 100%; height: 2px;">
+                                <b><font style="font-size: 9pt;"><big>Related publications:</big></font></b>
+                                <p style="margin-left: 40px;">
+                                    <b><font style="font-size: 9pt;"><big><a href="../multishot/project.html">
+                                        Multiple One-Shots for Utilizing Class Label Information</a></big></font></b></p>
+                                <p style="margin-left: 40px;">
+                                    <b><font style="font-size: 9pt;"><big><a href="../Patchlbp/project.html">
+                                        Descriptor Based Methods in the Wild</a></big></font></b></p>
+                                <div style="text-align: center;">
+                                    <span style="color: rgb(255, 0, 0); font-weight: bold;"></span><span style="font-weight: bold;">
+                                    </span>
+                                    <div style="text-align: left;">
+                                        <hr style="width: 100%; height: 2px;">
+                                        <h3 style="text-align: center;">
+                                            MATLAB Code for the LDA based One-Shot Similarity Measure</h3>
+                                        Below please find MATLAB code for computing the One-Shot Similarity score using
+                                        LDA as an underlying classifier. Please report any bugs or problems to <a href="mailto:talhassner@gmail.com">
+                                            talhassner@gmail.com</a>.<br>
+                                        <br>
+                                        Type "help oss_lda_sA_from_xsn" or "help oss_lda_score" for more information on
+                                        each of these functions.<br>
+                                        <br>
+                                        A typical usage would look something like this:<br>
+                                        <br>
+                                        <div style="margin-left: 40px; font-family: monospace;">
+                                            &gt;&gt; &nbsp;&nbsp;&nbsp; sA = oss_lda_sA_from_xsn(XSN);<br>
+                                            &gt;&gt; &nbsp;&nbsp;&nbsp; Score1 = oss_lda_score(x1,x2,sA);<br>
+                                            &gt;&gt; &nbsp;&nbsp;&nbsp; Score2 = oss_lda_score(x2,x1,sA);<br>
+                                            &gt;&gt; &nbsp;&nbsp;&nbsp; Score = (Score1 + Score2)./2;</div>
+                                        <br>
+                                        Score is then the symmetric One-Shot Similarity of the two vectors x1 and x2.
+                                        <br>
+                                        <h4>
+                                            Downloads:</h4>
+                                        <a href="./oss_lda_sA_from_xsn.m">oss_lda_sA_from_xsn.m</a><br>
+                                        <a href="./oss_lda_score.m">oss_lda_score.m</a><br>
+                                        <h4>
+                                            Copyright and disclaimer:
+                                            <br>
+                                        </h4>
+                                        Copyright 2009, Lior Wolf, Tal Hassner, and Yaniv Taigman<br>
+                                        <br>
+                                        </div>
+                                </div>
+                                <hr style="width: 100%; height: 2px;">
+                                <span style="font-family: Verdana;"></span>
+                                <div style="text-align: center;">
+                                    <font style="font-size: 9pt;" face="Verdana">Copyright: no material is allowed to be
+                                        copied or used in any way without written permission of the authors.<br>
+                                        Last update&nbsp;</font><font style="font-size: 9pt;" face="Verdana">22th of July, 2009</font><br>
+                                </div>
+                            </blockquote>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </center>
+    </div>
+    <br>
+
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+
+</body></html>

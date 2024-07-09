@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Data"
+    url: /benchmarks/    
+
+  - title: "Code"
+    url: /code/    
+    
+  - title: "Students"
+    url: /students/
+    
+  - title: "Media / Videos"
+    url: /media/
+    

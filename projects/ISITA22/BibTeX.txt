@@ -1,0 +1,7 @@
+@inproceedings{Nguyen2022Generalization,
+      title={Generalization Bounds for Deep Transfer Learning Using Majority Predictor Accuracy}, 
+      author={Cuong N.Nguyen and Lam Si Tung Ho and Vu Dinh and Tal Hassner and Cuong V.Nguyen},
+      booktitle={International Symposium on Information Theory and Its Applications (ISITA)},
+      year={2022}
+      
+}

@@ -1,0 +1,10 @@
+@article{HFMZM:TPAMI:SIFTing,
+ author    = {Tal Hassner and Shay Filosof and Viki Mayzels and Lihi Zelnik-Manor},
+ title     = {SIFTing through Scales},
+ journal = {Trans. on Pattern Analysis and Machine Intelligence},
+ year={2017}, 
+ volume={39}, 
+ number={7}, 
+ pages={1431-1443},
+ URL 	= {https:://osnathassner.github.io/talhassner/projects/siftscales}
+}

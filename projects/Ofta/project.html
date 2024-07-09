@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0051)https://www.openu.ac.il/home/hassner/projects/Ofta/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+    
+    <title>OCR-Free Transcript Alignment </title>
+    <meta content="Tal Hassner" name="author">
+    <meta content="OCR-Free Transcript Alignment" name="description">
+    <style type="text/css">
+        .style5
+        {
+            font-family: Verdana;
+        }
+        .style19
+        {
+            font-size: small;
+            font-weight: bold;
+        }
+        .style23
+        {
+            direction: ltr;
+            text-align: justify;
+        }
+        .style24
+        {
+            font-size: medium;
+        }
+        .style25
+        {
+            font-size: medium;
+            font-weight: bold;
+        }
+        .style27
+        {
+            width: 833px;
+        }
+        .style46
+        {
+            font-size: small;
+        }
+        .style48
+        {
+            width: 277px;
+            text-align: center;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .style49
+        {
+            width: 277px;
+            text-align: center;
+            font-style: italic;
+        }
+        .style51
+        {
+            width: 508px;
+        }
+    </style>
+</head>
+<body style="background-color: rgb(30, 30, 30);">
+    <p>
+        &nbsp;</p>
+    <div align="center">
+        <table id="AutoNumber2" style="background-color: rgb(238, 238, 238); width: 899px;
+            height: 899px;" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td style="width: 100%; font-family: Verdana; text-align: center;">
+                    <h1 style="text-align: center; font-weight: normal;" class="style5">
+                        &nbsp;</h1>
+                    <h1 style="text-align: center; font-weight: normal;">
+                        <strong>OCR-Free Transcript Alignment</strong></h1>
+                    <table align="center" class="style27">
+                        <tbody><tr>
+                            <td class="style48">
+                                <h4>
+                                    <a href="https://www.openu.ac.il/home/hassner/" style="text-align: center">Tal Hassner</a></h4>
+                            </td>
+                            <td class="style48">
+                                <h4>
+                                    <a href="http://www.cs.tau.ac.il/~wolf/">Lior Wolf</a></h4>
+                            </td>
+                            <td class="style48">
+                                <h4>
+                                    <a href="http://www.cs.tau.ac.il/~nachum/">Nachum Dershowitz</a></h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="style49">
+                                The Open University of Israel
+                            </td>
+                            <td class="style49">
+                                Tel-Aviv University
+                            </td>
+                            <td class="style49">
+                                Tel-Aviv University
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: medium; font-family: Verdana;">
+                            <span class="style24"><strong>Abstract</strong>:</span> Recent large-scale digitization
+                            and preservation efforts have made images of original manuscripts, accompanied by
+                            transcripts, commonly available. An important challenge, for which no practical
+                            system exists, is that of aligning transcript letters to their coordinates in manuscript
+                            images. Here we propose a system that directly matches the image of a historical
+                            text with a synthetic image created from the transcript for the purpose. This, rather
+                            than attempting to recognize individual letters in the manuscript image using optical
+                            character recognition (OCR). Our method matches the pixels of the two images by
+                            employing a dedicated dense flow mechanism coupled with novel local image descriptors
+                            designed to spatially integrate local patch similarities. Matching these pixel representations
+                            is performed using a message passing algorithm. The various stages of our method
+                            make it robust with respect to document degradation, to variations between script
+                            styles and to non-linear image transformations. Robustness, as well as practicality
+                            of the system, are verified by comprehensive empirical experiments.<br>
+                            <br class="style24">
+                            <big><span class="style25">Reference</span><span class="style24">:&nbsp; </span>
+                            </big><font face="Tahoma">T. Hassner, L. Wolf, and N. Dershowitz, <em>OCR-Free Transcript
+                                Alignment,</em> International Conference on Document Analysis and Recognition (ICDAR),
+                                Washington DC, August 2013</font><font class="style19">
+                                    <br>
+                                    <br>
+                                </font><font class="style46"><a href="https://www.openu.ac.il/home/hassner/projects/Ofta/ofta_online.pdf">
+                                    Click here for the PDF</a></font><font class="style19"><font class="style46"><br>
+                                    </font></font><font class="style46"><span class="style46"><a href="https://www.openu.ac.il/home/hassner/projects/Ofta/BibTeX.txt">Click
+                                        here for the BibTex</a></span></font>
+                            <br>
+                        </div>
+                    </blockquote>
+                    <div style="font-size: medium; font-family: Verdana;">Updates and code available soon!</div><br>
+                    <hr style="width: 90%; height: 2px;">
+                    <img alt="System flow" class="style51" longdesc="The stages of the proposed method" src="./project_files/system_flow.jpg"><br>                    
+                    <blockquote class="style23">
+                        <div style="text-align: justify; font-size: small; font-family: Verdana;">
+                        <strong>The stages of the proposed dense-flow method</strong>. (a) Our input is a historical manuscript
+                        image, along with a line-by-line transcript of the text. (b, left) Each manuscript
+                        line is binarized, horizontally projected and trimmed; (b, right) the matching transcript
+                        line is rendered using an appropriate font to produce a matching reference image.
+                        (c) FPLBP codes [Wolf, Hassner, and Taigman, ECCVw, 2008] are produced for the two images (shown color
+                        coded). (d) Each pixel is represented by a 16-valued, weighted histogram of the
+                        FPLBP codes in its elongated neighborhood. A SIFT flow [Liu, Yuen, and Torralba, TPAMI 2011] variant
+                        is then applied to form dense correspondences between these representations in the
+                        two views. (e) The output flow (color coded) assigns a matching pixel from the rendered
+                        image, along with its known character label, to each pixel in the manuscript line
+                        image.</div></blockquote>                    
+                    <hr style="width: 90%; height: 2px;">
+                    <p>
+                        Last update 19th of Aug., 2013</p>
+                    <p>
+                        &nbsp;</p>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	catch (e) {}
+	-->
+</script><script src="./project_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	try 
+	{
+		var pageTracker = _gat._getTracker("UA-4552874-1");
+		pageTracker._setDomainName("www.openu.ac.il");
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+	} 
+	catch (e) {}
+	-->
+</script>
+
+
+
+</body></html>

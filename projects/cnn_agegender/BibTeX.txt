@@ -1,0 +1,8 @@
+@inproceedings{LH:CVPRw15:age,
+ author    = {Gil Levi and Tal Hassner},
+ title     = {Age and Gender Classification Using Convolutional Neural Networks},
+ booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) workshops},
+ month	=  {June},
+ year 	= {2015},
+ URL 	= {\url{https://osnathassner.github.io/talhassner/projects/cnn_agegender}}
+}

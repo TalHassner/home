@@ -1,0 +1,8 @@
+@inproceedings{Hassneretal:SISM12,
+ author    = {T. Hassner, Y. Itcher, and O. Kliper-Gross},
+ title     = {Violent Flows: Real-Time Detection of Violent Crowd Behavior},
+ booktitle = {3rd IEEE International Workshop on Socially Intelligent Surveillance and Monitoring (SISM) at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+ month	=  {June},
+ year 	= {2012},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/violentflows/}
+}

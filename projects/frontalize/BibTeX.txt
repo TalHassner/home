@@ -1,0 +1,8 @@
+@inproceedings{HHPE:CVPR15:frontalize,
+ author    = {Tal Hassner and Shai Harel and Eran Paz and Roee Enbar},
+ title     = {Effective Face Frontalization in Unconstrained Images},
+ booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+ month	=  {June},
+ year 	= {2015},
+ URL 	= {\url{https://osnathassner.github.io/talhassner/projects/frontalize}}
+}

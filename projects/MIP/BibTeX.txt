@@ -1,0 +1,8 @@
+@inproceedings{K-GGHW:ECCV12:MIP,
+ author    = {Orit~Kliper-Gross and Yaron~Gurovich and Tal~Hassner and Lior~Wolf},
+ title     = {Motion Interchange Patterns for Action Recognition in Unconstrained Videos},
+ booktitle = {European Conference on Computer Vision ({ECCV})},
+ month	=  {Oct.},
+ year 	= {2012},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/MIP}
+}

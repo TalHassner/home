@@ -1,0 +1,8 @@
+@inproceedings{HWD:ICDAR13:OFTA,
+ author    = {Tal Hassner and Lior Wolf and Nachum Dershowitz},
+ title     = {{OCR}-Free Transcript Alignment},
+ booktitle = {International Conference on Document Analysis and Recognition ({ICDAR})},
+ month	=  {Aug.},
+ year 	= {2013},
+ URL 	= {https://osnathassner.github.io/talhassner/projects/Ofta}
+}

@@ -1,0 +1,8 @@
+@inproceedings{Sepahvand:miccaiW18:CNN,
+ author    = {Nazanin Mohammadi Sepahvand and Tal Hassner and Douglas L. Arnold and Tal Arbel},
+ title     = {{CNN} Prediction of Future Disease Activity for Multiple Sclerosis Patients from Baseline {MRI} and Lesion Labels},
+ booktitle = {International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) workshops},
+ month	=  {Sept.},
+ year 	= {2018},
+ URL 	= {https://talhassner.github.io/home/publications/2018_MICCAIw}
+}
