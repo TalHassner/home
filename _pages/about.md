@@ -12,15 +12,19 @@ redirect_from:
 
 Co-founder and CTO of WEIR AI, ex Meta AI senior applied research lead, ex AWS principal scientist. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
 
-My work is mostly related to <b>Computer Vision</b> and <b>Machine Learning</b>. Much of my work relates to <b>digital face processing</b>, including <b>face recognition</b>, facial attribute prediction, face alignment, and 3D reconstruction of face shapes. I also worked on problems related to <b>text image processing (OCR), human action recognition in videos, dense correspondence estimation, feature representation and matching</b>, and more.
-
 I am associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
 Community roles include general co-chair for the [CVF/IEEE Winter Conf. on Applications of Computer Vision](https://wacv2024.thecvf.com/) (WACV), Waikoloa Village, Hawaii, USA, 2024, program co-chair for the [European Conference on Computer Vision](https://eccv2022.ecva.net/) (ECCV), Tel-Aviv, Israel, 2022, the [IEEE/CVF International Conference on Computer Vision](http://iccv2021.thecvf.com/home) (ICCV), Montreal, CA, 2021, and the [IEEE Winter Conf. on Applications of Computer Vision](http://wacv18.wacv.net/) (WACV), Lake Tahoe, NV/CA, USA, 2018.
 
 ### Events and News
 
-- 12-Apr-2024: **Co-organizer** at the [Unlearning and Model Editing (U&ME'24)](https://sites.google.com/view/u-and-me-workshop/) at ECCV'24, Milano, Italy, Oct 2024.
+- 12-Apr-2024: **Co-organizer** at the [2nd Unlearning and Model Editing (U&ME'25)](https://sites.google.com/view/u-and-me-workshop/) at ICCV'24, Honolulu, USA, Oct 2024.
+
+- 7-May-2025: **Invited Speaker** at the [Workshop on Unmasking (Truly) Deepfakes](https://idiap.ch/~kkotwal/cai.html) at IEEE-CAI'25, Santa Clara, Ca, USA, 2025.
+
+- 5-May-2025: **Outstanding associate editor** award for 2024, awarded by the [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM)
+
+- 12-Apr-2024: **Co-organizer** at the [1st Unlearning and Model Editing (U&ME'24)](https://sites.google.com/view/u-and-me-workshop/eccv-2024?authuser=0) at ECCV'24, Milano, Italy, Oct 2024.
 
 - 1-Jan-2024: **Co-organizer** at the [2nd Workshop and Challenge on DeepFake Analysis and Detection (DFDA2024)](https://www.dfad.unimore.it/) at CVPR'24, Seattle WA, USA, June 2024.
 
