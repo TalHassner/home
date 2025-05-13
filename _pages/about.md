@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Co-founder and CTO of WEIR AI, ex Meta AI senior applied research lead, ex AWS principal scientist. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
+Co-founder and CTO of [WEIR AI](https://www.weir.ai/), ex Meta AI senior applied research lead, ex AWS principal scientist. I am also affiliated with The Open University of Israel, Department of Mathematics and Computer Science where I was an associate professor until 2018. From 2015 to 2018, I was a senior computer scientist at the Information Sciences Institute (ISI) and a Visiting Associate Professor at the Institute for Robotics and Intelligent Systems, Viterbi School of Engineering, both at USC, CA, USA, working on the IARPA Janus face recognition project.
 
 I am associate editor for IEEE [Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami) (IEEE-TPAMI) and IEEE [Transactions on Biometrics, Behavior, and Identity Science](http://tbiom.ieee-biometrics.org/index.html) (T-BIOM). I was also associate editor for Springer [The Visual Computer Journal](https://link.springer.com/journal/371) (TVCJ),
 
