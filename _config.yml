@@ -51,7 +51,6 @@ atom_feed:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
@@ -91,8 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
-  google_plus      :
+  github           :
   keybase          :
   instagram        :
   lastfm           :
@@ -103,8 +101,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
-  vine             :
+  twitter          :
   weibo            :
   xing             :
   youtube          :
@@ -269,8 +266,8 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (note: 'gems' is deprecated, use 'plugins')
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
