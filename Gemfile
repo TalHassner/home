@@ -18,10 +18,13 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# added by Tal to remove security warning:
-# gem 'nokogiri', '~> 1.8.1'
-# updated by Tal on 25.11.19:
-gem nokogiri ~> 1.10.4
+# Security updates - updated by Claude Code on 2026-02-18:
+# Nokogiri: Updated to fix multiple CVEs (CVE-2024-40896, CVE-2024-34459, CVE-2025-*)
+gem "nokogiri", ">= 1.16.0"
+# Kramdown: Updated to fix CVE-2020-14001 (Critical RCE vulnerability)
+gem "kramdown", ">= 2.3.0"
+# ActiveSupport: Updated to fix CVE-2023-22796, CVE-2023-28120, CVE-2023-38037
+gem "activesupport", ">= 7.0.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

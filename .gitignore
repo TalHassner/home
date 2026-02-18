@@ -1,2 +1,26 @@
 _site/
+.claude/
+.gitignore
+CLAUDE.md
+(benched)/
 
+# macOS metadata files
+.DS_Store
+**/.DS_Store
+
+# Node modules and dependencies
+node_modules/
+package-lock.json
+
+# Bundler cache
+.bundle/
+vendor/
+
+# Jekyll cache
+.jekyll-cache/
+.jekyll-metadata
+
+# Backup files
+*~
+*.bak
+*.swp
