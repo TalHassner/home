@@ -18,7 +18,7 @@ Community roles include general co-chair for the [CVF/IEEE Winter Conf. on Appli
 
 ### Events and News
 
-- 12-Apr-2025: **Co-organizer** at the [2nd Unlearning and Model Editing (U&ME'25)](https://sites.google.com/view/u-and-me-workshop/) at ICCV'24, Honolulu, USA, Oct 2025.
+- 12-Apr-2025: **Co-organizer** at the [2nd Unlearning and Model Editing (U&ME'25)](https://sites.google.com/view/u-and-me-workshop/) at ICCV'25, Honolulu, USA, Oct 2025.
 
 - 7-May-2025: **Invited Speaker** at the [Workshop on Unmasking (Truly) Deepfakes](https://idiap.ch/~kkotwal/cai.html) at IEEE-CAI'25, Santa Clara, Ca, USA, 2025.
 
